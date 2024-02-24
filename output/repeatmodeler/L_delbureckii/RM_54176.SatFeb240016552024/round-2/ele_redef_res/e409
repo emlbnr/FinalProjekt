@@ -1,0 +1,8 @@
+frag gi|38 5647 5786
+img_no 1
+flimg_no 1
+edge_no 1
+msp 241 p 330 79.0 -1 1 gi|1 2061 2203 409 gi|38 5647 5786
+edge 0 p -1 79 1 409
+pcp 5647 1
+pcp 5786 1

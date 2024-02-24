@@ -1,0 +1,535 @@
+BLASTX 2.14.1+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+
+Database: /Users/distiller/project/miniconda/conda-
+bld/repeatmasker_1587641299175/_h_env_placehold_placehold_placehold_
+placehold_placehold_placehold_placehold_placehold_placehold_placehol
+d_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+old_placeh/share/RepeatMasker/Libraries/RepeatPeps.lib
+           18,011 sequences; 16,150,283 total letters
+
+
+
+Query= rnd-1_family-0 ( RepeatScout Family Size = 26, Final Multiple
+Alignment Size = 26, Localized to 1 out of 1 contigs )
+
+Length=201
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+UN-MVV_env#LTR/Gypsy env [Visna virus]                                27.7    0.66 
+Tx1-11_BF_pol#LINE/L1-Tx1 RBRM:Tx1-11_BF cds_range:2086-5887 [Bra...  26.9    1.3  
+Proto2-1_SPur_gag#LINE/Proto2 RBRM:Proto2-1_SPur cds_range:463-34...  26.6    1.8  
+Copia-18_BG#LTR/Copia RBRM:Copia-18_BG-I cds_range:77-4535 61.8% ...  26.2    2.1  
+Mariner-66_CCri_tp#DNA/TcMar-Fot1 RBRM:Mariner-66_CCri cds_range:...  26.2    2.5  
+hAT-15_CPB_tp#DNA/hAT-Tip100 RBRM:hAT-15_CPB cds_range:452-2999 [...  24.3    9.5  
+
+
+>UN-MVV_env#LTR/Gypsy   env [Visna virus]
+Length=982
+
+ Score = 27.7 bits (60),  Expect = 0.66, Method: Composition-based stats.
+ Identities = 10/21 (48%), Positives = 12/21 (57%), Gaps = 0/21 (0%)
+ Frame = +1
+
+Query  103  NAIPPFWSASTRASAPRNGSR  165
+            N  PP+WSA    S   NG+R
+Sbjct  370  NGTPPYWSARINGSTGINGTR  390
+
+
+>Tx1-11_BF_pol#LINE/L1-Tx1 RBRM:Tx1-11_BF cds_range:2086-5887 
+[Branchiostoma floridae]
+Length=1267
+
+ Score = 26.9 bits (58),  Expect = 1.3, Method: Composition-based stats.
+ Identities = 9/19 (47%), Positives = 13/19 (68%), Gaps = 0/19 (0%)
+ Frame = +1
+
+Query  103   NAIPPFWSASTRASAPRNG  159
+             +AIPPFW A  + ++P  G
+Sbjct  1028  SAIPPFWKAKLKLNSPSLG  1046
+
+
+>Proto2-1_SPur_gag#LINE/Proto2 RBRM:Proto2-1_SPur cds_range:463-3478 
+Oversized. Contains at least a triplication of one domain. 
+pol ORF starts at 3226, so last 100 AA or so are probably 
+overextended. [Strongylocentrotus purpuratus]
+Length=1005
+
+ Score = 26.6 bits (57),  Expect = 1.8, Method: Composition-based stats.
+ Identities = 10/25 (40%), Positives = 18/25 (72%), Gaps = 1/25 (4%)
+ Frame = +1
+
+Query  118  FWSASTRASAPRNGSRPPXKAKSAP  192
+            +W+++T+ S PR G+RP  ++K  P
+Sbjct  685  WWNSTTKCSPPR-GNRPSGQSKKTP  708
+
+
+>Copia-18_BG#LTR/Copia RBRM:Copia-18_BG-I cds_range:77-4535 61.8% 
+sim to Copia-8_BRa, SW:1209 [Blumeria graminis]
+Length=1486
+
+ Score = 26.2 bits (56),  Expect = 2.1, Method: Composition-based stats.
+ Identities = 11/27 (41%), Positives = 16/27 (59%), Gaps = 0/27 (0%)
+ Frame = +1
+
+Query  112  PPFWSASTRASAPRNGSRPPXKAKSAP  192
+            PPF +A T+    RN S+   ++ SAP
+Sbjct  516  PPFCNACTQGKMTRNPSKEKMRSVSAP  542
+
+
+>Mariner-66_CCri_tp#DNA/TcMar-Fot1 RBRM:Mariner-66_CCri cds_range:360-2031 
+[Chondrus crispus]
+Length=557
+
+ Score = 26.2 bits (56),  Expect = 2.5, Method: Compositional matrix adjust.
+ Identities = 16/44 (36%), Positives = 21/44 (48%), Gaps = 2/44 (5%)
+ Frame = -1
+
+Query  180  GLXRRSTSVSRG*CPSRRAPKRRNG--VGAXPFILXVXRXXSPL  55
+            G  R ST ++R   P +RAPK +N   V   P I       +PL
+Sbjct  186  GTNRMSTYITRHTLPQQRAPKFKNVKRVTIMPVIFANGDTANPL  229
+
+
+>hAT-15_CPB_tp#DNA/hAT-Tip100 RBRM:hAT-15_CPB cds_range:452-2999 
+[Chrysemys picta bellii]
+Length=849
+
+ Score = 24.3 bits (51),  Expect = 9.5, Method: Composition-based stats.
+ Identities = 9/16 (56%), Positives = 12/16 (75%), Gaps = 0/16 (0%)
+ Frame = -2
+
+Query  161  LPFRGADARVDALQNG  114
+            LPFRG++    +LQNG
+Sbjct  282  LPFRGSNDTFGSLQNG  297
+
+
+
+Lambda      K        H        a         alpha
+   0.316    0.134    0.421    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 400707632
+
+
+Query= rnd-1_family-1 ( RepeatScout Family Size = 25, Final Multiple
+Alignment Size = 25, Localized to 1 out of 1 contigs )
+
+Length=369
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Copia-1_TC#LTR/Copia RBRM:Copia-1_TC-I frameshifts:1 stops:4 cds_...  29.3    1.0  
+DIVER_pol#LTR/Pao Dfam:DF0001567 cds_range:331-5572 [Drosophila f...  28.5    1.6  
+EnSpm-4_PGr#DNA/CMC-EnSpm RBRM:EnSpm-4_PGr cds_range:1862-4280 [P...  27.7    2.7  
+Gypsy-207_DR_1p#LTR/Gypsy Dfam:DF0002383 cds_range:48-4011 [Danio...  27.7    3.4  
+Utopia-1_PR#LINE/R2-NeSL RBRM:Utopia-1_PR frameshifts:1 cds_range...  27.3    4.0  
+hAT-3_STu_tp#DNA/hAT-Tag1 RBRM:hAT-3_STu cds_range:2152-4454 exon...  26.9    4.7  
+Copia-6_Cia#LTR/Copia RBRM:Copia-6_Cia-I stops:1 cds_range:118-41...  26.9    6.3  
+Copia-33_DPu#LTR/Copia RBRM:Copia-33_DPu-I frameshifts:3 stops:2 ...  26.9    6.6  
+R2I-4_PI#LINE/R2-NeSL RBRM:Utopia-4_PI cds_range:378-5526 [Phytop...  26.6    7.0  
+Gypsy45_DR#LTR/Gypsy Dfam:DF0003158 cds_range:338-5093 [Danio rerio]  26.6    7.8  
+I_Ele42_pol#LINE/I RBRM:I_Ele42 cds_range:1648-5911 [Aedes aegypti]   26.6    8.0  
+Copia-4_DMoj#LTR/Copia RBRM:Copia-4_DMoj-I frameshifts:1 cds_rang...  26.6    8.8  
+Utopia-2_PCa_1p#LINE/R2-NeSL RBRM:Utopia-2_PCa cds_range:840-5235...  26.2    9.3  
+Gypsy-26_DPu_pol#LTR/Gypsy RBRM:Gypsy-26_DPu-I cds_range:1808-575...  26.2    9.4  
+Copia-21_NN#LTR/Copia RBRM:Copia-21_NN-I cds_range:49-4027 [Nelum...  26.2    9.8  
+
+
+>Copia-1_TC#LTR/Copia RBRM:Copia-1_TC-I frameshifts:1 stops:4 
+cds_range:163-4071 via tfasty with SHACOP4_MT, 79.0% SW:3460 
+[Theobroma cacao]
+Length=1303
+
+ Score = 29.3 bits (64),  Expect = 1.0, Method: Composition-based stats.
+ Identities = 23/71 (32%), Positives = 29/71 (41%), Gaps = 13/71 (18%)
+ Frame = +2
+
+Query  152  KNRIPFSCMHCMHQYKGFPSFFPNPL*GNDAYNAYTPPEAVPGTSETSRN------GKK-  310
+            KNR      HC+   KG P  F        A NA      +P +S  +RN      G+K 
+Sbjct  613  KNRTILEMTHCLLHEKGLPKLFW----AEAASNAVNLLNILPSSSLKNRNAHEIWLGEKP  668
+
+Query  311  --RHVCIPGCI  337
+               H+ I GCI
+Sbjct  669  SMTHLRIFGCI  679
+
+
+>DIVER_pol#LTR/Pao  Dfam:DF0001567 cds_range:331-5572 [Drosophila 
+fruit fly genus]
+Length=1747
+
+ Score = 28.5 bits (62),  Expect = 1.6, Method: Composition-based stats.
+ Identities = 9/20 (45%), Positives = 15/20 (75%), Gaps = 0/20 (0%)
+ Frame = -2
+
+Query  89   IQMHTRIQNGPENFIQYCKG  30
+            +Q+  R+Q  P+ +I+YCKG
+Sbjct  697  LQLERRLQRDPDKWIRYCKG  716
+
+
+>EnSpm-4_PGr#DNA/CMC-EnSpm RBRM:EnSpm-4_PGr cds_range:1862-4280 
+[Puccinia graminis]
+Length=806
+
+ Score = 27.7 bits (60),  Expect = 2.7, Method: Composition-based stats.
+ Identities = 20/75 (27%), Positives = 34/75 (45%), Gaps = 6/75 (8%)
+ Frame = +1
+
+Query  64   FCMRVCICMHPGMHTEKARKKPENPYI*REKQNSFLLYALYASI*GVSF----LFPESPI  231
+            FCM+V I M   +   K  K     ++   +QN  LL  ++ S+ G++     +  + PI
+Sbjct  39   FCMQVMIQMTKSVFNGKMSKDAAKSFLLSARQNVXLLANIWGSLHGITIDATRMIEQIPI  98
+
+Query  232  RE*CIQCIHAPGGRP  276
+                +  IH  G +P
+Sbjct  99   NSGAV--IHRLGLKP  111
+
+
+>Gypsy-207_DR_1p#LTR/Gypsy  Dfam:DF0002383 cds_range:48-4011 [Danio 
+rerio]
+Length=1321
+
+ Score = 27.7 bits (60),  Expect = 3.4, Method: Composition-based stats.
+ Identities = 14/33 (42%), Positives = 18/33 (55%), Gaps = 5/33 (15%)
+ Frame = +2
+
+Query  62    RFVCVYASVCIRGCIQKKPGKSPKTLIYKGKNR  160
+             R+V VY     RG +    GKSP  L++K K R
+Sbjct  1132  RYVTVY-----RGIVHNTTGKSPAELLFKRKMR  1159
+
+
+>Utopia-1_PR#LINE/R2-NeSL RBRM:Utopia-1_PR frameshifts:1 cds_range:222-5366 
+via tfasty with R2I-1_PI [Phytophthora ramorum]
+Length=1715
+
+ Score = 27.3 bits (59),  Expect = 4.0, Method: Composition-based stats.
+ Identities = 10/18 (56%), Positives = 13/18 (72%), Gaps = 0/18 (0%)
+ Frame = -3
+
+Query  169  ERNSVFPFIYKGFRAFSG  116
+            E N++ P   KGFRAF+G
+Sbjct  973  ENNNLLPMAQKGFRAFNG  990
+
+
+>hAT-3_STu_tp#DNA/hAT-Tag1 RBRM:hAT-3_STu cds_range:2152-4454 
+exons:2152-4183;4292-4454 via genewise with hAT-9_SBi_tp [Solanum 
+tuberosum]
+Length=731
+
+ Score = 26.9 bits (58),  Expect = 4.7, Method: Composition-based stats.
+ Identities = 16/47 (34%), Positives = 23/47 (49%), Gaps = 11/47 (23%)
+ Frame = -2
+
+Query  254  MHCMHHSLI----------GDSGKRKETPYIDAYNAYKRKEFCFSLY  144
+            +HCM HSL+          G++G RK  P  D+  +  R + CF  Y
+Sbjct  510  LHCMAHSLVPKYYHESWLQGENGIRKLAPNEDSEISLNRVK-CFQRY  555
+
+
+>Copia-6_Cia#LTR/Copia RBRM:Copia-6_Cia-I stops:1 cds_range:118-4105 
+via tfasty with Copia-2_GM [Cicer arietinum]
+Length=1329
+
+ Score = 26.9 bits (58),  Expect = 6.3, Method: Composition-based stats.
+ Identities = 13/34 (38%), Positives = 17/34 (50%), Gaps = 1/34 (3%)
+ Frame = -2
+
+Query  326  GCIHAFSSRFGLFPTFRGRPPGACMHCMHHSLIG  225
+            GC++   SR G FP+ R      C+  MH  L G
+Sbjct  481  GCLYGKQSR-GPFPSGRAWRASECLELMHVDLCG  513
+
+
+>Copia-33_DPu#LTR/Copia RBRM:Copia-33_DPu-I frameshifts:3 stops:2 
+cds_range:498-4454 via tfasty with Copia-5_DPu, 78.8% SW:4175 
+[Daphnia pulex]
+Length=1319
+
+ Score = 26.9 bits (58),  Expect = 6.6, Method: Composition-based stats.
+ Identities = 16/42 (38%), Positives = 19/42 (45%), Gaps = 3/42 (7%)
+ Frame = +1
+
+Query  49   KFSGPFCMRVCICMHPGMHTEKARKKPENPYI*REKQNSFLL  174
+            K  GP C     C  PG  T + RKK       REKQ+  L+
+Sbjct  236  KLDGPRC---GYCFIPGHETHECRKKKRAEAEKREKQDQGLV  274
+
+
+>R2I-4_PI#LINE/R2-NeSL RBRM:Utopia-4_PI cds_range:378-5526 [Phytophthora 
+infestans]
+Length=1716
+
+ Score = 26.6 bits (57),  Expect = 7.0, Method: Composition-based stats.
+ Identities = 10/18 (56%), Positives = 12/18 (67%), Gaps = 0/18 (0%)
+ Frame = -3
+
+Query  169  ERNSVFPFIYKGFRAFSG  116
+            E N + P   KGFRAF+G
+Sbjct  973  EANELLPMAQKGFRAFNG  990
+
+
+>Gypsy45_DR#LTR/Gypsy  Dfam:DF0003158 cds_range:338-5093 [Danio 
+rerio]
+Length=1585
+
+ Score = 26.6 bits (57),  Expect = 7.8, Method: Composition-based stats.
+ Identities = 15/46 (33%), Positives = 20/46 (43%), Gaps = 7/46 (15%)
+ Frame = -2
+
+Query  332   IRGCIHAFSSRFGLFPTFRGRPPGACMHCMHHSLIGDSGKRKETPY  195
+             I G +HAF       P      PG    C+H   +GD+   K+ PY
+Sbjct  1137  ITGLLHAF-------PDLFNDVPGRTAVCVHDIDVGDAVPVKQHPY  1175
+
+
+>I_Ele42_pol#LINE/I RBRM:I_Ele42 cds_range:1648-5911 [Aedes aegypti]
+Length=1421
+
+ Score = 26.6 bits (57),  Expect = 8.0, Method: Composition-based stats.
+ Identities = 19/51 (37%), Positives = 23/51 (45%), Gaps = 1/51 (2%)
+ Frame = -1
+
+Query  153   FPLYIRVFGLFPGFFCMHPRMHTDAYTHTKRAGKLYTIL*RSEVRLYNIVK  1
+              PL +RV  LF   +C         YTH +RA  L T+     V L NI K
+Sbjct  1066  LPLQLRVIELFVRKYCKITEKSRRTYTHYRRAVDL-TLCEVVGVELPNIAK  1115
+
+
+>Copia-4_DMoj#LTR/Copia RBRM:Copia-4_DMoj-I frameshifts:1 cds_range:173-4264 
+via tfasty with Copia-1_DPer, 87.1% SW:4998 [Drosophila 
+mojavensis]
+Length=1364
+
+ Score = 26.6 bits (57),  Expect = 8.8, Method: Composition-based stats.
+ Identities = 12/30 (40%), Positives = 14/30 (47%), Gaps = 8/30 (27%)
+ Frame = +2
+
+Query  95   RGCIQKKPGKSPKTLIYKGKNRIPFSCMHC  184
+            R  +QK+P         KGK RI   C HC
+Sbjct  202  RSTVQKRP--------IKGKGRINIKCHHC  223
+
+
+>Utopia-2_PCa_1p#LINE/R2-NeSL RBRM:Utopia-2_PCa cds_range:840-5235 
+(Ribonuclease H, RT and restriction enzyme-like nuclease 
+domains) [Phytophthora capsici]
+Length=1465
+
+ Score = 26.2 bits (56),  Expect = 9.3, Method: Composition-based stats.
+ Identities = 10/18 (56%), Positives = 12/18 (67%), Gaps = 0/18 (0%)
+ Frame = -3
+
+Query  169  ERNSVFPFIYKGFRAFSG  116
+            E+N   P   KGFRAF+G
+Sbjct  723  EQNQRLPMAQKGFRAFNG  740
+
+
+>Gypsy-26_DPu_pol#LTR/Gypsy RBRM:Gypsy-26_DPu-I cds_range:1808-5756 
+[Daphnia pulex]
+Length=1316
+
+ Score = 26.2 bits (56),  Expect = 9.4, Method: Composition-based stats.
+ Identities = 10/18 (56%), Positives = 12/18 (67%), Gaps = 0/18 (0%)
+ Frame = +1
+
+Query  49   KFSGPFCMRVCICMHPGM  102
+            KFSG   +R  +C HPGM
+Sbjct  236  KFSGNVIVRPNMCAHPGM  253
+
+
+>Copia-21_NN#LTR/Copia RBRM:Copia-21_NN-I cds_range:49-4027 [Nelumbo 
+nucifera]
+Length=1326
+
+ Score = 26.2 bits (56),  Expect = 9.8, Method: Composition-based stats.
+ Identities = 9/21 (43%), Positives = 12/21 (57%), Gaps = 0/21 (0%)
+ Frame = -2
+
+Query  305  SRFGLFPTFRGRPPGACMHCM  243
+            SR  L P  +G P   C+HC+
+Sbjct  441  SRENLLPDVKGMPLETCVHCL  461
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 494608336
+
+
+Query= rnd-1_family-2 ( RepeatScout Family Size = 22, Final Multiple
+Alignment Size = 22, Localized to 1 out of 1 contigs )
+
+Length=83
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+Copia-40_BD#LTR/Copia RBRM:Copia-40_BD-I frameshifts:1 cds_range:...  25.4    0.59 
+Gypsy-7_PPe_1p#LTR/Gypsy RBRM:Gypsy-7_PPe-I cds_range:900-5370 [P...  23.5    3.2  
+
+
+>Copia-40_BD#LTR/Copia RBRM:Copia-40_BD-I frameshifts:1 cds_range:34-4374 
+via tfasty with CPSC3 [Brachypodium distachyon]
+Length=1447
+
+ Score = 25.4 bits (54),  Expect = 0.59, Method: Compositional matrix adjust.
+ Identities = 15/31 (48%), Positives = 19/31 (61%), Gaps = 6/31 (19%)
+ Frame = -3
+
+Query  75   GQRQRVAIARALVXEPKLXLA------DEPT  1
+            GQ+Q+V +A+A   EP L LA      DEPT
+Sbjct  330  GQQQQVNLAKANGDEPTLMLARACTSDDEPT  360
+
+
+>Gypsy-7_PPe_1p#LTR/Gypsy RBRM:Gypsy-7_PPe-I cds_range:900-5370 
+[Prunus persica]
+Length=1490
+
+ Score = 23.5 bits (49),  Expect = 3.2, Method: Composition-based stats.
+ Identities = 10/22 (45%), Positives = 13/22 (59%), Gaps = 0/22 (0%)
+ Frame = +1
+
+Query  7     LVGEXQLRLXDQRAGDGHALPL  72
+             +V +   RL D+  GDG  LPL
+Sbjct  1062  VVADHLSRLVDENHGDGQILPL  1083
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 402856525
+
+
+Query= rnd-1_family-3 ( RepeatScout Family Size = 20, Final Multiple
+Alignment Size = 20, Localized to 1 out of 1 contigs )
+
+Length=144
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+CR1-54_BF_pol#LINE/CR1-Zenon RBRM:CR1-54_BF fragment [Branchiosto...  26.2    1.0  
+GYPSM1_gag#LTR/Gypsy RBRM:GYPSM1_I cds_range:3928-5053 gag-like p...  25.4    1.7  
+Coprina-2_SLL_pol#LINE/Penelope RBRM:Coprina-2_SLL cds_range:52-3...  24.6    3.5  
+DEA1#LTR/Gypsy RBRM:DEA1 (fragment) [Ananas comosus]                  23.9    7.2  
+ISL2EU-1_LHu_tp#DNA/PIF-Spy RBRM:ISL2EU-1_LHu cds_range:711-2790 ...  23.9    7.8  
+Polinton-7_NVi_polb#DNA/Maverick RBRM:Polinton-7_NVi cds_range:11...  23.5    9.0  
+
+
+>CR1-54_BF_pol#LINE/CR1-Zenon RBRM:CR1-54_BF fragment [Branchiostoma 
+floridae]
+Length=647
+
+ Score = 26.2 bits (56),  Expect = 1.0, Method: Composition-based stats.
+ Identities = 13/33 (39%), Positives = 18/33 (55%), Gaps = 2/33 (6%)
+ Frame = +3
+
+Query  24   WGGKTLMGR*XKTALFRGFTISSNRPMGKLPPH  122
+            W    L+ R  + +LFR + I S RP+   PPH
+Sbjct  499  WNDLDLVIRSSRYSLFRKYLIKSVRPI--RPPH  529
+
+
+>GYPSM1_gag#LTR/Gypsy RBRM:GYPSM1_I cds_range:3928-5053 gag-like 
+part of much, much larger protein encoded by ORF  [Schmidtea 
+mediterranea]
+Length=375
+
+ Score = 25.4 bits (54),  Expect = 1.7, Method: Composition-based stats.
+ Identities = 9/14 (64%), Positives = 9/14 (64%), Gaps = 0/14 (0%)
+ Frame = +2
+
+Query  59   NGFIPRFHNFFKPP  100
+            N FIPR    FKPP
+Sbjct  226  NQFIPRAQQMFKPP  239
+
+
+>Coprina-2_SLL_pol#LINE/Penelope RBRM:Coprina-2_SLL cds_range:52-3184 
+[Serpula lacrymans]
+Length=1044
+
+ Score = 24.6 bits (52),  Expect = 3.5, Method: Compositional matrix adjust.
+ Identities = 11/30 (37%), Positives = 16/30 (53%), Gaps = 0/30 (0%)
+ Frame = +1
+
+Query  40   SWGGXRKRLYSAVSQFLQTAPWASYRPMGV  129
+            S GG R R Y   +  L+  PW S+ P+ +
+Sbjct  755  SIGGIRWRPYRKANNHLERIPWISHHPLDM  784
+
+
+>DEA1#LTR/Gypsy RBRM:DEA1 (fragment)  [Ananas comosus]
+Length=871
+
+ Score = 23.9 bits (50),  Expect = 7.2, Method: Compositional matrix adjust.
+ Identities = 11/29 (38%), Positives = 14/29 (48%), Gaps = 0/29 (0%)
+ Frame = +1
+
+Query  16   LXHGAVKPSWGGXRKRLYSAVSQFLQTAP  102
+            L H  VK  W    +R +  + Q L TAP
+Sbjct  274  LTHKGVKFIWNDACERSFQELKQRLTTAP  302
+
+
+>ISL2EU-1_LHu_tp#DNA/PIF-Spy RBRM:ISL2EU-1_LHu cds_range:711-2790 
+[Linepithema humile]
+Length=693
+
+ Score = 23.9 bits (50),  Expect = 7.8, Method: Composition-based stats.
+ Identities = 11/28 (39%), Positives = 13/28 (46%), Gaps = 0/28 (0%)
+ Frame = +1
+
+Query  37   PSWGGXRKRLYSAVSQFLQTAPWASYRP  120
+            P  G  R R+YS      +   W SYRP
+Sbjct  581  PQPGLIRVRVYSRFRNAAKYQLWISYRP  608
+
+
+>Polinton-7_NVi_polb#DNA/Maverick RBRM:Polinton-7_NVi cds_range:1134-5344 
+exons:1134-2809;2885-5344 , first 150 AA not seen 
+in other polinton polbs. Via genewise with Polinton-1_NVi_polb 
+[Nasonia vitripennis]
+Length=1378
+
+ Score = 23.5 bits (49),  Expect = 9.0, Method: Composition-based stats.
+ Identities = 11/20 (55%), Positives = 11/20 (55%), Gaps = 1/20 (5%)
+ Frame = -2
+
+Query  62    RFRLPPHEGFTAPWXSYRPM  3
+             RF LP H   T PW  YR M
+Sbjct  1222  RFLLP-HSTDTLPWGHYRIM  1240
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.134    0.401    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 409605066
+
+
+  Database: /Users/distiller/project/miniconda/conda-
+bld/repeatmasker_1587641299175/_h_env_placehold_placehold_placehold_
+placehold_placehold_placehold_placehold_placehold_placehold_placehol
+d_placehold_placehold_placehold_placehold_placehold_placehold_placeh
+old_placeh/share/RepeatMasker/Libraries/RepeatPeps.lib
+    Posted date:  Apr 23, 2020  4:32 AM
+  Number of letters in database: 16,150,283
+  Number of sequences in database:  18,011
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 12
+Window for multiple hits: 40

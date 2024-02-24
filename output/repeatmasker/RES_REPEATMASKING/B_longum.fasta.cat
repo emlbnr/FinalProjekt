@@ -1,0 +1,3667 @@
+12 16.23 0.00 8.11 AP010888.1 27612 27651 (2357513) (CGTGGC)n#Simple_repeat 1 37 (0) m_b1s252i0
+
+  AP010888.1         27612 CGAGGCCATGGCCGTGGCCGGTGCCCTCGGCCTGTGAGCC 27651
+                             v    i           -   v  vi    -   -   
+  (CGTGGC)n#Sim          1 CGTGGCCGTGGCCGTGGCC-GTGGCCGTGGCC-GTG-GCC 37
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.08 (3 / 39), avg. gap size = 1.00 (3 / 3)
+
+13 15.86 0.00 0.00 AP010888.1 33297 33324 (2351840) (GGCC)n#Simple_repeat 1 28 (0) m_b1s252i1
+
+  AP010888.1         33297 GGCGGGCCGGCTGGCCTGACGGCCGGCC 33324
+                              v       i    v v         
+  (GGCC)n#Simpl          1 GGCCGGCCGGCCGGCCGGCCGGCCGGCC 28
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.00 (0 / 27), avg. gap size = 0.0 (0 / 0)
+
+23 25.81 1.11 4.60 AP010888.1 34263 34352 (2350812) (GCCGCC)n#Simple_repeat 1 87 (0) m_b1s252i2
+
+  AP010888.1         34263 GCCGCCTCCGCCGCCTCGGCCGCTGGCACGACGCCCGCCCCGGCTCCCGC 34312
+                                 v        v v     -v  -  v  -     v v  iv    
+  (GCCGCC)n#Sim          1 GCCGCCGCCGCCGCCGCCGCCGC-CGC-CGCCG-CCGCCGCCGCCGCCGC 47
+
+  AP010888.1         34313 CAAACGCAG-CGCCGATGCCGCAGCCGCAGCCAGCGCCGCC 34352
+                            -iv   v -     vi     v     v   iv       
+  (GCCGCC)n#Sim         48 C-GCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCC 87
+
+Matrix = Unknown
+Transitions / transversions = 0.29 (4/14)
+Gap_init rate = 0.06 (5 / 89), avg. gap size = 1.00 (5 / 5)
+
+1084 14.66 0.00 0.00 AP010888.1 56856 57046 (2328118) rnd-1_family-1 6 196 (6) m_b1s001i0
+
+  AP010888.1         56856 TTCGAGGGGCTGATTTGACGTTCTGGAGAGATCTACTTCCGTTTCAAGGG 56905
+                                            i v  i?vvi   i              i    
+  rnd-1_family-          6 TTCGAGGGGCTGATTTGGCCTTTNCCGGAGGTCTACTTCCGTTTCGAGGG 55
+
+  AP010888.1         56906 GCTGATGCCTGAGTAGACGCGGCTCCAAAACGGCGGAATGGCGTTGACGT 56955
+                                    i        ivv                         i  i
+  rnd-1_family-         56 GCTGATGCCCGAGTAGACAACGCTCCAAAACGGCGGAATGGCGTTGGCGC 105
+
+  AP010888.1         56956 AAGGGCATTGATACACGTGGTCTACCGGATGATCAGCCCCTTGAAACGGA 57005
+                           i ? v i  v    v  ?   i ?    ?   ?                 
+  rnd-1_family-        106 GANGCCGTTTATACTCGNGGTTTNCCGGNTGANCAGCCCCTTGAAACGGA 155
+
+  AP010888.1         57006 AGTAGACCTCCGGCGGAGGCCAAATCAGCCCCTTGAAATGG 57046
+                                       vvii v  v            i    i  
+  rnd-1_family-        156 AGTAGACCTCCGCGAAACGCGAAATCAGCCCCTCGAAACGG 196
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 12.71
+Transitions / transversions = 1.33 (16/12)
+Gap_init rate = 0.00 (0 / 190), avg. gap size = 0.0 (0 / 0)
+
+12 14.69 3.33 0.00 AP010888.1 65169 65198 (2319966) (TCGTCC)n#Simple_repeat 1 31 (0) m_b2s252i0
+
+  AP010888.1         65169 TCG-CCTCGTCATCGGCCTCATCCTCGGCCT 65198
+                              -       v   v    i      v   
+  (TCGTCC)n#Sim          1 TCGTCCTCGTCCTCGTCCTCGTCCTCGTCCT 31
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.03 (1 / 29), avg. gap size = 1.00 (1 / 1)
+
+12 14.91 4.88 4.88 AP010888.1 69425 69465 (2315699) (TGC)n#Simple_repeat 1 41 (0) m_b2s252i1
+
+  AP010888.1         69425 TGCTGCTGGCT-CTGCTGCTGTTCGCAGCCGCCGCGGC-GCTG 69465
+                                  -   -         i -  v  i  i  v  -    
+  (TGC)n#Simple          1 TGCTGCT-GCTGCTGCTGCTGCT-GCTGCTGCTGCTGCTGCTG 41
+
+Matrix = Unknown
+Transitions / transversions = 1.50 (3/2)
+Gap_init rate = 0.10 (4 / 40), avg. gap size = 1.00 (4 / 4)
+
+12 25.83 5.45 0.00 AP010888.1 70468 70522 (2314642) (ACCGGT)n#Simple_repeat 1 58 (0) m_b2s252i2
+
+  AP010888.1         70468 ACCGGTTCCGCCCCCGTTGCCAGTACCGTTGCC---ACCGTCTCCGGTAC 70514
+                                 v   viv   v i  i      v i  ---    viv       
+  (ACCGGT)n#Sim          1 ACCGGTACCGGTACCGGTACCGGTACCGGTACCGGTACCGGTACCGGTAC 50
+
+  AP010888.1         70515 CGGTACCG 70522
+                                   
+  (ACCGGT)n#Sim         51 CGGTACCG 58
+
+Matrix = Unknown
+Transitions / transversions = 0.71 (5/7)
+Gap_init rate = 0.02 (1 / 54), avg. gap size = 3.00 (3 / 1)
+
+14 16.94 3.03 0.00 AP010888.1 83396 83428 (2301736) (CCG)n#Simple_repeat 1 34 (0) m_b2s252i3
+
+  AP010888.1         83396 CCGCCGCCG-CGCCGCCGCGGTTGCGGCCGCGGC 83428
+                                    -         v ii  v     v  
+  (CCG)n#Simple          1 CCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGC 34
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.03 (1 / 32), avg. gap size = 1.00 (1 / 1)
+
+897 10.42 0.00 0.00 AP010888.1 89203 89346 (2295818) rnd-1_family-3 1 144 (0) m_b2s001i1
+
+  AP010888.1         89203 CTCATGGGGCGGTAATAATCCCATGGGGCGGTAAAACCCTCATGGGGCGG 89252
+                                          iv??                               
+  rnd-1_family-          1 CTCATGGGGCGGTAACTNNCCCATGGGGCGGTAAAACCCTCATGGGGCGG 50
+
+  AP010888.1         89253 TATCCCAAAATGGCTTTATTCTGCCGTTTCACAATTTCTTCAAACCGCCC 89302
+                             v? v    i          i  v                         
+  rnd-1_family-         51 TAGNCGAAAACGGCTTTATTCCGCGGTTTCACAATTTCTTCAAACCGCCC 100
+
+  AP010888.1         89303 CATGGGCCTTTTACCGCCCCATGGATAAATTACCGCCCGATGGG 89346
+                                  vvv              i?ivv         v     
+  rnd-1_family-        101 CATGGGCAAGTTACCGCCCCATGGGNGTTTTACCGCCCCATGGG 144
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 10.08
+Transitions / transversions = 0.50 (5/10)
+Gap_init rate = 0.00 (0 / 143), avg. gap size = 0.0 (0 / 0)
+
+929 13.61 1.03 1.55 AP010888.1 94271 94464 (2290700) rnd-1_family-1 1 193 (9) m_b2s001i2
+
+  AP010888.1         94271 TCCGTTTCGAGGGGTTGATTTGGCCTCTCCGGGAGGTCTACTCCTGCTTC 94320
+                                         i           i ? v           i i i   
+  rnd-1_family-          1 TCCGTTTCGAGGGGCTGATTTGGCCTTTNCCGGAGGTCTACTTCCGTTTC 50
+
+  AP010888.1         94321 GAGGGGCTGATGGCCGAGTATTC-ACGCTCCAAAATCGGCGGAATGGCGT 94369
+                                       v       vv -           -              
+  rnd-1_family-         51 GAGGGGCTGATGCCCGAGTAGACAACGCTCCAAAA-CGGCGGAATGGCGT 99
+
+  AP010888.1         94370 TGACGCGGATGGGCTTTTACATGCGGTCTAGCTGCCGACCAGCCCCCTTG 94419
+                             i    i?vvv i  v   vi ?   i ?v v ?i  ?   -       
+  rnd-1_family-        100 TGGCGCGANGCCGTTTATACTCGNGGTTTNCCGGNTGANCAG-CCCCTTG 148
+
+  AP010888.1         94420 AAACGGGAGTAGACCTCCTGCGAAG-GCCGAATCAGCCCCTCGAAA 94464
+                                 i           -     i-  vi                
+  rnd-1_family-        149 AAACGGAAGTAGACCTCC-GCGAAACGCGAAATCAGCCCCTCGAAA 193
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 14.43
+Transitions / transversions = 1.17 (14/12)
+Gap_init rate = 0.03 (5 / 193), avg. gap size = 1.00 (5 / 5)
+
+779 21.72 1.00 1.00 AP010888.1 104979 105178 (2279986) rnd-1_family-1 1 200 (2) m_b2s001i3
+
+  AP010888.1        104979 TCGGTTTCGAGGGGCGGATTTCGCCGCTCCCGAACGTCTACTTCCGCTTC 105028
+                             v            v     v   vi ?   i v           i   
+  rnd-1_family-          1 TCCGTTTCGAGGGGCTGATTTGGCCTTTNCCGGAGGTCTACTTCCGTTTC 50
+
+  AP010888.1        105029 AAGGGGTTCCCGGTCAAGTAGGCCG-GCTGCAAAAATGGCGGAATGGCGT 105077
+                           i     i vvi vi i     i vi-   - v    i             
+  rnd-1_family-         51 GAGGGGCTGATGCCCGAGTAGACAACGCT-CCAAAACGGCGGAATGGCGT 99
+
+  AP010888.1        105078 TAA-ATGAGGGCCCTTGATACTCGGAATTGACCGCGCGAACAGCCCCTTG 105126
+                            ii-ii  -?   v  v       ?ii  v?   v?i  ?          
+  rnd-1_family-        100 TGGCGCGA-NGCCGTTTATACTCGNGGTTTNCCGGNTGANCAGCCCCTTG 148
+
+  AP010888.1        105127 AAGTGCAAGTAGATGTTCCCGAAACAGGAAATCAGCCCCTCGAAGCCGAG 105176
+                             ii v       iv i v      iv                 i v   
+  rnd-1_family-        149 AAACGGAAGTAGACCTCCGCGAAACGCGAAATCAGCCCCTCGAAACGGAG 198
+
+  AP010888.1        105177 AT 105178
+                             
+  rnd-1_family-        199 AT 200
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 22.17
+Transitions / transversions = 1.26 (24/19)
+Gap_init rate = 0.02 (4 / 199), avg. gap size = 1.00 (4 / 4)
+
+14 29.00 1.04 7.78 AP010888.1 105834 105929 (2279235) (GCAACC)n#Simple_repeat 1 90 (0) m_b2s252i4
+
+  AP010888.1        105834 GCAACCGCAACCCCTACTACACCAATAACCCGCAGCCGC-AGGGTAACGG 105882
+                                       v v  ii  v vii  -     i    - vv i   v 
+  (GCAACC)n#Sim          1 GCAACCGCAACCGCAACCGCAACCGCAA-CCGCAACCGCAACCGCAACCG 49
+
+  AP010888.1        105883 CAATCCGTTCAATCCGCCCACGCAGCCGCAGCAGAACAACGGCAACC 105929
+                              -   --   -    vvv    i     i v --    v      
+  (GCAACC)n#Sim         50 CAA-CCG--CAA-CCGCAACCGCAACCGCAACCG--CAACCGCAACC 90
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (8/12)
+Gap_init rate = 0.08 (8 / 95), avg. gap size = 1.00 (8 / 8)
+
+13 23.81 5.88 0.00 AP010888.1 107282 107332 (2277832) (AATGGC)n#Simple_repeat 1 54 (0) m_b2s252i5
+
+  AP010888.1        107282 AACGGCAATGGCCA--G-AACGGTTACGGTAATGGCAATGGCAACAGCGA 107328
+                             i         v -- -  i  iv i  i              ii  i 
+  (AATGGC)n#Sim          1 AATGGCAATGGCAATGGCAATGGCAATGGCAATGGCAATGGCAATGGCAA 50
+
+  AP010888.1        107329 TGGC 107332
+                               
+  (AATGGC)n#Sim         51 TGGC 54
+
+Matrix = Unknown
+Transitions / transversions = 4.00 (8/2)
+Gap_init rate = 0.04 (2 / 50), avg. gap size = 1.50 (3 / 2)
+
+15 26.36 0.00 0.00 AP010888.1 112555 112599 (2272565) (GCGGGA)n#Simple_repeat 1 45 (0) m_b2s252i6
+
+  AP010888.1        112555 GCGGGAGCGGGAGCCGGTGCTGCCGCCGGAGCTGGGGCAGGGGCG 112599
+                                         v  v  v vv  v     v  i  i  i   
+  (GCGGGA)n#Sim          1 GCGGGAGCGGGAGCGGGAGCGGGAGCGGGAGCGGGAGCGGGAGCG 45
+
+Matrix = Unknown
+Transitions / transversions = 0.43 (3/7)
+Gap_init rate = 0.00 (0 / 44), avg. gap size = 0.0 (0 / 0)
+
+12 21.71 0.00 0.00 AP010888.1 120561 120592 (2264572) (GACGTC)n#Simple_repeat 1 32 (0) m_b3s252i0
+
+  AP010888.1        120561 GACATGGAAGACGACGGCGACGTCGACTTCGA 120592
+                              i v  v v     v          v    
+  (GACGTC)n#Sim          1 GACGTCGACGTCGACGTCGACGTCGACGTCGA 32
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (1/5)
+Gap_init rate = 0.00 (0 / 31), avg. gap size = 0.0 (0 / 0)
+
+13 26.92 0.00 3.92 AP010888.1 121254 121306 (2263858) (CCGGG)n#Simple_repeat 1 51 (0) m_b3s252i1
+
+  AP010888.1        121254 CCCGGCCGCGCCCCGTGCGGACGCGGCCGGGCTCGGGGCCGGACGGGCCG 121303
+                             v     - v  v vv   i vv        -    v v  v       
+  (CCGGG)n#Simp          1 CCGGGCCG-GGCCGGGCCGGGCCGGGCCGGGC-CGGGCCGGGCCGGGCCG 48
+
+  AP010888.1        121304 GGC 121306
+                              
+  (CCGGG)n#Simp         49 GGC 51
+
+Matrix = Unknown
+Transitions / transversions = 0.10 (1/10)
+Gap_init rate = 0.04 (2 / 52), avg. gap size = 1.00 (2 / 2)
+
+13 22.63 1.52 8.06 AP010888.1 125335 125400 (2259764) (GCGGTG)n#Simple_repeat 1 62 (0) m_b3s252i2
+
+  AP010888.1        125335 GCGGTGGCGGCCGCGCTGGCGATCGC-GTGGATGGTCGGCAAGGAGCCGA 125383
+                                     iv   v     i v  -    -i   -   --  v v  i
+  (GCGGTG)n#Sim          1 GCGGTGGCGGTGGCGGTGGCGGTGGCGGTGG-CGGT-GGC--GGTGGCGG 46
+
+  AP010888.1        125384 TGGCTGGTGGCAGCGGC 125400
+                               -      i i   
+  (GCGGTG)n#Sim         47 TGGC-GGTGGCGGTGGC 62
+
+Matrix = Unknown
+Transitions / transversions = 1.20 (6/5)
+Gap_init rate = 0.09 (6 / 65), avg. gap size = 1.00 (6 / 6)
+
+12 13.69 6.25 0.00 AP010888.1 133749 133780 (2251384) (CCGGA)n#Simple_repeat 1 34 (0) m_b3s252i3
+
+  AP010888.1        133749 CCGGGCCGG-GCGGAAGGGACCGGACCGG-CCGG 133780
+                               i    -v    vv            -    
+  (CCGGA)n#Simp          1 CCGGACCGGACCGGACCGGACCGGACCGGACCGG 34
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.06 (2 / 31), avg. gap size = 1.00 (2 / 2)
+
+12 18.76 2.63 2.63 AP010888.1 144803 144840 (2240324) (CGCCGT)n#Simple_repeat 1 38 (0) m_b3s252i4
+
+  AP010888.1        144803 CGCCGCTGGCCGT-GGCGTCCCGGTCGTCGTTGCCGTCG 144840
+                                - v     - v    v v    i   i       
+  (CGCCGT)n#Sim          1 CGCCG-TCGCCGTCGCCGTCGCCGTCGCCGTCGCCGTCG 38
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (2/4)
+Gap_init rate = 0.05 (2 / 37), avg. gap size = 1.00 (2 / 2)
+
+15 16.94 0.00 0.00 AP010888.1 145362 145394 (2239770) (GCCGAG)n#Simple_repeat 1 33 (0) m_b3s252i5
+
+  AP010888.1        145362 GCCGAGGCCAAGGACAAGGACGAGGCCGAGTCC 145394
+                                    i   v i   v          v  
+  (GCCGAG)n#Sim          1 GCCGAGGCCGAGGCCGAGGCCGAGGCCGAGGCC 33
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.00 (0 / 32), avg. gap size = 0.0 (0 / 0)
+
+14 23.97 0.00 0.00 AP010888.1 146047 146085 (2239079) (CGAGGC)n#Simple_repeat 1 39 (0) m_b3s252i6
+
+  AP010888.1        146047 CGAGGTCAAGTCCGTGGCCGAGGCTTCCGCCGAGGCCGA 146085
+                                i i  v   v         ivvv           
+  (CGAGGC)n#Sim          1 CGAGGCCGAGGCCGAGGCCGAGGCCGAGGCCGAGGCCGA 39
+
+Matrix = Unknown
+Transitions / transversions = 0.60 (3/5)
+Gap_init rate = 0.00 (0 / 38), avg. gap size = 0.0 (0 / 0)
+
+12 14.91 8.11 0.00 AP010888.1 147589 147625 (2237539) (GCGGCAC)n#Simple_repeat 1 40 (0) m_b3s252i7
+
+  AP010888.1        147589 GCGGTCCACGGCA-GCGGCACGCGGCA-GCCG-TCGCGGC 147625
+                               iv i     -             -  v -v      
+  (GCGGCAC)n#Si          1 GCGGCACGCGGCACGCGGCACGCGGCACGCGGCACGCGGC 40
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.08 (3 / 36), avg. gap size = 1.00 (3 / 3)
+
+11 13.62 2.78 5.71 AP010888.1 152411 152446 (2232718) (TGCTGG)n#Simple_repeat 1 35 (0) m_b3s252i8
+
+  AP010888.1        152411 TGGTGGTGTCT-GCGATGGTGCCGGTGCTGGTCGCTG 152446
+                             v     -  - i v      i         -    
+  (TGCTGG)n#Sim          1 TGCTGGTG-CTGGTGCTGGTGCTGGTGCTGGT-GCTG 35
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (2/2)
+Gap_init rate = 0.09 (3 / 35), avg. gap size = 1.00 (3 / 3)
+
+18 28.40 0.00 0.00 AP010888.1 161173 161227 (2223937) (CGA)n#Simple_repeat 1 55 (0) m_b3s252i9
+
+  AP010888.1        161173 CGACGACGACACCGTCGAGGCCGAGGTCGTGGACGACGATGACGACAAGG 161222
+                                     iv  v   v v   v v  vv        i      i v 
+  (CGA)n#Simple          1 CGACGACGACGACGACGACGACGACGACGACGACGACGACGACGACGACG 50
+
+  AP010888.1        161223 ACAAC 161227
+                             i  
+  (CGA)n#Simple         51 ACGAC 55
+
+Matrix = Unknown
+Transitions / transversions = 0.44 (4/9)
+Gap_init rate = 0.00 (0 / 54), avg. gap size = 0.0 (0 / 0)
+
+12 24.11 0.00 2.50 AP010888.1 162732 162772 (2222392) (TGGCCG)n#Simple_repeat 1 40 (0) m_b3s252i10
+
+  AP010888.1        162732 TGGACCTGCCCGTCACCGTGGGCCAGGCCGTGGCCGGTGGC 162772
+                              v v  v    vi      v vv          -     
+  (TGGCCG)n#Sim          1 TGGCCGTGGCCGTGGCCGTGGCCGTGGCCGTGGCC-GTGGC 40
+
+Matrix = Unknown
+Transitions / transversions = 0.14 (1/7)
+Gap_init rate = 0.03 (1 / 40), avg. gap size = 1.00 (1 / 1)
+
+12 28.69 0.00 0.00 AP010888.1 162747 162788 (2222376) (CCGAGG)n#Simple_repeat 1 42 (0) m_b3s252i11
+
+  AP010888.1        162747 CCGTGGGCCAGGCCGTGGCCGGTGGCAAGGTCGAGGCCAAGG 162788
+                              v  v v      v     iv v i   i       i   
+  (CCGAGG)n#Sim          1 CCGAGGCCGAGGCCGAGGCCGAGGCCGAGGCCGAGGCCGAGG 42
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (4/6)
+Gap_init rate = 0.00 (0 / 41), avg. gap size = 0.0 (0 / 0)
+
+13 22.79 0.00 0.00 AP010888.1 178845 178880 (2206284) (CTGCCG)n#Simple_repeat 1 36 (0) m_b4s252i0
+
+  AP010888.1        178845 CTGCTGCTGCCGGTGCCGCTCCTGCCGCCAATGCCG 178880
+                               i       v       v i  i   iv     
+  (CTGCCG)n#Sim          1 CTGCCGCTGCCGCTGCCGCTGCCGCTGCCGCTGCCG 36
+
+Matrix = Unknown
+Transitions / transversions = 1.33 (4/3)
+Gap_init rate = 0.00 (0 / 35), avg. gap size = 0.0 (0 / 0)
+
+11 24.12 0.00 0.00 AP010888.1 180145 180178 (2204986) (CCAACC)n#Simple_repeat 1 34 (0) m_b4s252i1
+
+  AP010888.1        180145 CCAGCCCCAGCCCCAGCCGAAACCACAACCGCAA 180178
+                              i     i     i  vv    v     v   
+  (CCAACC)n#Sim          1 CCAACCCCAACCCCAACCCCAACCCCAACCCCAA 34
+
+Matrix = Unknown
+Transitions / transversions = 0.75 (3/4)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+13 8.48 4.00 0.00 AP010888.1 185445 185469 (2199695) (CAAGA)n#Simple_repeat 1 26 (0) m_b4s252i2
+
+  AP010888.1        185445 CAAG-CAAGACAAGGCAAGACATGAC 185469
+                               -         i       v   
+  (CAAGA)n#Simp          1 CAAGACAAGACAAGACAAGACAAGAC 26
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/1)
+Gap_init rate = 0.04 (1 / 24), avg. gap size = 1.00 (1 / 1)
+
+12 32.05 0.00 0.00 AP010888.1 198547 198596 (2186568) (GCTGCT)n#Simple_repeat 1 50 (0) m_b4s252i3
+
+  AP010888.1        198547 GCTGAGGCTTCGGCTGGCGCTGCTGGCGATACTGCTGGTGCTTCTGCGGC 198596
+                               vv   v v    vi       vi v i      v    v    v  
+  (GCTGCT)n#Sim          1 GCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGC 50
+
+Matrix = Unknown
+Transitions / transversions = 0.30 (3/10)
+Gap_init rate = 0.00 (0 / 49), avg. gap size = 0.0 (0 / 0)
+
+1286 11.88 0.00 0.00 AP010888.1 199434 199635 (2185529) C rnd-1_family-1 (0) 202 1 m_b4s001i0
+
+  AP010888.1        199434 CTACTTGCGTTTCAAGGGGCTGATTTCTCGTTTTGAGAATATCTACTTGC 199483
+                              ii v      i             v     i v i vi       v 
+C rnd-1_family-        202 CTATCTCCGTTTCGAGGGGCTGATTTCGCGTTTCGCGGAGGTCTACTTCC 153
+
+  AP010888.1        199484 GTTTCAAGGGGCTGGTCATCTGCTGAACCACGAGTATGAACGGCTCCGCG 199533
+                                         ?   ? i v?i    ?       i      ?i    
+C rnd-1_family-        152 GTTTCAAGGGGCTGNTCANCCGGNAAACCNCGAGTATAAACGGCNTCGCG 103
+
+  AP010888.1        199534 CCAACGTCATTCCGCCGTTTTGGAACGTTGTCTACTTGGGCAACAGCCCC 199583
+                                 i                 i           i     v       
+C rnd-1_family-        102 CCAACGCCATTCCGCCGTTTTGGAGCGTTGTCTACTCGGGCATCAGCCCC 53
+
+  AP010888.1        199584 TCGAAACGGAAGTAGACCTTCAGAAAAGACCAAATCAGCCCCTTGAAACG 199633
+                                              i i ?    i              i      
+C rnd-1_family-         52 TCGAAACGGAAGTAGACCTCCGGNAAAGGCCAAATCAGCCCCTCGAAACG 3
+
+  AP010888.1        199634 GA 199635
+                             
+C rnd-1_family-          2 GA 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 10.22
+Transitions / transversions = 2.43 (17/7)
+Gap_init rate = 0.00 (0 / 201), avg. gap size = 0.0 (0 / 0)
+
+436 24.02 8.02 2.02 AP010888.1 205559 205745 (2179419) rnd-1_family-1 5 202 (0) m_b4s001i1
+
+  AP010888.1        205559 TTTCGAGGGGCGGATTTCCGGTTTTCCGGAGGTCTATCTGCGTTTCGAGG 205608
+                                      v     vvvv   ?           ii v          
+  rnd-1_family-          5 TTTCGAGGGGCTGATTTGGCCTTTNCCGGAGGTCTACTTCCGTTTCGAGG 54
+
+  AP010888.1        205609 GGCTCTT---CGATTG---------CGAAACCCGGAGTATGACCATTGAA 205646
+                               vv ---   v i--------- v   v v vi v   i -i   iv
+  rnd-1_family-         55 GGCTGATGCCCGAGTAGACAACGCTCCAAAACGGCGGAATGGC-GTTGGC 103
+
+  AP010888.1        205647 ATTGCAATGTTTATACTCCGGGTTTCTTGTTTTAAAAGCCCCTTGAAACG 205696
+                           iivi?ivi          v?     ?ii v? v ?v              
+  rnd-1_family-        104 GCGANGCCGTTTATACTCGNGGTTTNCCGGNTGANCAGCCCCTTGAAACG 153
+
+  AP010888.1        205697 CTAGTAGAGCTTCTG---AATGTTGGAAATCAGCCCCTTGAAACGTAGAA 205743
+                           vv      - i  i ---  i i--             i      v   v
+  rnd-1_family-        154 GAAGTAGA-CCTCCGCGAAACGC--GAAATCAGCCCCTCGAAACGGAGAT 200
+
+  AP010888.1        205744 AG 205745
+                             
+  rnd-1_family-        201 AG 202
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 22.97
+Transitions / transversions = 0.76 (19/25)
+Gap_init rate = 0.04 (7 / 186), avg. gap size = 2.71 (19 / 7)
+
+12 16.34 2.78 2.78 AP010888.1 210272 210307 (2174857) (GACGAA)n#Simple_repeat 1 36 (0) m_b4s252i4
+
+  AP010888.1        210272 GACGAAG-CCAAGAAGAAGGCCAAGGAAGAAGACGAA 210307
+                                  - v    v    i v  -  v         
+  (GACGAA)n#Sim          1 GACGAAGACGAAGACGAAGACGAA-GACGAAGACGAA 36
+
+Matrix = Unknown
+Transitions / transversions = 0.25 (1/4)
+Gap_init rate = 0.06 (2 / 35), avg. gap size = 1.00 (2 / 2)
+
+14 28.93 0.00 0.00 AP010888.1 231028 231073 (2154091) (CTC)n#Simple_repeat 1 46 (0) m_b5s252i0
+
+  AP010888.1        231028 CTCCTCCTCCCAGTCTTCCGACTCCTCTTCCTCCGATTCTTCCTCC 231073
+                                     ivv  i   vv      i      vvi  i      
+  (CTC)n#Simple          1 CTCCTCCTCCTCCTCCTCCTCCTCCTCCTCCTCCTCCTCCTCCTCC 46
+
+Matrix = Unknown
+Transitions / transversions = 0.83 (5/6)
+Gap_init rate = 0.00 (0 / 45), avg. gap size = 0.0 (0 / 0)
+
+12 18.09 0.00 3.12 AP010888.1 234239 234271 (2150893) (TGGTGC)n#Simple_repeat 1 32 (0) m_b5s252i1
+
+  AP010888.1        234239 TGGTGTTCGTGCTGGTGTTCGTGCTGCTGGCTG 234271
+                                i v         i v      v -    
+  (TGGTGC)n#Sim          1 TGGTGCTGGTGCTGGTGCTGGTGCTGGT-GCTG 32
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.03 (1 / 32), avg. gap size = 1.00 (1 / 1)
+
+386 14.81 0.00 0.00 AP010888.1 236032 236112 (2149052) rnd-1_family-0 3 83 (0) m_b5s001i0
+
+  AP010888.1        236032 TCCGGCGGCGAGCAGCAGCGCGTGTGCGTGGCCCGCGCGCTGATCAACGA 236081
+                                    v              vv i v            ii  ?   
+  rnd-1_family-          3 TCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANCGA 52
+
+  AP010888.1        236082 CCCGAAGCTGATTCTGGCCGATGAGCCCACC 236112
+                           v         ? v  v     i     v   
+  rnd-1_family-         53 GCCGAAGCTGNTGCTCGCCGACGAGCCGACC 83
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 15.56
+Transitions / transversions = 0.50 (4/8)
+Gap_init rate = 0.00 (0 / 80), avg. gap size = 0.0 (0 / 0)
+
+11 17.10 8.93 3.39 AP010888.1 259478 259533 (2125631) (CGCCCAG)n#Simple_repeat 1 59 (0) m_b5s252i2
+
+  AP010888.1        259478 CGCCCGGTCGCCC-GCG-TCAGC-CGCCGCG-CCTGCTGCAC-GCTGCCA 259522
+                                i -     -   -i    - v v   -  v  -  v -  vv   
+  (CGCCCAG)n#Si          1 CGCCCAG-CGCCCAGCGCCCAGCGCCCAGCGCCCAGC-GCCCAGCGCCCA 48
+
+  AP010888.1        259523 GCGCCCAGCGC 259533
+                                      
+  (CGCCCAG)n#Si         49 GCGCCCAGCGC 59
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (2/6)
+Gap_init rate = 0.13 (7 / 55), avg. gap size = 1.00 (7 / 7)
+
+13 33.96 0.00 0.00 AP010888.1 264943 264997 (2120167) (GCC)n#Simple_repeat 1 55 (0) m_b5s252i3
+
+  AP010888.1        264943 GCCGCCGCCGAAGCCGGCGACAAAGCTGCTGCCGCAGCCGACACCAGTGC 264992
+                                     vv    v  v ivv  i  i     v    v i  ivi  
+  (GCC)n#Simple          1 GCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGC 50
+
+  AP010888.1        264993 CGCCG 264997
+                                
+  (GCC)n#Simple         51 CGCCG 55
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (6/9)
+Gap_init rate = 0.00 (0 / 54), avg. gap size = 0.0 (0 / 0)
+
+14 3.51 2.70 11.76 AP010888.1 269816 269852 (2115312) (CTT)n#Simple_repeat 1 34 (0) m_b5s252i4
+
+  AP010888.1        269816 CTTCTATCTTCTTCTTCATTCCTTC-TCTTCCTTCATC 269852
+                                -           -  -    -    -    v  
+  (CTT)n#Simple          1 CTTCT-TCTTCTTCTTC-TT-CTTCTTCTT-CTTCTTC 34
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/1)
+Gap_init rate = 0.14 (5 / 36), avg. gap size = 1.00 (5 / 5)
+
+16 17.11 0.00 0.00 AP010888.1 275896 275928 (2109236) (ACA)n#Simple_repeat 1 33 (0) m_b5s252i5
+
+  AP010888.1        275896 ACAACAACGACAACCAGAACAACAATGACAACA 275928
+                                   i     v v        ii      
+  (ACA)n#Simple          1 ACAACAACAACAACAACAACAACAACAACAACA 33
+
+Matrix = Unknown
+Transitions / transversions = 1.50 (3/2)
+Gap_init rate = 0.00 (0 / 32), avg. gap size = 0.0 (0 / 0)
+
+12 12.75 5.56 2.70 AP010888.1 293766 293801 (2091363) (GTGCGCG)n#Simple_repeat 1 37 (0) m_b6s252i0
+
+  AP010888.1        293766 GTG-GCGTTGAGCTTGTGCGCGGTGCGCGG-GCGCAGT 293801
+                              -   v  v  -v               -    i  
+  (GTGCGCG)n#Si          1 GTGCGCGGTGCGC-GGTGCGCGGTGCGCGGTGCGCGGT 37
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.09 (3 / 35), avg. gap size = 1.00 (3 / 3)
+
+48 0.00 0.00 0.00 AP010888.1 341083 341126 (2044038) (GAATCGTCTG)n#Simple_repeat 1 44 (0) c_b6s251i0
+
+  AP010888.1        341083 GAATCGTCTGGAATCGTCTGGAATCGTCTGGAATCGTCTGGAAT 341126
+                                                                       
+  (GAATCGTCTG)n          1 GAATCGTCTGGAATCGTCTGGAATCGTCTGGAATCGTCTGGAAT 44
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 43), avg. gap size = 0.0 (0 / 0)
+
+345 16.25 0.00 0.00 AP010888.1 349112 349191 (2035973) rnd-1_family-0 1 80 (3) m_b7s001i0
+
+  AP010888.1        349112 TGTCCGGCGGCCAGCAACAGCGCGTGGCCCTGGCCCGCGCGCTGGCCGTC 349161
+                                           i            v v               i? 
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANC 50
+
+  AP010888.1        349162 AAGCCGCGCGTGCTACTGCTCGACGAGCCG 349191
+                           i     vivv  ? i  vvi          
+  rnd-1_family-         51 GAGCCGAAGCTGNTGCTCGCCGACGAGCCG 80
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 17.40
+Transitions / transversions = 0.86 (6/7)
+Gap_init rate = 0.00 (0 / 79), avg. gap size = 0.0 (0 / 0)
+
+13 18.28 2.56 2.56 AP010888.1 370422 370460 (2014704) (CGCTCAG)n#Simple_repeat 1 39 (0) m_b7s252i0
+
+  AP010888.1        370422 CGCTCAACGCTCAGCGCT-AGTGCGATGCGCTACAGTGCT 370460
+                                 i           -  i  vvv     -   i   
+  (CGCTCAG)n#Si          1 CGCTCAGCGCTCAGCGCTCAGCGCTCAGCGCT-CAGCGCT 39
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (3/3)
+Gap_init rate = 0.05 (2 / 38), avg. gap size = 1.00 (2 / 2)
+
+300 20.25 0.00 0.00 AP010888.1 383704 383782 (2001382) rnd-1_family-0 1 79 (4) m_b7s001i1
+
+  AP010888.1        383704 TGTCCGGTGGCCAGCAGCAGCGTCTGTGCATCGCCCGCGCCGTGGCCGTC 383753
+                                  i              iv  vv            vv     i? 
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANC 50
+
+  AP010888.1        383754 CACCCGCAGGTGCTGCTCATGGATGAGCC 383782
+                           v v   v  v  ?     iiv  i     
+  rnd-1_family-         51 GAGCCGAAGCTGNTGCTCGCCGACGAGCC 79
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 18.19
+Transitions / transversions = 0.60 (6/10)
+Gap_init rate = 0.00 (0 / 78), avg. gap size = 0.0 (0 / 0)
+
+19 28.25 2.97 4.00 AP010888.1 390354 390454 (1994710) (CTTCGG)n#Simple_repeat 1 100 (0) m_b7s252i1
+
+  AP010888.1        390354 CTTCGGCGGCCTCTTCAGCCGGGGCTTC--C-TCAGCGGCGGCAGCGGCT 390400
+                                  vv vv    i  ivv      -- -  i  vv    vv     
+  (CTTCGG)n#Sim          1 CTTCGGCTTCGGCTTCGGCTTCGGCTTCGGCTTCGGCTTCGGCTTCGGCT 50
+
+  AP010888.1        390401 TCGGCTTCAGCCTTGGCCTTGGCAGCAGCTTCGGACTTGGCGGCCTTCAG 390450
+                                   i  i i   i i   vv i       -   --   -    i 
+  (CTTCGG)n#Sim         51 TCGGCTTCGGCTTCGGCTTCGGCTTCGGCTTCGG-CTT--CGG-CTTCGG 96
+
+  AP010888.1        390451 CTTC 390454
+                               
+  (CTTCGG)n#Sim         97 CTTC 100
+
+Matrix = Unknown
+Transitions / transversions = 0.83 (10/12)
+Gap_init rate = 0.06 (6 / 100), avg. gap size = 1.17 (7 / 6)
+
+13 16.57 0.00 0.00 AP010888.1 392439 392465 (1992699) (CTT)n#Simple_repeat 1 27 (0) m_b7s252i2
+
+  AP010888.1        392439 CTTCTTCTTGTTCTTGCCCTTCTTCTT 392465
+                                    v     vii         
+  (CTT)n#Simple          1 CTTCTTCTTCTTCTTCTTCTTCTTCTT 27
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (2/2)
+Gap_init rate = 0.00 (0 / 26), avg. gap size = 0.0 (0 / 0)
+
+20 12.93 2.27 2.27 AP010888.1 404389 404432 (1980732) (GTGTT)n#Simple_repeat 1 44 (0) m_b8s252i0
+
+  AP010888.1        404389 GTGATGTGTTGTGTTGTGTTGTGTTGT-TTGCGATGCGATGGTGT 404432
+                              v                       -   i v  i - v    
+  (GTGTT)n#Simp          1 GTGTTGTGTTGTGTTGTGTTGTGTTGTGTTGTGTTGTG-TTGTGT 44
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.05 (2 / 43), avg. gap size = 1.00 (2 / 2)
+
+15 13.68 7.50 0.00 AP010888.1 405086 405125 (1980039) (CTTGCC)n#Simple_repeat 1 43 (0) m_b8s252i1
+
+  AP010888.1        405086 CTTGCTCTTG-CC--GCCCTTGCCGTTGGCCTTGTCCTGGCCC 405125
+                                i    -  --         v   v     i   v    
+  (CTTGCC)n#Sim          1 CTTGCCCTTGCCCTTGCCCTTGCCCTTGCCCTTGCCCTTGCCC 43
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.05 (2 / 39), avg. gap size = 1.50 (3 / 2)
+
+13 8.83 4.76 7.32 AP010888.1 423274 423315 (1961849) (TCTGAACC)n#Simple_repeat 1 41 (0) m_b8s252i2
+
+  AP010888.1        423274 TCTGAACC-CTGAACCATATGAATC-CTGGACCGTCTGAATCCT 423315
+                                   -       - v    i -   i   -      -   
+  (TCTGAACC)n#S          1 TCTGAACCTCTGAACC-TCTGAACCTCTGAACC-TCTGAA-CCT 41
+
+Matrix = Unknown
+Transitions / transversions = 2.00 (2/1)
+Gap_init rate = 0.12 (5 / 41), avg. gap size = 1.00 (5 / 5)
+
+14 11.70 10.42 1.92 AP010888.1 433570 433617 (1951547) (CGTGCT)n#Simple_repeat 1 52 (0) m_b8s252i3
+
+  AP010888.1        433570 CGTGACCGT-CTCG-GC-CGTGCTCGTGCTCAGT-CTCATGCTGCTGCT- 433614
+                               vi   -    -  -             -  -   i    vv    -
+  (CGTGCT)n#Sim          1 CGTGCTCGTGCTCGTGCTCGTGCTCGTGCTC-GTGCTCGTGCTCGTGCTC 49
+
+  AP010888.1        433615 GTG 433617
+                              
+  (CGTGCT)n#Sim         50 GTG 52
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.13 (6 / 47), avg. gap size = 1.00 (6 / 6)
+
+14 20.95 0.00 0.00 AP010888.1 439285 439317 (1945847) (CCG)n#Simple_repeat 1 33 (0) m_b8s252i4
+
+  AP010888.1        439285 CCGCCGCGGCCGCCGCAGGAGCCAGCGCCGCCG 439317
+                                  v        v vv   iv        
+  (CCG)n#Simple          1 CCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCG 33
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (1/5)
+Gap_init rate = 0.00 (0 / 32), avg. gap size = 0.0 (0 / 0)
+
+15 20.75 2.17 2.17 AP010888.1 442629 442674 (1942490) (CGGCCG)n#Simple_repeat 1 46 (0) m_b8s252i5
+
+  AP010888.1        442629 CGGCCAAGGCCGCGACTGCTG-CGCTGGCCGCTGCCTCGGCCGCCGC 442674
+                                iv       i i  v -   -      v   v       v  
+  (CGGCCG)n#Sim          1 CGGCCGCGGCCGCGGCCGCGGCCGC-GGCCGCGGCCGCGGCCGCGGC 46
+
+Matrix = Unknown
+Transitions / transversions = 0.60 (3/5)
+Gap_init rate = 0.04 (2 / 45), avg. gap size = 1.00 (2 / 2)
+
+12 21.71 0.00 0.00 AP010888.1 450417 450448 (1934716) (TGTTCG)n#Simple_repeat 1 32 (0) m_b8s252i6
+
+  AP010888.1        450417 TGTTCATCGTCCTGTTCGTGGTGGTGTTCGTG 450448
+                                i vv  v        v v         
+  (TGTTCG)n#Sim          1 TGTTCGTGTTCGTGTTCGTGTTCGTGTTCGTG 32
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (1/5)
+Gap_init rate = 0.00 (0 / 31), avg. gap size = 0.0 (0 / 0)
+
+20 22.07 0.00 0.00 AP010888.1 451468 451515 (1933649) (TGGTGA)n#Simple_repeat 1 48 (0) m_b8s252i7
+
+  AP010888.1        451468 TGGCGATGGTGGTGGTAACGACGATGGTGTTGGTGTTGGTGTTGGTGA 451515
+                              i       i    i i ii       v     v     v      
+  (TGGTGA)n#Sim          1 TGGTGATGGTGATGGTGATGGTGATGGTGATGGTGATGGTGATGGTGA 48
+
+Matrix = Unknown
+Transitions / transversions = 2.00 (6/3)
+Gap_init rate = 0.00 (0 / 47), avg. gap size = 0.0 (0 / 0)
+
+738 16.90 0.00 0.00 AP010888.1 451642 451783 (1933381) rnd-1_family-3 2 143 (1) m_b8s001i0
+
+  AP010888.1        451642 TCATGGGGTGGTGATTGGCCCATGGGGCGGTGAATTCCTCATGGGGCGGT 451691
+                                   i   i i ??             i  vi              
+  rnd-1_family-          2 TCATGGGGCGGTAACTNNCCCATGGGGCGGTAAAACCCTCATGGGGCGGT 51
+
+  AP010888.1        451692 GGCTGAAAATGGCTTTATTCTGCGGAAGGTAAAATTTTACCGACCGCCCC 451741
+                           i ?i     i          i    vvvvvv  v  i v vi        
+  rnd-1_family-         52 AGNCGAAAACGGCTTTATTCCGCGGTTTCACAATTTCTTCAAACCGCCCC 101
+
+  AP010888.1        451742 ATGGGCAAGTTACCGCCCCATGGGATTTTCGCCGCCCCATGG 451783
+                                                   ?v   ii           
+  rnd-1_family-        102 ATGGGCAAGTTACCGCCCCATGGGNGTTTTACCGCCCCATGG 143
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 16.51
+Transitions / transversions = 1.18 (13/11)
+Gap_init rate = 0.00 (0 / 141), avg. gap size = 0.0 (0 / 0)
+
+12 7.49 6.67 3.23 AP010888.1 457742 457771 (1927393) (CGCACG)n#Simple_repeat 1 31 (0) m_b9s252i0
+
+  AP010888.1        457742 CGC-CGCGCACGCCGTTCGCGCA-GCGCACGC 457771
+                              -        -  iv      -        
+  (CGCACG)n#Sim          1 CGCACGCGCACG-CGCACGCGCACGCGCACGC 31
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/1)
+Gap_init rate = 0.10 (3 / 29), avg. gap size = 1.00 (3 / 3)
+
+797 13.89 0.00 0.00 AP010888.1 500011 500154 (1885010) rnd-1_family-3 1 144 (0) m_b9s001i0
+
+  AP010888.1        500011 CTCATGGGGCGGTAACTTTCCCATGGGGCGGTAAAACCCTCATGGGGCGG 500060
+                                            ??                               
+  rnd-1_family-          1 CTCATGGGGCGGTAACTNNCCCATGGGGCGGTAAAACCCTCATGGGGCGG 50
+
+  AP010888.1        500061 TAACCCAAAACGGCGGTATTCTGCGGAATGTGAAATTTGGCTAACCGCCC 500110
+                             i? v        vv     i    vv vvv  v  ivv v        
+  rnd-1_family-         51 TAGNCGAAAACGGCTTTATTCCGCGGTTTCACAATTTCTTCAAACCGCCC 100
+
+  AP010888.1        500111 CATGGGACAATCACCGCCCCATGAGGGTTTTACCGCCCCATGGG 500154
+                                 vv i i           i ?                  
+  rnd-1_family-        101 CATGGGCAAGTTACCGCCCCATGGGNGTTTTACCGCCCCATGGG 144
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 15.07
+Transitions / transversions = 0.43 (6/14)
+Gap_init rate = 0.00 (0 / 143), avg. gap size = 0.0 (0 / 0)
+
+401 24.62 7.91 0.67 AP010888.1 506915 507053 (1878111) C rnd-1_family-1 (51) 151 3 m_b9s001i1
+
+  AP010888.1        506915 TTTCAGAGGGGTACCTCAATCAAGAAACCCCGAGTACAAGCGTTGATATT 506964
+                                -     ivv?   ?i ii?     ?      i  i  vi?viiiv
+C rnd-1_family-        151 TTTCA-AGGGGCTGNTCANCCGGNAAACCNCGAGTATAAACGGCNTCGCG 103
+
+  AP010888.1        506965 TCAACGCCTATAC------TCGGGGTTTCGTCCTTT-----AACAGCCCC 507003
+                           i       vv v ------ i  i iv i   ivi ----- v       
+C rnd-1_family-        102 CCAACGCCATTCCGCCGTTTTGGAGCGTTGTCTACTCGGGCATCAGCCCC 53
+
+  AP010888.1        507004 TCGAAGCGGCAATAGACCTCCGGCAGATGCCAAATCAGCCCCTCGAAGCG 507053
+                                i   v i           ? i v                   i  
+C rnd-1_family-         52 TCGAAACGGAAGTAGACCTCCGGNAAAGGCCAAATCAGCCCCTCGAAACG 3
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 27.85
+Transitions / transversions = 1.62 (21/13)
+Gap_init rate = 0.02 (3 / 138), avg. gap size = 4.00 (12 / 3)
+
+17 28.65 1.41 2.86 AP010888.1 518107 518177 (1866987) (CGG)n#Simple_repeat 1 70 (0) m_b10s252i0
+
+  AP010888.1        518107 CGGCGGCGTGCGG-TGTGGTGTCTGCCGGAGCGGTGGCAGCGGGCTCAGC 518155
+                                   -    -v i  i v v  v vi    i   i    vvv i  
+  (CGG)n#Simple          1 CGGCGGCG-GCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGC 49
+
+  AP010888.1        518156 GGCGGCGGCCGTGGCGGCAGGC 518177
+                                    v i      -   
+  (CGG)n#Simple         50 GGCGGCGGCGGCGGCGGC-GGC 70
+
+Matrix = Unknown
+Transitions / transversions = 0.78 (7/9)
+Gap_init rate = 0.04 (3 / 70), avg. gap size = 1.00 (3 / 3)
+
+16 32.55 0.00 0.00 AP010888.1 522217 522277 (1862887) (CAGGTG)n#Simple_repeat 1 61 (0) m_b10s252i1
+
+  AP010888.1        522217 CAGGAGCCGGTGGTGGTGGAGGTCCCGGTGTACGTGCCGGAGGAAGTGCC 522266
+                               v  v    vv    v    v v    i v    v  v v i    v
+  (CAGGTG)n#Sim          1 CAGGTGCAGGTGCAGGTGCAGGTGCAGGTGCAGGTGCAGGTGCAGGTGCA 50
+
+  AP010888.1        522267 GGTGTATGTGC 522277
+                               i v    
+  (CAGGTG)n#Sim         51 GGTGCAGGTGC 61
+
+Matrix = Unknown
+Transitions / transversions = 0.23 (3/13)
+Gap_init rate = 0.00 (0 / 60), avg. gap size = 0.0 (0 / 0)
+
+12 22.78 4.76 0.00 AP010888.1 527649 527690 (1857474) (GGTAGGC)n#Simple_repeat 1 44 (0) m_b10s252i2
+
+  AP010888.1        527649 GGT-GGCGGCGGACGGCACACGATAGTC-GTAGGCGGTAGGCGG 527690
+                              -     ii i   i vi  i   v -               
+  (GGTAGGC)n#Si          1 GGTAGGCGGTAGGCGGTAGGCGGTAGGCGGTAGGCGGTAGGCGG 44
+
+Matrix = Unknown
+Transitions / transversions = 3.00 (6/2)
+Gap_init rate = 0.05 (2 / 41), avg. gap size = 1.00 (2 / 2)
+
+56 0.00 0.00 0.00 AP010888.1 549892 549942 (1835222) (GAAGCCACT)n#Simple_repeat 1 51 (0) c_b10s251i0
+
+  AP010888.1        549892 GAAGCCACTGAAGCCACTGAAGCCACTGAAGCCACTGAAGCCACTGAAGC 549941
+                                                                             
+  (GAAGCCACT)n#          1 GAAGCCACTGAAGCCACTGAAGCCACTGAAGCCACTGAAGCCACTGAAGC 50
+
+  AP010888.1        549942 C 549942
+                            
+  (GAAGCCACT)n#         51 C 51
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 50), avg. gap size = 0.0 (0 / 0)
+
+300 19.75 0.00 0.00 AP010888.1 556828 556908 (1828256) rnd-1_family-0 3 83 (0) m_b10s001i0
+
+  AP010888.1        556828 TCCGGTGGCGAGCAGCAGCGTGTGGCCATCGCCCGCGCCTACGTGAACCA 556877
+                                i   v          i                 vivv iv ? v 
+  rnd-1_family-          3 TCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANCGA 52
+
+  AP010888.1        556878 CCCGCAGATTCTGCTGGCCGACGAGCCCACC 556908
+                           v   v  v v?    v           v   
+  rnd-1_family-         53 GCCGAAGCTGNTGCTCGCCGACGAGCCGACC 83
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 20.69
+Transitions / transversions = 0.33 (4/12)
+Gap_init rate = 0.00 (0 / 80), avg. gap size = 0.0 (0 / 0)
+
+12 11.09 3.23 3.23 AP010888.1 557107 557137 (1828027) (GAAGCC)n#Simple_repeat 1 31 (0) m_b10s252i3
+
+  AP010888.1        557107 GATGCCGAAGTCGAAGCC-AAGTCCGACGCCG 557137
+                             v       i       -   -    v    
+  (GAAGCC)n#Sim          1 GAAGCCGAAGCCGAAGCCGAAG-CCGAAGCCG 31
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (1/2)
+Gap_init rate = 0.07 (2 / 30), avg. gap size = 1.00 (2 / 2)
+
+16 23.96 0.00 0.00 AP010888.1 559499 559542 (1825622) (ACTCCC)n#Simple_repeat 1 44 (0) m_b10s252i4
+
+  AP010888.1        559499 ACTCCTACTCCCACTCCCACACCGACGCCGGCCCCCACCCCGAC 559542
+                                i              v  v  v  vi i     i  v  
+  (ACTCCC)n#Sim          1 ACTCCCACTCCCACTCCCACTCCCACTCCCACTCCCACTCCCAC 44
+
+Matrix = Unknown
+Transitions / transversions = 0.80 (4/5)
+Gap_init rate = 0.00 (0 / 43), avg. gap size = 0.0 (0 / 0)
+
+15 10.32 0.00 6.06 AP010888.1 561773 561807 (1823357) (ATATGT)n#Simple_repeat 1 33 (0) m_b10s252i5
+
+  AP010888.1        561773 ATTTGTATATGTATACGCTATAATGTATATTTATA 561807
+                             v            i -   -        v    
+  (ATATGT)n#Sim          1 ATATGTATATGTATATG-TAT-ATGTATATGTATA 33
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (1/2)
+Gap_init rate = 0.06 (2 / 34), avg. gap size = 1.00 (2 / 2)
+
+409 19.28 0.00 0.00 AP010888.1 564456 564538 (1820626) rnd-1_family-0 1 83 (0) m_b10s001i1
+
+  AP010888.1        564456 TGTCAGGTGGTCAGCAGCAGCGTGTGGCCATTGCCCGTGCTCTGGCCATG 564505
+                               v  i  i           i        i     i  v       ?v
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANC 50
+
+  AP010888.1        564506 AAGCCGGAGATCATGCTTTTCGATGAGCCGACC 564538
+                           i     i  v v?    ivi   i         
+  rnd-1_family-         51 GAGCCGAAGCTGNTGCTCGCCGACGAGCCGACC 83
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 13.05
+Transitions / transversions = 1.67 (10/6)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+13 15.80 2.70 2.70 AP010888.1 569273 569309 (1815855) (GTGTTC)n#Simple_repeat 1 37 (0) m_b11s252i0
+
+  AP010888.1        569273 GTGTTCGTGTTCGTGTTCATCGTGC-CGATCGTGTACG 569309
+                                             i -  v -i v      v  
+  (GTGTTC)n#Sim          1 GTGTTCGTGTTCGTGTTCGT-GTTCGTGTTCGTGTTCG 37
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.06 (2 / 36), avg. gap size = 1.00 (2 / 2)
+
+11 27.58 0.00 0.00 AP010888.1 582784 582822 (1802342) (AAGGAC)n#Simple_repeat 1 39 (0) m_b11s252i1
+
+  AP010888.1        582784 AAGGCCAATGAGAAGTACTGGGGCAAGAACAAGGCCAAG 582822
+                               v   v  v   v  vi  i    i      v    
+  (AAGGAC)n#Sim          1 AAGGACAAGGACAAGGACAAGGACAAGGACAAGGACAAG 39
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (3/6)
+Gap_init rate = 0.00 (0 / 38), avg. gap size = 0.0 (0 / 0)
+
+274 24.10 0.00 0.00 AP010888.1 586057 586139 (1799025) rnd-1_family-0 1 83 (0) m_b11s001i0
+
+  AP010888.1        586057 TGTCCGGCGGCCAACAGCAGCGCGTGGGCATCGCCACGGCGCTGATCACC 586106
+                                        i             v       vvv      ii  ? 
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANC 50
+
+  AP010888.1        586107 TCACCGCGATTCATCATCGCGGACGAACCCACC 586139
+                           vvi   viii v? vv    v     i  v   
+  rnd-1_family-         51 GAGCCGAAGCTGNTGCTCGCCGACGAGCCGACC 83
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 29.99
+Transitions / transversions = 0.67 (8/12)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+394 16.05 0.00 0.00 AP010888.1 586868 586948 (1798216) rnd-1_family-0 1 81 (2) m_b11s001i1
+
+  AP010888.1        586868 TGTCCGGCGGCCAGGCGCAGCGCGTGGTCATCGCCCGCGCTATCATCAAC 586917
+                                         vv           i            vv vii  ? 
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANC 50
+
+  AP010888.1        586918 GAGCCCAAAGTGATCCTCGCCGATGAGCCGA 586948
+                                v  iv  ? v        i       
+  rnd-1_family-         51 GAGCCGAAGCTGNTGCTCGCCGACGAGCCGA 81
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 17.13
+Transitions / transversions = 0.62 (5/8)
+Gap_init rate = 0.00 (0 / 80), avg. gap size = 0.0 (0 / 0)
+
+16 11.06 7.69 0.00 AP010888.1 588212 588250 (1796914) (CCGGCA)n#Simple_repeat 1 42 (0) m_b11s252i2
+
+  AP010888.1        588212 CCGGCATCGGCACCGG---CGGCACCATCTCCGGCACCGGCA 588250
+                                 i         ---       iv v            
+  (CCGGCA)n#Sim          1 CCGGCACCGGCACCGGCACCGGCACCGGCACCGGCACCGGCA 42
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (2/2)
+Gap_init rate = 0.03 (1 / 38), avg. gap size = 3.00 (3 / 1)
+
+370 18.07 0.00 0.00 AP010888.1 617832 617914 (1767250) rnd-1_family-0 1 83 (0) m_b11s001i2
+
+  AP010888.1        617832 TGTCGGGCGGCCAACAGCAGCGCGTCGGCATCGCCCGGGCGTTTGTGACC 617881
+                               v        i           v v         v   i v iv ? 
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANC 50
+
+  AP010888.1        617882 AAGCCCGAGGTGGTGTTCGCCGATGAGCCGACC 617914
+                           i    vi  v  ?  i       i         
+  rnd-1_family-         51 GAGCCGAAGCTGNTGCTCGCCGACGAGCCGACC 83
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 18.39
+Transitions / transversions = 0.88 (7/8)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+12 24.30 0.00 0.00 AP010888.1 634528 634561 (1750603) (GCC)n#Simple_repeat 1 34 (0) m_b12s252i0
+
+  AP010888.1        634528 GCCGCCGAAGCCGCCGATGCCGCCGACCACGCCG 634561
+                                  vv       vi       v vv     
+  (GCC)n#Simple          1 GCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCG 34
+
+Matrix = Unknown
+Transitions / transversions = 0.17 (1/6)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+338 20.00 0.00 0.00 AP010888.1 636931 637005 (1748159) C rnd-1_family-0 (6) 77 3 m_b12s001i0
+
+  AP010888.1        636931 CTCGTCAAGCAGCAGCAGTTCCGGGTCGGTCATCAGTGCGCGCGCAATCG 636980
+                                 iivv    ?   i i   v   ? vii   i     v  i  v 
+C rnd-1_family-         77 CTCGTCGGCGAGCANCAGCTTCGGCTCGNTGGCCAGCGCGCGGGCGATGG 28
+
+  AP010888.1        636981 CCACGCGCTGCTGCTGGCCGCCAGA 637005
+                                                 i  
+C rnd-1_family-         27 CCACGCGCTGCTGCTGGCCGCCGGA 3
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 17.57
+Transitions / transversions = 1.50 (9/6)
+Gap_init rate = 0.00 (0 / 74), avg. gap size = 0.0 (0 / 0)
+
+14 0.00 7.41 3.57 AP010888.1 647919 647945 (1737219) (GCTCG)n#Simple_repeat 1 28 (0) m_b12s252i1
+
+  AP010888.1        647919 GCTACGGCT-GGCTCGGCT-GGCTCGGCT 647945
+                              -     -         -         
+  (GCTCG)n#Simp          1 GCT-CGGCTCGGCTCGGCTCGGCTCGGCT 28
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.12 (3 / 26), avg. gap size = 1.00 (3 / 3)
+
+16 24.63 3.03 3.03 AP010888.1 657193 657258 (1727906) (CGGCCA)n#Simple_repeat 1 66 (0) m_b12s252i2
+
+  AP010888.1        657193 CGGCCACGAGGC-CGGCCTTGG-CACGGGCGTCGGCTTCGGACTCGCCGA 657240
+                                   - v -     vi  -   -   vv    iv   v v  v v 
+  (CGGCCA)n#Sim          1 CGGCCACG-GCCACGGCCACGGCCAC-GGCCACGGCCACGGCCACGGCCA 48
+
+  AP010888.1        657241 CGGCCAGTGCCACGGCCA 657258
+                                 vv          
+  (CGGCCA)n#Sim         49 CGGCCACGGCCACGGCCA 66
+
+Matrix = Unknown
+Transitions / transversions = 0.18 (2/11)
+Gap_init rate = 0.06 (4 / 65), avg. gap size = 1.00 (4 / 4)
+
+11 27.97 0.00 0.00 AP010888.1 717906 717944 (1667220) (CGCCCG)n#Simple_repeat 1 39 (0) m_b13s252i0
+
+  AP010888.1        717906 CGCCGGTTCCCGCGCCCACGCCCGTGCTCTCGGCCGTGC 717944
+                               v iv         i      i  i v  v   i  
+  (CGCCCG)n#Sim          1 CGCCCGCGCCCGCGCCCGCGCCCGCGCCCGCGCCCGCGC 39
+
+Matrix = Unknown
+Transitions / transversions = 1.25 (5/4)
+Gap_init rate = 0.00 (0 / 38), avg. gap size = 0.0 (0 / 0)
+
+15 26.67 0.00 2.00 AP010888.1 732930 732980 (1652184) (CGTTGC)n#Simple_repeat 1 50 (0) m_b13s252i1
+
+  AP010888.1        732930 CGTATGCGGCTGGCGTTGCCGTTGCCGGTGACGCTGGCGTCGCTGGTACC 732979
+                              -   v i  v              v  v  i  v   i  i v i  
+  (CGTTGC)n#Sim          1 CGT-TGCCGTTGCCGTTGCCGTTGCCGTTGCCGTTGCCGTTGCCGTTGCC 49
+
+  AP010888.1        732980 G 732980
+                            
+  (CGTTGC)n#Sim         50 G 50
+
+Matrix = Unknown
+Transitions / transversions = 0.83 (5/6)
+Gap_init rate = 0.02 (1 / 50), avg. gap size = 1.00 (1 / 1)
+
+16 24.82 3.90 3.90 AP010888.1 766198 766274 (1618890) (GGCCTC)n#Simple_repeat 1 77 (0) m_b14s252i0
+
+  AP010888.1        766198 GGCCTTCTCCTCGGCTTTGG-CTC-GAAT-GGCCTCGGCCTTGAACTGGG 766244
+                                ivv       i i  -   - vv -           i iv  v  
+  (GGCCTC)n#Sim          1 GGCCTCGGCCTCGGCCTCGGCCTCGGCCTCGGCCTCGGCCTCGGCCTCGG 50
+
+  AP010888.1        766245 CCTTGGCCCGTACGGCATCAGCCTTGGCCT 766274
+                              i  -  - -    v  i    i     
+  (GGCCTC)n#Sim         51 CCTCGG-CC-T-CGGCCTCGGCCTCGGCCT 77
+
+Matrix = Unknown
+Transitions / transversions = 1.14 (8/7)
+Gap_init rate = 0.08 (6 / 76), avg. gap size = 1.00 (6 / 6)
+
+267 26.25 0.00 0.00 AP010888.1 787431 787510 (1597654) C rnd-1_family-0 (3) 80 1 m_b14s001i0
+
+  AP010888.1        787431 CGGCTCGTCAAGCATCAGCAGTTGTGGGTCGCACACCAACGCCTGGGCGA 787480
+                                    iivv v  ?   i vi  v   ?vvi   i   vi      
+C rnd-1_family-         80 CGGCTCGTCGGCGAGCANCAGCTTCGGCTCGNTGGCCAGCGCGCGGGCGA 31
+
+  AP010888.1        787481 TGGCCACACGCTGGCGCAAACCGCCGGACA 787510
+                                  i     vi  vii          
+C rnd-1_family-         30 TGGCCACGCGCTGCTGCTGGCCGCCGGACA 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 26.54
+Transitions / transversions = 1.10 (11/10)
+Gap_init rate = 0.00 (0 / 79), avg. gap size = 0.0 (0 / 0)
+
+12 24.95 5.77 0.00 AP010888.1 791151 791202 (1593962) (CGTCGA)n#Simple_repeat 1 55 (0) m_b14s252i1
+
+  AP010888.1        791151 CGTCAAGGTCGGCGACAAGGTCACCGTCGAGGT-G-C-TCGACGTCGATC 791197
+                               i v    i  v i v   iv      v  - - -          iv
+  (CGTCGA)n#Sim          1 CGTCGACGTCGACGTCGACGTCGACGTCGACGTCGACGTCGACGTCGACG 50
+
+  AP010888.1        791198 TCGAC 791202
+                                
+  (CGTCGA)n#Sim         51 TCGAC 55
+
+Matrix = Unknown
+Transitions / transversions = 0.83 (5/6)
+Gap_init rate = 0.06 (3 / 51), avg. gap size = 1.00 (3 / 3)
+
+37 0.00 2.33 2.33 AP010888.1 814681 814723 (1570441) (GCGAATATCA)n#Simple_repeat 1 43 (0) c_b15s251i0
+
+  AP010888.1        814681 GCGAATATCAGCGAATATCAGCGAATATCAGC-AAGTATCAGCG 814723
+                                                           -  -        
+  (GCGAATATCA)n          1 GCGAATATCAGCGAATATCAGCGAATATCAGCGAA-TATCAGCG 43
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.05 (2 / 42), avg. gap size = 1.00 (2 / 2)
+
+393 15.66 0.00 0.00 AP010888.1 835796 835878 (1549286) rnd-1_family-0 1 83 (0) m_b15s001i0
+
+  AP010888.1        835796 TGTCCGGCGGCCAGAAGCAGCGCGTCGGCATCGCCCGCGCACTGGCCACT 835845
+                                         v          v v            i       ?i
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANC 50
+
+  AP010888.1        835846 AATCCGGAGATTCTGCTCGCCGACGAAGCCACC 835878
+                           i v   i  v v?             iv v   
+  rnd-1_family-         51 GAGCCGAAGCTGNTGCTCGCCGACGAGCCGACC 83
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 15.14
+Transitions / transversions = 0.62 (5/8)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+12 19.66 0.00 0.00 AP010888.1 836509 836537 (1548627) (GCC)n#Simple_repeat 1 29 (0) m_b15s252i0
+
+  AP010888.1        836509 GCCACCGCGCCCGCCGCGTCCGCCGCCGC 836537
+                              i    vv       vv          
+  (GCC)n#Simple          1 GCCGCCGCCGCCGCCGCCGCCGCCGCCGC 29
+
+Matrix = Unknown
+Transitions / transversions = 0.25 (1/4)
+Gap_init rate = 0.00 (0 / 28), avg. gap size = 0.0 (0 / 0)
+
+12 19.85 0.00 0.00 AP010888.1 842869 842897 (1542267) (ACG)n#Simple_repeat 1 29 (0) m_b15s252i1
+
+  AP010888.1        842869 ACGGCAACGACGACGACCGCGCCGACGAC 842897
+                              i i           vi  v       
+  (ACG)n#Simple          1 ACGACGACGACGACGACGACGACGACGAC 29
+
+Matrix = Unknown
+Transitions / transversions = 1.50 (3/2)
+Gap_init rate = 0.00 (0 / 28), avg. gap size = 0.0 (0 / 0)
+
+12 25.69 0.00 0.00 AP010888.1 842869 842905 (1542259) (ACGACA)n#Simple_repeat 1 37 (0) m_b15s252i2
+
+  AP010888.1        842869 ACGGCAACGACGACGACCGCGCCGACGACATCGCCAA 842905
+                              i       i     vi  v i      v  v   
+  (ACGACA)n#Sim          1 ACGACAACGACAACGACAACGACAACGACAACGACAA 37
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (4/4)
+Gap_init rate = 0.00 (0 / 36), avg. gap size = 0.0 (0 / 0)
+
+562 7.23 0.00 0.00 AP010888.1 867406 867488 (1517676) rnd-1_family-0 1 83 (0) m_b16s001i0
+
+  AP010888.1        867406 TGTCCGGTGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGATTACC 867455
+                                  i                                    iii ? 
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANC 50
+
+  AP010888.1        867456 AAGCCGAAGCTGGTGTTCGCCGACGAGCCGACC 867488
+                           i           ?  i                 
+  rnd-1_family-         51 GAGCCGAAGCTGNTGCTCGCCGACGAGCCGACC 83
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 5.47
+Transitions / transversions = 1.00 (6/0)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+898 7.20 0.00 0.00 AP010888.1 892099 892223 (1492941) rnd-1_family-3 1 125 (19) m_b16s001i1
+
+  AP010888.1        892099 CCCATGGGGCGGCAAACATCCCATGGGGTGGTAAAACCCTCATGGGGCGG 892148
+                            i          i  vi??         i                     
+  rnd-1_family-          1 CTCATGGGGCGGTAACTNNCCCATGGGGCGGTAAAACCCTCATGGGGCGG 50
+
+  AP010888.1        892149 TAGGTGAAAATGGCTTTATTCTGCGGTTTCACAATTTCTTCAAACCGCCC 892198
+                              ?i     i          i                            
+  rnd-1_family-         51 TAGNCGAAAACGGCTTTATTCCGCGGTTTCACAATTTCTTCAAACCGCCC 100
+
+  AP010888.1        892199 CATGGGCAAGTTACCGCCCCGTGGG 892223
+                                               i    
+  rnd-1_family-        101 CATGGGCAAGTTACCGCCCCATGGG 125
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 4.60
+Transitions / transversions = 8.00 (8/1)
+Gap_init rate = 0.00 (0 / 124), avg. gap size = 0.0 (0 / 0)
+
+16 14.17 0.00 0.00 AP010888.1 893754 893784 (1491380) (GCAAGC)n#Simple_repeat 1 31 (0) m_b16s252i0
+
+  AP010888.1        893754 GCAAGCGCAAGCACAATCGCAATCGCAACCG 893784
+                                       i   v     v     v  
+  (GCAAGC)n#Sim          1 GCAAGCGCAAGCGCAAGCGCAAGCGCAAGCG 31
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.00 (0 / 30), avg. gap size = 0.0 (0 / 0)
+
+11 24.31 4.00 1.96 AP010888.1 910408 910457 (1474707) (CCGCGC)n#Simple_repeat 1 51 (0) m_b17s252i0
+
+  AP010888.1        910408 CCGCGCTCGCCGCCGGCGGCCGAGACAACG-GCGCTCCCG-GTCCGCGCC 910455
+                                 i  -    v   v   v v vi  -v   v    - i       
+  (CCGCGC)n#Sim          1 CCGCGCCCG-CGCCCGCGCCCGCGCCCGCGCCCGCGCCCGCGCCCGCGCC 49
+
+  AP010888.1        910456 CG 910457
+                             
+  (CCGCGC)n#Sim         50 CG 51
+
+Matrix = Unknown
+Transitions / transversions = 0.43 (3/7)
+Gap_init rate = 0.06 (3 / 49), avg. gap size = 1.00 (3 / 3)
+
+12 24.50 2.22 2.22 AP010888.1 918545 918589 (1466575) (TCG)n#Simple_repeat 1 45 (0) m_b17s252i1
+
+  AP010888.1        918545 TCGGCGTCGTCATCCTCGTGTTCGGCGTCGT-GGCTTTGTTCGTCG 918589
+                              v       i  v    vv   v      - v v i -      
+  (TCG)n#Simple          1 TCGTCGTCGTCGTCGTCGTCGTCGTCGTCGTCGTCGTCG-TCGTCG 45
+
+Matrix = Unknown
+Transitions / transversions = 0.29 (2/7)
+Gap_init rate = 0.05 (2 / 44), avg. gap size = 1.00 (2 / 2)
+
+327 20.48 0.00 0.00 AP010888.1 920832 920914 (1464250) rnd-1_family-0 1 83 (0) m_b17s001i0
+
+  AP010888.1        920832 TGTCCGGCGGTGAAATGCGGCGCGTCTCCATCGCCCGCGCGCTGATGAAC 920881
+                                     iv ivv  i      vv                 iiv ? 
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANC 50
+
+  AP010888.1        920882 CAGCCGAGCTTGCTCATCGCCGACGAGCCGACC 920914
+                           v      ivi  ? vv                 
+  rnd-1_family-         51 GAGCCGAAGCTGNTGCTCGCCGACGAGCCGACC 83
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 24.66
+Transitions / transversions = 0.70 (7/10)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+13 25.76 0.00 0.00 AP010888.1 924806 924843 (1460321) (GCAAATA)n#Simple_repeat 1 38 (0) m_b17s252i2
+
+  AP010888.1        924806 GCAAGTAGCAAATAGCAAGCAATACATATCGAATAGCA 924843
+                               i             ii ii v   v i       
+  (GCAAATA)n#Si          1 GCAAATAGCAAATAGCAAATAGCAAATAGCAAATAGCA 38
+
+Matrix = Unknown
+Transitions / transversions = 3.00 (6/2)
+Gap_init rate = 0.00 (0 / 37), avg. gap size = 0.0 (0 / 0)
+
+12 5.56 0.00 0.00 AP010888.1 928351 928369 (1456795) (CGG)n#Simple_repeat 1 19 (0) m_b17s252i3
+
+  AP010888.1        928351 CGGCGGCGGTGGCGGCGGC 928369
+                                    i         
+  (CGG)n#Simple          1 CGGCGGCGGCGGCGGCGGC 19
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/0)
+Gap_init rate = 0.00 (0 / 18), avg. gap size = 0.0 (0 / 0)
+
+14 23.55 1.67 5.17 AP010888.1 955968 956027 (1429137) (CGGTGG)n#Simple_repeat 1 58 (0) m_b17s252i4
+
+  AP010888.1        955968 CGGTGGAGGTGGTGAGCAGGCCGGTGGCGGGGTCGATGTCGGTGACGGT- 956016
+                                 v     i - -v  -         v v  i  v     i    -
+  (CGGTGG)n#Sim          1 CGGTGGCGGTGGCG-G-TGG-CGGTGGCGGTGGCGGTGGCGGTGGCGGTG 47
+
+  AP010888.1        956017 CAGGTGGCCGT 956027
+                           vv      v  
+  (CGGTGG)n#Sim         48 GCGGTGGCGGT 58
+
+Matrix = Unknown
+Transitions / transversions = 0.38 (3/8)
+Gap_init rate = 0.07 (4 / 59), avg. gap size = 1.00 (4 / 4)
+
+12 21.08 2.50 2.50 AP010888.1 957734 957773 (1427391) (GCC)n#Simple_repeat 1 40 (0) m_b17s252i5
+
+  AP010888.1        957734 GCCGGCCG-CGCCGCCGCCCCGGCAGCTGCTGCCGATGCCG 957773
+                              -    -          v v  v  i  i    vi    
+  (GCC)n#Simple          1 GCC-GCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCG 40
+
+Matrix = Unknown
+Transitions / transversions = 0.75 (3/4)
+Gap_init rate = 0.05 (2 / 39), avg. gap size = 1.00 (2 / 2)
+
+16 21.15 0.00 0.00 AP010888.1 961707 961744 (1423420) (GCT)n#Simple_repeat 1 38 (0) m_b17s252i6
+
+  AP010888.1        961707 GCTGCTGCTCCGGCTGCCGACGCTGCTGCTCCGGCTGC 961744
+                                    v v     i vi         v v     
+  (GCT)n#Simple          1 GCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGC 38
+
+Matrix = Unknown
+Transitions / transversions = 0.40 (2/5)
+Gap_init rate = 0.00 (0 / 37), avg. gap size = 0.0 (0 / 0)
+
+12 10.36 8.51 6.25 AP010888.1 1019899 1019945 (1365219) (CACCG)n#Simple_repeat 1 48 (0) m_b18s252i0
+
+  AP010888.1       1019899 CACGGCACC-CATTCCG-ACCGCACCGCCACCGC-GCGCATCGC-CCACA 1019944
+                              v     -  --   -         -      -v    i   -  i  
+  (CACCG)n#Simp          1 CACCGCACCGCA--CCGCACCGCACCG-CACCGCACCGCACCGCACCGCA 47
+
+  AP010888.1       1019945 C 1019945
+                            
+  (CACCG)n#Simp         48 C 48
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (2/2)
+Gap_init rate = 0.15 (7 / 46), avg. gap size = 1.00 (7 / 7)
+
+11 32.14 0.00 3.39 AP010888.1 1024867 1024927 (1360237) (CCGCAG)n#Simple_repeat 1 59 (0) m_b19s252i0
+
+  AP010888.1       1024867 CCGAAGGCGAGGCGGCTGCGGCAACCACCGCCACGGCCTCCGCCGCAACG 1024916
+                              v  v  vi  v  v  v   i  i v   i i   v v     - - 
+  (CCGCAG)n#Sim          1 CCGCAGCCGCAGCCGCAGCCGCAGCCGCAGCCGCAGCCGCAGCCGC-A-G 48
+
+  AP010888.1       1024917 CAGCAGCCGCA 1024927
+                            v         
+  (CCGCAG)n#Sim         49 CCGCAGCCGCA 59
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (5/10)
+Gap_init rate = 0.03 (2 / 60), avg. gap size = 1.00 (2 / 2)
+
+622 22.22 0.00 0.65 AP010888.1 1031854 1032007 (1353157) rnd-1_family-1 50 202 (0) m_b19s001i0
+
+  AP010888.1       1031854 CGAGATGCTGATGCCCAAGTAGAAGCAGCATGAAAATGGCGGAATGACGT 1031903
+                               iv          i      vivv  viv    i         i   
+  rnd-1_family-         50 CGAGGGGCTGATGCCCGAGTAGACAACGCTCCAAAACGGCGGAATGGCGT 99
+
+  AP010888.1       1031904 TGGGGTGACGCCGCTCATACTCGGGATATGACGGATGAACAGCCTCTTGA 1031953
+                              v i  ?    i i       ? i v ?v   ?   ?     i     
+  rnd-1_family-        100 TGGCGCGANGCCGTTTATACTCGNGGTTTNCCGGNTGANCAGCCCCTTGA 149
+
+  AP010888.1       1031954 AACGGAGATAAATGTCTCCAGAAGGCCAAATCAGCTCCCTTGAAAGCGAG 1032003
+                                 ii  i iv  iv ii  v  v        -    i    vv   
+  rnd-1_family-        150 AACGGAAGTAGACCTCCGCGAAACGCGAAATCAGC-CCCTCGAAACGGAG 198
+
+  AP010888.1       1032004 ATAG 1032007
+                               
+  rnd-1_family-        199 ATAG 202
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 22.45
+Transitions / transversions = 1.27 (19/15)
+Gap_init rate = 0.01 (1 / 153), avg. gap size = 1.00 (1 / 1)
+
+241 12.77 0.00 2.13 AP010888.1 1038246 1038293 (1346871) C rnd-1_family-3 (58) 86 40 m_b19s001i1
+
+  AP010888.1       1038246 AACTGTCGAAACCGCGGAATAACGCCGATTTCCGCTACAGCTCCATGA 1038293
+                             i   -               v    v    v?    v  i      
+C rnd-1_family-         86 AATTGT-GAAACCGCGGAATAAAGCCGTTTTCGNCTACCGCCCCATGA 40
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 14.33
+Transitions / transversions = 0.50 (2/4)
+Gap_init rate = 0.02 (1 / 47), avg. gap size = 1.00 (1 / 1)
+
+11 16.86 2.86 2.86 AP010888.1 1041597 1041631 (1343533) (CAACAG)n#Simple_repeat 1 35 (0) m_b19s252i1
+
+  AP010888.1       1041597 CAACAGCAACAGCAACGTCAGGATGC-ACAGGAACA 1041631
+                                           iv  iv -  -    v    
+  (CAACAG)n#Sim          1 CAACAGCAACAGCAACAGCAACA-GCAACAGCAACA 35
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.06 (2 / 34), avg. gap size = 1.00 (2 / 2)
+
+991 18.78 0.00 0.00 AP010888.1 1046115 1046311 (1338853) C rnd-1_family-1 (5) 197 1 m_b19s001i2
+
+  AP010888.1       1046115 TCAGCTTCAAGGGGCTGATTTGGCGTTTGCCGGAGGTCTACTTCCGTTTC 1046164
+                             v i   i            v      vv                    
+C rnd-1_family-        197 TCCGTTTCGAGGGGCTGATTTCGCGTTTCGCGGAGGTCTACTTCCGTTTC 148
+
+  AP010888.1       1046165 AAGGGGCTGGTCAACTGGCGGAACGCAGATAGAAATGGCATTGTTCTATC 1046214
+                                    ?   ? i  ?ii v ? iii  v   i   ? i iv i v 
+C rnd-1_family-        147 AAGGGGCTGNTCANCCGGNAAACCNCGAGTATAAACGGCNTCGCGCCAAC 98
+
+  AP010888.1       1046215 GCTATTCCGCCGTTTTTAACCAGTGGCTACTTTGGCATCAGCCCCTTGAA 1046264
+                             i             vi v iv  v     iv             i   
+C rnd-1_family-         97 GCCATTCCGCCGTTTTGGAGCGTTGTCTACTCGGGCATCAGCCCCTCGAA 48
+
+  AP010888.1       1046265 ACGGAAGTAGATGTTCCGCAAAGTCAAAATCAGCCCCTTGAAACGGA 1046311
+                                      iv i v ?    v v            i        
+C rnd-1_family-         47 ACGGAAGTAGACCTCCGGNAAAGGCCAAATCAGCCCCTCGAAACGGA 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 16.32
+Transitions / transversions = 1.18 (20/17)
+Gap_init rate = 0.00 (0 / 196), avg. gap size = 0.0 (0 / 0)
+
+1071 14.87 0.00 0.00 AP010888.1 1058891 1059085 (1326079) C rnd-1_family-1 (3) 199 5 m_b19s001i3
+
+  AP010888.1       1058891 TCTCGGCTTCGAGGGGCTGATTTCGTCCGGTGGGGACATCTACTTGGCTT 1058940
+                               v i                  ivivvi v   vi       vvv  
+C rnd-1_family-        199 TCTCCGTTTCGAGGGGCTGATTTCGCGTTTCGCGGAGGTCTACTTCCGTT 150
+
+  AP010888.1       1058941 TCGAGGGGCTGCTCAAACGCCAAACCGCGAGTATAAACGGCTTTGCGGCA 1058990
+                             i        ?   ?v  v?     ?              ? i   v  
+C rnd-1_family-        149 TCAAGGGGCTGNTCANCCGGNAAACCNCGAGTATAAACGGCNTCGCGCCA 100
+
+  AP010888.1       1058991 ACGCCATTACGCCATTGTGGAGCCTTGTCTACTCGGGCATCAGCCCCTTG 1059040
+                                   v    i  v      v                        i 
+C rnd-1_family-         99 ACGCCATTCCGCCGTTTTGGAGCGTTGTCTACTCGGGCATCAGCCCCTCG 50
+
+  AP010888.1       1059041 AAACGGAGATAGATCTCCGGCAAGTGCCAAATCAGCCCCTCGAAA 1059085
+                                  ii    i      ?  iv                    
+C rnd-1_family-         49 AAACGGAAGTAGACCTCCGGNAAAGGCCAAATCAGCCCCTCGAAA 5
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 14.23
+Transitions / transversions = 0.81 (13/16)
+Gap_init rate = 0.00 (0 / 194), avg. gap size = 0.0 (0 / 0)
+
+11 14.05 0.00 8.82 AP010888.1 1067163 1067199 (1317965) (GCCGGT)n#Simple_repeat 1 34 (0) m_b19s252i2
+
+  AP010888.1       1067163 GCCGAGGCCGGTGCCGACGTGCTCGTTGCCGGTTCCG 1067199
+                               iv          --    -  v       v   
+  (GCCGGT)n#Sim          1 GCCGGTGCCGGTGCCG--GTGC-CGGTGCCGGTGCCG 34
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.08 (3 / 36), avg. gap size = 1.00 (3 / 3)
+
+13 11.65 7.69 2.44 AP010888.1 1074571 1074609 (1310555) (CGTACCGT)n#Simple_repeat 1 41 (0) m_b19s252i3
+
+  AP010888.1       1074571 CGTACCGTTCG-ATGGCCG-ACCGGC-TACCGTCGTACCGTC 1074609
+                                  -   - iv i  -    v -               
+  (CGTACCGT)n#S          1 CGTACCG-TCGTACCGTCGTACCGTCGTACCGTCGTACCGTC 41
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (2/2)
+Gap_init rate = 0.11 (4 / 38), avg. gap size = 1.00 (4 / 4)
+
+12 17.89 9.09 0.00 AP010888.1 1097733 1097776 (1287388) (GCGCG)n#Simple_repeat 1 48 (0) m_b20s252i0
+
+  AP010888.1       1097733 GCGTGGCG-GGC-CGTCCCGTCGCGTC-CGCCGCGGCGC-GCGTGGCG 1097776
+                              i    -   -  v v  v    v -  v        -   i    
+  (GCGCG)n#Simp          1 GCGCGGCGCGGCGCGGCGCGGCGCGGCGCGGCGCGGCGCGGCGCGGCG 48
+
+Matrix = Unknown
+Transitions / transversions = 0.40 (2/5)
+Gap_init rate = 0.09 (4 / 43), avg. gap size = 1.00 (4 / 4)
+
+2760 2.75 1.65 0.00 AP010888.1 1097911 1098273 (1286891) C rnd-1_family-2 (0) 369 1 m_b20s001i0
+
+  AP010888.1       1097911 TGTATGCATTCCGGTCCGCGTGTATGCATCCGTATGCATCCGGGGATGCA 1097960
+                                         ?                                   
+C rnd-1_family-        369 TGTATGCATTCCGGNCCGCGTGTATGCATCCGTATGCATCCGGGGATGCA 320
+
+  AP010888.1       1097961 TACAT--CTTTTCTTTCCGTTTCGGCTTGGTTCCGACGTTCCGGGGATGG 1098008
+                                --        i             v                 i  
+C rnd-1_family-        319 TACATGCCTTTTCTTCCCGTTTCGGCTTGTTTCCGACGTTCCGGGGACGG 270
+
+  AP010888.1       1098009 --TCCGGAGGCGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTC 1098056
+                           --     i                                          
+C rnd-1_family-        269 CCTCCGGGGGCGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTC 220
+
+  AP010888.1       1098057 GGGAAAAAGGAAGGAAACCCCATATATTGATGCATACAATGCATACAAGA 1098106
+                                                v                            
+C rnd-1_family-        219 GGGAAAAAGGAAGGAAACCCCTTATATTGATGCATACAATGCATACAAGA 170
+
+  AP010888.1       1098107 TAAAGGAATTATATTTTTTCCTTTATTTATAAGGGTTTTCGGGCTTTTTC 1098156
+                           v         v i     i       v                       
+C rnd-1_family-        169 GAAAGGAATTCTGTTTTTCCCTTTATATATAAGGGTTTTCGGGCTTTTTC 120
+
+  AP010888.1       1098157 CGGGCTTTTTCTGTATGCATCCCCGGATGCATACAGATGCATACACGCAT 1098206
+                                                                             
+C rnd-1_family-        119 CGGGCTTTTTCTGTATGCATCCCCGGATGCATACAGATGCATACACGCAT 70
+
+  AP010888.1       1098207 ACAAAACGGGCCGGAAAAC--TATACAATATTGTAAAGGTCGGAGGTGAG 1098254
+                                              --                             
+C rnd-1_family-         69 ACAAAACGGGCCGGAAAACTTTATACAATATTGTAAAGGTCGGAGGTGAG 20
+
+  AP010888.1       1098255 ACTTTACAATATTGTAAAG 1098273
+                                              
+C rnd-1_family-         19 ACTTTACAATATTGTAAAG 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 2.56
+Transitions / transversions = 1.00 (5/5)
+Gap_init rate = 0.01 (3 / 362), avg. gap size = 2.00 (6 / 3)
+
+12 15.30 5.26 2.56 AP010888.1 1098610 1098647 (1286517) (CCGGAG)n#Simple_repeat 1 39 (0) m_b20s252i1
+
+  AP010888.1       1098610 CCGGCGTCGGA-CC-GCGCCGGGCCCGGAGCCGGATGCCG 1098647
+                               v i    -  - v     iv           -    
+  (CCGGAG)n#Sim          1 CCGGAGCCGGAGCCGGAGCCGGAGCCGGAGCCGGA-GCCG 39
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.08 (3 / 37), avg. gap size = 1.00 (3 / 3)
+
+13 21.89 2.27 2.27 AP010888.1 1105917 1105960 (1279204) (TCCGGA)n#Simple_repeat 1 44 (0) m_b20s252i2
+
+  AP010888.1       1105917 TCCAGTTCCGGATCCGGGGCGGGTTCCGGAT-CGTATTCGAGATC 1105960
+                              i v           iv v  v       -  v  i  -    
+  (TCCGGA)n#Sim          1 TCCGGATCCGGATCCGGATCCGGATCCGGATCCGGATCCG-GATC 44
+
+Matrix = Unknown
+Transitions / transversions = 0.60 (3/5)
+Gap_init rate = 0.05 (2 / 43), avg. gap size = 1.00 (2 / 2)
+
+12 21.20 0.00 5.00 AP010888.1 1106874 1106915 (1278249) (CCGAAT)n#Simple_repeat 1 40 (0) m_b20s252i3
+
+  AP010888.1       1106874 CCGCATCCGCATCCGGAATCACGGATTCGAGCCCGTATCCGA 1106915
+                              v     v    -     -  i  i   ii   v      
+  (CCGAAT)n#Sim          1 CCGAATCCGAATCC-GAATC-CGAATCCGAATCCGAATCCGA 40
+
+Matrix = Unknown
+Transitions / transversions = 1.33 (4/3)
+Gap_init rate = 0.05 (2 / 41), avg. gap size = 1.00 (2 / 2)
+
+2411 4.23 2.11 0.30 AP010888.1 1129736 1130067 (1255097) C rnd-1_family-2 (0) 369 32 m_b20s001i1
+
+  AP010888.1       1129736 TGTATGCATTCCGGCCGGCCTGTATGCATCCGTATGCATCCGGGGATGCA 1129785
+                                         ? v  v                              
+C rnd-1_family-        369 TGTATGCATTCCGGNCCGCGTGTATGCATCCGTATGCATCCGGGGATGCA 320
+
+  AP010888.1       1129786 TACAT--CTTCTCTTCCCGTTTCGGCTTGGTTCCAACGTTCCGGGGATGG 1129833
+                                --   i                  v    i            i  
+C rnd-1_family-        319 TACATGCCTTTTCTTCCCGTTTCGGCTTGTTTCCGACGTTCCGGGGACGG 270
+
+  AP010888.1       1129834 --TCCGGGGGCGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTC 1129881
+                           --                                                
+C rnd-1_family-        269 CCTCCGGGGGCGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTC 220
+
+  AP010888.1       1129882 GGGAAAAAGGAAGGAAACCCCTTATATTGATGCATACAATGCATACAAGA 1129931
+                                                                             
+C rnd-1_family-        219 GGGAAAAAGGAAGGAAACCCCTTATATTGATGCATACAATGCATACAAGA 170
+
+  AP010888.1       1129932 GAAAGGAATTCTGTTTTTCCCTTTATATATAAGGGTTTTCGGGCTTTTTC 1129981
+                                                                             
+C rnd-1_family-        169 GAAAGGAATTCTGTTTTTCCCTTTATATATAAGGGTTTTCGGGCTTTTTC 120
+
+  AP010888.1       1129982 CAAGCCTTTTTTGTATGCATCCCCGGATGCATACAGATGCATACATGCAT 1130031
+                            ii  i    i                                  i    
+C rnd-1_family-        119 CGGGCTTTTTCTGTATGCATCCCCGGATGCATACAGATGCATACACGCAT 70
+
+  AP010888.1       1130032 ACAAGAC-GGCCGGAAGAACTT--CACAATGTTGTAAAG 1130067
+                               i  -        -     --i     i        
+C rnd-1_family-         69 ACAAAACGGGCCGGAA-AACTTTATACAATATTGTAAAG 32
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 3.23
+Transitions / transversions = 3.67 (11/3)
+Gap_init rate = 0.02 (5 / 331), avg. gap size = 1.60 (8 / 5)
+
+2580 2.67 1.78 0.00 AP010888.1 1130259 1130595 (1254569) C rnd-1_family-2 (0) 369 27 m_b20s001i2
+
+  AP010888.1       1130259 TGTATGCATTCCGGTTCGCGTGTATGCATCCGTATGCATCCGGGGATGCA 1130308
+                                         ?i                                  
+C rnd-1_family-        369 TGTATGCATTCCGGNCCGCGTGTATGCATCCGTATGCATCCGGGGATGCA 320
+
+  AP010888.1       1130309 TAC--GTCTTTTCTTTCCGTTTCGGCTTGTTTCCAACGTTCCGGGGATGG 1130356
+                              -- i        i                  i            i  
+C rnd-1_family-        319 TACATGCCTTTTCTTCCCGTTTCGGCTTGTTTCCGACGTTCCGGGGACGG 270
+
+  AP010888.1       1130357 --TCCGGGGGCGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTC 1130404
+                           --                                                
+C rnd-1_family-        269 CCTCCGGGGGCGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTC 220
+
+  AP010888.1       1130405 GGGAAAAAGGAAGGAAACCCCTTATATTGATGCATACAATGCATACAAGA 1130454
+                                                                             
+C rnd-1_family-        219 GGGAAAAAGGAAGGAAACCCCTTATATTGATGCATACAATGCATACAAGA 170
+
+  AP010888.1       1130455 TAAAGGAATTCTGTTTTTTCCTTTATTTATAAGGGTTTTCGGGCTTTTTC 1130504
+                           v                 i       v                       
+C rnd-1_family-        169 GAAAGGAATTCTGTTTTTCCCTTTATATATAAGGGTTTTCGGGCTTTTTC 120
+
+  AP010888.1       1130505 CGGGCTTTTTCTGTATGCATCCCCGGATGCATACAGATGCATACACGCAT 1130554
+                                                                             
+C rnd-1_family-        119 CGGGCTTTTTCTGTATGCATCCCCGGATGCATACAGATGCATACACGCAT 70
+
+  AP010888.1       1130555 ACAAAACGGGCCGGAAAACTT--TACAATATTGTAAAGGCCGG 1130595
+                                                --                i   
+C rnd-1_family-         69 ACAAAACGGGCCGGAAAACTTTATACAATATTGTAAAGGTCGG 27
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 2.18
+Transitions / transversions = 3.50 (7/2)
+Gap_init rate = 0.01 (3 / 336), avg. gap size = 2.00 (6 / 3)
+
+13 8.49 0.00 7.41 AP010888.1 1132892 1132920 (1252244) (GCG)n#Simple_repeat 1 27 (0) m_b20s252i4
+
+  AP010888.1       1132892 GCGGACGGCGGCCGCGCCGGCGGGCGGCG 1132920
+                               -       v   v    -       
+  (GCG)n#Simple          1 GCGG-CGGCGGCGGCGGCGGC-GGCGGCG 27
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/2)
+Gap_init rate = 0.07 (2 / 28), avg. gap size = 1.00 (2 / 2)
+
+13 19.39 0.00 2.78 AP010888.1 1133445 1133481 (1251683) (GCCCGC)n#Simple_repeat 1 36 (0) m_b20s252i5
+
+  AP010888.1       1133445 GCCCGCATCCCGCGCCCGCCGTCGCGGCCGCGCTCGC 1133481
+                                 -v           vvi    v      i   
+  (GCCCGC)n#Sim          1 GCCCGC-GCCCGCGCCCGCGCCCGCGCCCGCGCCCGC 36
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (2/4)
+Gap_init rate = 0.03 (1 / 36), avg. gap size = 1.00 (1 / 1)
+
+14 24.32 2.00 2.00 AP010888.1 1134597 1134646 (1250518) (GTGACC)n#Simple_repeat 1 50 (0) m_b20s252i6
+
+  AP010888.1       1134597 GTGGCCGTGACCGTGGGCGATACCGTCACCCACACCATCGA-CGTGACCG 1134645
+                              i           iv  vv     v   vvv   i -  -        
+  (GTGACC)n#Sim          1 GTGACCGTGACCGTGACCGTGACCGTGACCGTGACCGT-GACCGTGACCG 49
+
+  AP010888.1       1134646 T 1134646
+                            
+  (GTGACC)n#Sim         50 T 50
+
+Matrix = Unknown
+Transitions / transversions = 0.43 (3/7)
+Gap_init rate = 0.04 (2 / 49), avg. gap size = 1.00 (2 / 2)
+
+13 19.79 6.52 0.00 AP010888.1 1142266 1142311 (1242853) (GGCCTT)n#Simple_repeat 1 49 (0) m_b21s252i0
+
+  AP010888.1       1142266 GGCCTTGGCGTTGGCGTATGCCTT-G--TCGGCCTCATCCTTGGCCTTG 1142311
+                                    v     v vv     - -- i     iiv           
+  (GGCCTT)n#Sim          1 GGCCTTGGCCTTGGCCTTGGCCTTGGCCTTGGCCTTGGCCTTGGCCTTG 49
+
+Matrix = Unknown
+Transitions / transversions = 0.60 (3/5)
+Gap_init rate = 0.04 (2 / 45), avg. gap size = 1.50 (3 / 2)
+
+12 28.71 0.00 5.26 AP010888.1 1142445 1142504 (1242660) (CCTTGG)n#Simple_repeat 1 57 (0) m_b21s252i1
+
+  AP010888.1       1142445 CCTTCGCCTTCGCGTATGCGGCCTTGGCGTCGGCGATGGCCTCGTCGGCG 1142494
+                               v     v  v - --         v i   vv      i v vvi 
+  (CCTTGG)n#Sim          1 CCTTGGCCTTGGCCT-T--GGCCTTGGCCTTGGCCTTGGCCTTGGCCTTG 47
+
+  AP010888.1       1142495 GCCTTGACCT 1142504
+                                 i   
+  (CCTTGG)n#Sim         48 GCCTTGGCCT 57
+
+Matrix = Unknown
+Transitions / transversions = 0.44 (4/9)
+Gap_init rate = 0.05 (3 / 59), avg. gap size = 1.00 (3 / 3)
+
+12 23.27 0.00 0.00 AP010888.1 1142768 1142802 (1242362) (GCGGTG)n#Simple_repeat 1 35 (0) m_b21s252i2
+
+  AP010888.1       1142768 GCGGTCTGGGCGTCGGTGGCGGTGGCGGCTGCGGT 1142802
+                                vvv  i v               iv     
+  (GCGGTG)n#Sim          1 GCGGTGGCGGTGGCGGTGGCGGTGGCGGTGGCGGT 35
+
+Matrix = Unknown
+Transitions / transversions = 0.40 (2/5)
+Gap_init rate = 0.00 (0 / 34), avg. gap size = 0.0 (0 / 0)
+
+12 21.77 0.00 6.67 AP010888.1 1143963 1144010 (1241154) (CCTTGG)n#Simple_repeat 1 45 (0) m_b21s252i3
+
+  AP010888.1       1143963 CCTTGGCATCGGCCTTCCGCTTGGCTTCAAGCGCCTTGGCCTCGGCCT 1144010
+                                  v i      vvv      -- vv -          i     
+  (CCTTGG)n#Sim          1 CCTTGGCCTTGGCCTTGGCCTTGGC--CTTG-GCCTTGGCCTTGGCCT 45
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (2/6)
+Gap_init rate = 0.06 (3 / 47), avg. gap size = 1.00 (3 / 3)
+
+14 22.58 2.08 2.08 AP010888.1 1145108 1145155 (1240009) (CGTCCG)n#Simple_repeat 1 48 (0) m_b21s252i4
+
+  AP010888.1       1145108 CGTCCGGGTCCGCGGCGACGTTCACCGT-CGTATCCCCGTCCGCGTCCG 1145155
+                                 v       v vi  -  vv   -  ii   v            
+  (CGTCCG)n#Sim          1 CGTCCGCGTCCGCGTCCGCG-TCCGCGTCCGCGTCCGCGTCCGCGTCCG 48
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (3/6)
+Gap_init rate = 0.04 (2 / 47), avg. gap size = 1.00 (2 / 2)
+
+17 28.11 1.28 3.95 AP010888.1 1148998 1149075 (1236089) (CGCGAA)n#Simple_repeat 1 76 (0) m_b21s252i5
+
+  AP010888.1       1148998 CGCGAACTGCACTACGAGGACGCGAACGCGAGCGCGAACGTGATCCGCG- 1149046
+                                  -  -vv   v i            i        i  -v    -
+  (CGCGAA)n#Sim          1 CGCGAAC-GC-GAACGCGAACGCGAACGCGAACGCGAACGCGA-ACGCGA 47
+
+  AP010888.1       1149047 CCGGCTACCCGGACGACAAGGCGAGCGCG 1149075
+                           v  vvv  v  i   vv  v    i    
+  (CGCGAA)n#Sim         48 ACGCGAACGCGAACGCGAACGCGAACGCG 76
+
+Matrix = Unknown
+Transitions / transversions = 0.42 (5/12)
+Gap_init rate = 0.05 (4 / 77), avg. gap size = 1.00 (4 / 4)
+
+12 11.98 7.89 2.50 AP010888.1 1149685 1149722 (1235442) (GACGCG)n#Simple_repeat 1 40 (0) m_b21s252i6
+
+  AP010888.1       1149685 GACGAGTAC-CGGGC-CGTACG-GGACGCGGACGCGTGACG 1149722
+                               v v  -   i -  v   -             -    
+  (GACGCG)n#Sim          1 GACGCGGACGCGGACGCGGACGCGGACGCGGACGCG-GACG 40
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.11 (4 / 37), avg. gap size = 1.00 (4 / 4)
+
+14 14.74 8.93 3.39 AP010888.1 1152571 1152626 (1232538) (CGTCCG)n#Simple_repeat 1 59 (0) m_b21s252i7
+
+  AP010888.1       1152571 CGTCCGCGTCCACGTCCGCG---GCGGACGCGACCACGCGGCGCGTCCGC 1152617
+                                      i        ---   vv    v  i  -vv         
+  (CGTCCG)n#Sim          1 CGTCCGCGTCCGCGTCCGCGTCCGCGTCCGCGTCCGCG-TCCGCGTCCGC 49
+
+  AP010888.1       1152618 --CCGTCGTCC 1152626
+                           --   -     
+  (CGTCCG)n#Sim         50 GTCCG-CGTCC 59
+
+Matrix = Unknown
+Transitions / transversions = 0.40 (2/5)
+Gap_init rate = 0.07 (4 / 55), avg. gap size = 1.75 (7 / 4)
+
+20 17.07 5.66 0.00 AP010888.1 1152977 1153029 (1232135) (GAAAAA)n#Simple_repeat 1 56 (0) m_b21s252i8
+
+  AP010888.1       1152977 GAAAACGAAAAA-AAGGAGACAAAGAAAAGGAAAAAG-AGAA-AAAGAGC 1153023
+                                v      -  ii   v        i       - i  -   i  v
+  (GAAAAA)n#Sim          1 GAAAAAGAAAAAGAAAAAGAAAAAGAAAAAGAAAAAGAAAAAGAAAAAGA 50
+
+  AP010888.1       1153024 AAAAGA 1153029
+                                 
+  (GAAAAA)n#Sim         51 AAAAGA 56
+
+Matrix = Unknown
+Transitions / transversions = 1.67 (5/3)
+Gap_init rate = 0.06 (3 / 52), avg. gap size = 1.00 (3 / 3)
+
+14 15.27 2.74 11.94 AP010888.1 1157132 1157204 (1227960) (CGCGGTC)n#Simple_repeat 1 67 (0) m_b21s252i9
+
+  AP010888.1       1157132 CGC-GTCCGCGGGCCGCGTGTTCGCGCCGTCC-CGGCGCGTCCTGTCCTG 1157179
+                              -        v     - -  -   v    -   iv  -- v    - 
+  (CGCGGTC)n#Si          1 CGCGGTCCGCGGTCCGCG-G-TC-CGCGGTCCGCGGTCCG--CGGTCC-G 44
+
+  AP010888.1       1157180 GGCGTCCGTGATCCGCCGGTCCGCG 1157204
+                           v -     i i    -         
+  (CGCGGTC)n#Si         45 CG-GTCCGCGGTCCG-CGGTCCGCG 67
+
+Matrix = Unknown
+Transitions / transversions = 0.60 (3/5)
+Gap_init rate = 0.14 (10 / 72), avg. gap size = 1.00 (10 / 10)
+
+12 24.06 4.84 3.17 AP010888.1 1160702 1160763 (1224401) (GGCGCC)n#Simple_repeat 1 63 (0) m_b21s252i10
+
+  AP010888.1       1160702 GGCGTGGGCTCCGGCGTCGGAGCCGCCGAAGGC-CC-G-GCCGGGTCCGG 1160748
+                               iv   v      i   v    v  vv   -  - -     vv    
+  (GGCGCC)n#Sim          1 GGCGCCGGCGCCGGCGCCGGCGCCGGCGCCGGCGCCGGCGCCGGCGCCGG 50
+
+  AP010888.1       1160749 CGACGCGGCCTCGGC 1160763
+                             - -    vi    
+  (GGCGCC)n#Sim         51 CG-C-CGGCGCCGGC 63
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (3/9)
+Gap_init rate = 0.08 (5 / 61), avg. gap size = 1.00 (5 / 5)
+
+13 22.70 7.14 2.74 AP010888.1 1161557 1161626 (1223538) (GCTCGC)n#Simple_repeat 1 73 (0) m_b21s252i11
+
+  AP010888.1       1161557 GCTCGCCGC-CG-GC-C-CGCCGGCGCTCGTCCT-GCTGCTCGCGCTCGC 1161601
+                                -   -  -  - -   iv       iv  -  -            
+  (GCTCGC)n#Sim          1 GCTCG-CGCTCGCGCTCGCGCTCGCGCTCGCGCTCGC-GCTCGCGCTCGC 48
+
+  AP010888.1       1161602 CATGGTGGTCGTGGGCGCGCCCGCG 1161626
+                           vv v i v   i vv     i    
+  (GCTCGC)n#Sim         49 GCTCGCGCTCGCGCTCGCGCTCGCG 73
+
+Matrix = Unknown
+Transitions / transversions = 0.62 (5/8)
+Gap_init rate = 0.10 (7 / 69), avg. gap size = 1.00 (7 / 7)
+
+12 17.70 0.00 5.88 AP010888.1 1164174 1164209 (1220955) (GGCC)n#Simple_repeat 1 34 (0) m_b21s252i12
+
+  AP010888.1       1164174 GGCCGGCGGGGAGGCCATGCCGGGCCCGCCGGCCGG 1164209
+                                  v  vv    -v   -    v         
+  (GGCC)n#Simpl          1 GGCCGGCCGGCCGGCC-GGCC-GGCCGGCCGGCCGG 34
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/5)
+Gap_init rate = 0.06 (2 / 35), avg. gap size = 1.00 (2 / 2)
+
+13 18.14 4.55 7.81 AP010888.1 1164388 1164453 (1220711) (CCCGG)n#Simple_repeat 1 64 (0) m_b21s252i13
+
+  AP010888.1       1164388 CCCGCGGCCGGGCCGGCCGACGG-CGTGCGGGAGCCCGCCCCGGCCCCCG 1164436
+                               - v    v      --   - vv  vv -     v     -   v 
+  (CCCGG)n#Simp          1 CCCG-GCCCGGCCCGGCC--CGGCCCGGCCCG-GCCCGGCCCGG-CCCGG 45
+
+  AP010888.1       1164437 CAC-G-CCGGCCCGGCCCG 1164453
+                            v - -             
+  (CCCGG)n#Simp         46 CCCGGCCCGGCCCGGCCCG 64
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/9)
+Gap_init rate = 0.12 (8 / 65), avg. gap size = 1.00 (8 / 8)
+
+18 30.50 0.00 3.80 AP010888.1 1164421 1164502 (1220662) (CCCGCC)n#Simple_repeat 1 79 (0) m_b21s252i14
+
+  AP010888.1       1164421 CCCGCCCCGGCCCCCGCACGCCGGCCCGGCCCGTCGCGCCGCATCCTCAT 1164470
+                                   v        - v   v   v    -i   -  v ii  i ii
+  (CCCGCC)n#Sim          1 CCCGCCCCCGCCCCCGC-CCCCGCCCCCGCCC-CCGC-CCCCGCCCCCGC 47
+
+  AP010888.1       1164471 CGCCGCCACGGCCGCCATCCTCGCCCTCGCCC 1164502
+                            v     v v   v  ii  i     i     
+  (CCCGCC)n#Sim         48 CCCCGCCCCCGCCCCCGCCCCCGCCCCCGCCC 79
+
+Matrix = Unknown
+Transitions / transversions = 1.11 (10/9)
+Gap_init rate = 0.04 (3 / 81), avg. gap size = 1.00 (3 / 3)
+
+28 20.96 2.47 2.47 AP010888.1 1165057 1165137 (1220027) (CCCACG)n#Simple_repeat 1 81 (0) m_b21s252i15
+
+  AP010888.1       1165057 CCCACGCCGGCGCCCATGCCGCA-GACCACCCCCACGCCGGC-CCCGCAG 1165104
+                                   vi      i   -  - v    v        vi -   i - 
+  (CCCACG)n#Sim          1 CCCACGCCCACGCCCACGCC-CACGCCCACGCCCACGCCCACGCCCAC-G 48
+
+  AP010888.1       1165105 CCCACGCCGACACCCACACCCACACCGGCGCCC 1165137
+                                   v  i     i     i  vi     
+  (CCCACG)n#Sim         49 CCCACGCCCACGCCCACGCCCACGCCCACGCCC 81
+
+Matrix = Unknown
+Transitions / transversions = 1.33 (8/6)
+Gap_init rate = 0.05 (4 / 80), avg. gap size = 1.00 (4 / 4)
+
+12 14.40 3.03 3.03 AP010888.1 1165592 1165624 (1219540) (CATG)n#Simple_repeat 1 33 (0) m_b21s252i16
+
+  AP010888.1       1165592 CATACCTGTCATGCAT-CATGCGCGCATGCATGC 1165624
+                              i v  -       -     ii          
+  (CATG)n#Simpl          1 CATGCATG-CATGCATGCATGCATGCATGCATGC 33
+
+Matrix = Unknown
+Transitions / transversions = 3.00 (3/1)
+Gap_init rate = 0.06 (2 / 32), avg. gap size = 1.00 (2 / 2)
+
+12 10.65 12.96 3.39 AP010888.1 1167372 1167425 (1217739) (GGCGAGCG)n#Simple_repeat 1 59 (0) m_b21s252i17
+
+  AP010888.1       1167372 GGCGAGGCGGGCGA--GGGCGAGC-GGC--GCGGGCCATGC-GACGCGCA 1167415
+                                -        --        -   --      v -  - i  v  i
+  (GGCGAGCG)n#S          1 GGCGA-GCGGGCGAGCGGGCGAGCGGGCGAGCGGGCGA-GCGGGCGAGCG 48
+
+  AP010888.1       1167416 TGCGA-CGGGC 1167425
+                           v    -     
+  (GGCGAGCG)n#S         49 GGCGAGCGGGC 59
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.13 (7 / 53), avg. gap size = 1.29 (9 / 7)
+
+2026 6.40 2.02 0.00 AP010888.1 1174749 1175045 (1210119) C rnd-1_family-2 (0) 369 67 m_b21s001i0
+
+  AP010888.1       1174749 TGTATGCATTCCGGCCGGGCTGTATGCATCCGTATGCATCAGGGGATGCA 1174798
+                                         ? v vv                    v         
+C rnd-1_family-        369 TGTATGCATTCCGGNCCGCGTGTATGCATCCGTATGCATCCGGGGATGCA 320
+
+  AP010888.1       1174799 TACACGCCCGTTCT--CCGTTTCGGCTTGTTTCCAGCGTTCCGGGG-CGG 1174845
+                               i   iv    --                  ii          -   
+C rnd-1_family-        319 TACATGCCTTTTCTTCCCGTTTCGGCTTGTTTCCGACGTTCCGGGGACGG 270
+
+  AP010888.1       1174846 CCTCCACG--CGTGTATGCATTGTATGCATCATTCCCTTATAGAGGATTC 1174893
+                                iv --                                 i      
+C rnd-1_family-        269 CCTCCGGGGGCGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTC 220
+
+  AP010888.1       1174894 GGGAAAA-GGAAGGAAACCCCATATATTGATGCATACAATGCATACAAGA 1174942
+                                  -             v                            
+C rnd-1_family-        219 GGGAAAAAGGAAGGAAACCCCTTATATTGATGCATACAATGCATACAAGA 170
+
+  AP010888.1       1174943 TAAAGGAATTATATTTTTTCCTTTATTTATAAGGGTTTTCGGGCTTTTTC 1174992
+                           v         v i     i       v                       
+C rnd-1_family-        169 GAAAGGAATTCTGTTTTTCCCTTTATATATAAGGGTTTTCGGGCTTTTTC 120
+
+  AP010888.1       1174993 CGGGCTTTTTCTGTATGCATCCCCGGATGCATACAGATGCATACATGCAT 1175042
+                                                                        i    
+C rnd-1_family-        119 CGGGCTTTTTCTGTATGCATCCCCGGATGCATACAGATGCATACACGCAT 70
+
+  AP010888.1       1175043 ACA 1175045
+                              
+C rnd-1_family-         69 ACA 67
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 5.72
+Transitions / transversions = 0.90 (9/10)
+Gap_init rate = 0.01 (4 / 296), avg. gap size = 1.50 (6 / 4)
+
+2220 5.19 1.95 0.00 AP010888.1 1175335 1175642 (1209522) C rnd-1_family-2 (0) 369 56 m_b21s001i1
+
+  AP010888.1       1175335 TGTATGCATTCCGGGGCGCGTGTATGCATCCGTATGCATCAGGGGATGCA 1175384
+                                         ?v                        v         
+C rnd-1_family-        369 TGTATGCATTCCGGNCCGCGTGTATGCATCCGTATGCATCCGGGGATGCA 320
+
+  AP010888.1       1175385 TACATGCCCGTTCTTC--GTTTCGGCTTGTTTCCAGCGTTCCGGGG-CGG 1175431
+                                   iv      --                ii          -   
+C rnd-1_family-        319 TACATGCCTTTTCTTCCCGTTTCGGCTTGTTTCCGACGTTCCGGGGACGG 270
+
+  AP010888.1       1175432 CCTCCACG--CGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTC 1175479
+                                iv --                                        
+C rnd-1_family-        269 CCTCCGGGGGCGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTC 220
+
+  AP010888.1       1175480 GGGAAAA-GGAAGGAAACCCCTTATATTGATGCATACAATGCATACAAGA 1175528
+                                  -                                          
+C rnd-1_family-        219 GGGAAAAAGGAAGGAAACCCCTTATATTGATGCATACAATGCATACAAGA 170
+
+  AP010888.1       1175529 GAAAGGAATTCTGTTCTTTCCTTTATATATAAGGGTTTTCGGGCTTTTTC 1175578
+                                          i  i                               
+C rnd-1_family-        169 GAAAGGAATTCTGTTTTTCCCTTTATATATAAGGGTTTTCGGGCTTTTTC 120
+
+  AP010888.1       1175579 CAAGCTTTTTCTGTATGCATCCCCGGATGCATACAAATGCATACATGCAT 1175628
+                            ii                                i         i    
+C rnd-1_family-        119 CGGGCTTTTTCTGTATGCATCCCCGGATGCATACAGATGCATACACGCAT 70
+
+  AP010888.1       1175629 ACAGAACAGGCCGG 1175642
+                              i   i      
+C rnd-1_family-         69 ACAAAACGGGCCGG 56
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 3.85
+Transitions / transversions = 3.00 (12/4)
+Gap_init rate = 0.01 (4 / 307), avg. gap size = 1.50 (6 / 4)
+
+12 13.94 4.44 6.82 AP010888.1 1180670 1180714 (1204450) (CGGCGC)n#Simple_repeat 1 44 (0) m_b21s252i18
+
+  AP010888.1       1180670 CGGCGGACGCGCGCCGGCTCC-TCGTCCGGTGCCGGCG-CGCCGCCG 1180714
+                               - v  -        v  -v  -    i       -  v     
+  (CGGCGC)n#Sim          1 CGGC-GCCG-GCGCCGGCGCCGGCG-CCGGCGCCGGCGCCGGCGCCG 44
+
+Matrix = Unknown
+Transitions / transversions = 0.25 (1/4)
+Gap_init rate = 0.11 (5 / 44), avg. gap size = 1.00 (5 / 5)
+
+12 23.27 0.00 0.00 AP010888.1 1181557 1181591 (1203573) (CGGCGG)n#Simple_repeat 1 35 (0) m_b21s252i19
+
+  AP010888.1       1181557 CGGCGGTGGCGCGGGCTGCGGCTGTGGCGTCGGCG 1181591
+                                 i    vv   v     v i    v     
+  (CGGCGG)n#Sim          1 CGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCG 35
+
+Matrix = Unknown
+Transitions / transversions = 0.40 (2/5)
+Gap_init rate = 0.00 (0 / 34), avg. gap size = 0.0 (0 / 0)
+
+17 9.67 2.78 2.78 AP010888.1 1181976 1182011 (1203153) (CGGCCT)n#Simple_repeat 1 36 (0) m_b21s252i20
+
+  AP010888.1       1181976 CGGCCTCGGCCTCGGCCTTGACCTC-GCCTACGGTCT 1182011
+                                             i i    -    -   i  
+  (CGGCCT)n#Sim          1 CGGCCTCGGCCTCGGCCTCGGCCTCGGCCT-CGGCCT 36
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.06 (2 / 35), avg. gap size = 1.00 (2 / 2)
+
+12 19.04 1.75 9.43 AP010888.1 1187694 1187750 (1197414) (CGCCCG)n#Simple_repeat 1 53 (0) m_b21s252i21
+
+  AP010888.1       1187694 CGCGCGGGCCATGGGCCGGGGCCCGCCGCCCGCGCCCACCGTTCCCG-GC 1187742
+                              v  v   -i v   v v     -           -v  --    -  
+  (CGCCCG)n#Sim          1 CGCCCGCGCC-CGCGCCCGCGCCCG-CGCCCGCGCCC-GCG--CCCGCGC 45
+
+  AP010888.1       1187743 CCGCGTCC 1187750
+                                i  
+  (CGCCCG)n#Sim         46 CCGCGCCC 53
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (2/6)
+Gap_init rate = 0.11 (6 / 56), avg. gap size = 1.00 (6 / 6)
+
+13 12.75 2.63 5.41 AP010888.1 1194305 1194342 (1190822) (CGCGCGT)n#Simple_repeat 1 37 (0) m_b22s252i0
+
+  AP010888.1       1194305 CGCGGCG-CGTGCGGCGAGCGTGCGCGCGTCGCACGTCG 1194342
+                              -   -  i   v  v    -          i     
+  (CGCGCGT)n#Si          1 CGC-GCGTCGCGCGTCGCGCGT-CGCGCGTCGCGCGTCG 37
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (2/2)
+Gap_init rate = 0.08 (3 / 37), avg. gap size = 1.00 (3 / 3)
+
+2499 6.63 1.65 0.27 AP010888.1 1195816 1196178 (1188986) C rnd-1_family-2 (1) 368 1 m_b22s001i0
+
+  AP010888.1       1195816 GTATGCATTCCGGGCGGGCTGTATGCATCCGTATGCATCGGGGGATGCAT 1195865
+                                        ? v vv                    v          
+C rnd-1_family-        368 GTATGCATTCCGGNCCGCGTGTATGCATCCGTATGCATCCGGGGATGCAT 319
+
+  AP010888.1       1195866 ACAT--CTTTTCTTTCCGTTTCGGCTTGTTTCCGACGTTCCGGGGATGG- 1195912
+                               --        i                               i  -
+C rnd-1_family-        318 ACATGCCTTTTCTTCCCGTTTCGGCTTGTTTCCGACGTTCCGGGGACGGC 269
+
+  AP010888.1       1195913 -TCCGGAGGCGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTCG 1195961
+                           -     i                                           
+C rnd-1_family-        268 CTCCGGGGGCGTGTATGCATTGTATGCATCATTCCCTTATAGGGGATTCG 219
+
+  AP010888.1       1195962 GGAAAAAGGAAGGAAACCCCATATATTGATGCATACAATGCATACAAGAG 1196011
+                                               v                             
+C rnd-1_family-        218 GGAAAAAGGAAGGAAACCCCTTATATTGATGCATACAATGCATACAAGAG 169
+
+  AP010888.1       1196012 AAAGGAATTATATTTTTTCCTTTATATATAAGGGTTTTCGGGCCTTTTCC 1196061
+                                    v i     i                        -     i 
+C rnd-1_family-        168 AAAGGAATTCTGTTTTTCCCTTTATATATAAGGGTTTTCGGG-CTTTTTC 120
+
+  AP010888.1       1196062 CAAGCCTTTTCTGTATGCATCCCCGGATGCATACAGATGCATACACGCAT 1196111
+                            ii  i                                            
+C rnd-1_family-        119 CGGGCTTTTTCTGTATGCATCCCCGGATGCATACAGATGCATACACGCAT 70
+
+  AP010888.1       1196112 ACAAAACGGGCCGGAAAACTT--TACAATATTGTAAAGCCCCGGCCCCGG 1196159
+                                                --               vi v ivvivi 
+C rnd-1_family-         69 ACAAAACGGGCCGGAAAACTTTATACAATATTGTAAAGGTCGGAGGTGAG 20
+
+  AP010888.1       1196160 ACTTTACAATATTGTAAAG 1196178
+                                              
+C rnd-1_family-         19 ACTTTACAATATTGTAAAG 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 6.43
+Transitions / transversions = 1.18 (13/11)
+Gap_init rate = 0.01 (5 / 362), avg. gap size = 1.40 (7 / 5)
+
+12 24.30 0.00 0.00 AP010888.1 1196352 1196385 (1188779) (GCCGG)n#Simple_repeat 1 34 (0) m_b22s252i1
+
+  AP010888.1       1196352 GCCGTCCCGGACGGGGACGGGCCCGCCCGGGCCG 1196385
+                               vv    i v   v      v v        
+  (GCCGG)n#Simp          1 GCCGGGCCGGGCCGGGCCGGGCCGGGCCGGGCCG 34
+
+Matrix = Unknown
+Transitions / transversions = 0.17 (1/6)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+15 22.81 5.17 1.67 AP010888.1 1196865 1196922 (1188242) (CGC)n#Simple_repeat 1 60 (0) m_b22s252i2
+
+  AP010888.1       1196865 CGCCG-CGCATCCACACG-CGCAGCAGCGGCCACC-CCGCGGCCCGCGCC 1196911
+                                -   vv  i -  -   v  v  v   i  -    v   vv    
+  (CGC)n#Simple          1 CGCCGCCGCCGCCGC-CGCCGCCGCCGCCGCCGCCGCCGCCGCCGCCGCC 49
+
+  AP010888.1       1196912 GCCGACGCCGC 1196922
+                               v      
+  (CGC)n#Simple         50 GCCGCCGCCGC 60
+
+Matrix = Unknown
+Transitions / transversions = 0.22 (2/9)
+Gap_init rate = 0.07 (4 / 57), avg. gap size = 1.00 (4 / 4)
+
+14 16.03 3.57 7.41 AP010888.1 1200805 1200860 (1184304) (GGCCGCC)n#Simple_repeat 1 54 (0) m_b22s252i3
+
+  AP010888.1       1200805 GGCCGCCTTGTCCGCCTGGCTG--GGCCCGTGCCCGCCGGCCGACCGGCC 1200852
+                                  -- v     -   i --    vvi v          -      
+  (GGCCGCC)n#Si          1 GGCCGCC--GGCCGCC-GGCCGCCGGCCGCCGGCCGCCGGCCG-CCGGCC 46
+
+  AP010888.1       1200853 GCCGCCCG 1200860
+                               v   
+  (GGCCGCC)n#Si         47 GCCGGCCG 54
+
+Matrix = Unknown
+Transitions / transversions = 0.40 (2/5)
+Gap_init rate = 0.09 (5 / 55), avg. gap size = 1.20 (6 / 5)
+
+14 19.62 1.92 6.00 AP010888.1 1200830 1200881 (1184283) (CCGG)n#Simple_repeat 1 50 (0) m_b22s252i4
+
+  AP010888.1       1200830 CCGTGCCCGCCGGCCGACCGGCC-GCCGCCCGTCATGCCATGCATGGCCG 1200878
+                              -   v        i      -    v   v vv   -v  -i     
+  (CCGG)n#Simpl          1 CCG-GCCGGCCGGCCGGCCGGCCGGCCGGCCGGCCGGCC-GGC-CGGCCG 47
+
+  AP010888.1       1200879 GCC 1200881
+                              
+  (CCGG)n#Simpl         48 GCC 50
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (2/6)
+Gap_init rate = 0.08 (4 / 51), avg. gap size = 1.00 (4 / 4)
+
+12 28.69 0.00 0.00 AP010888.1 1202562 1202603 (1182561) (CGATGG)n#Simple_repeat 1 42 (0) m_b22s252i5
+
+  AP010888.1       1202562 CGATGGCGACGAGGACGGGGATGGCGAGGAAGAAGCCGATGG 1202603
+                                    i iv  i  v        v iv  v v      
+  (CGATGG)n#Sim          1 CGATGGCGATGGCGATGGCGATGGCGATGGCGATGGCGATGG 42
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (4/6)
+Gap_init rate = 0.00 (0 / 41), avg. gap size = 0.0 (0 / 0)
+
+13 4.17 8.00 0.00 AP010888.1 1202943 1202967 (1182197) (CGCC)n#Simple_repeat 1 27 (0) m_b22s252i6
+
+  AP010888.1       1202943 CGCCCGCCC-CCTGCCCG-CCGCCCGC 1202967
+                                    -  i     -        
+  (CGCC)n#Simpl          1 CGCCCGCCCGCCCGCCCGCCCGCCCGC 27
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/0)
+Gap_init rate = 0.08 (2 / 24), avg. gap size = 1.00 (2 / 2)
+
+12 25.02 0.00 4.55 AP010888.1 1209699 1209744 (1175420) (CGGC)n#Simple_repeat 1 44 (0) m_b22s252i7
+
+  AP010888.1       1209699 CGGCCGGACGCACCGGCCCGCCGGACTGCCGAAAGGCGTGGCCGGC 1209744
+                                  v  -i      v     v v    ivv   -i       
+  (CGGC)n#Simpl          1 CGGCCGGCCG-GCCGGCCGGCCGGCCGGCCGGCCGGC-CGGCCGGC 44
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (3/6)
+Gap_init rate = 0.04 (2 / 45), avg. gap size = 1.00 (2 / 2)
+
+12 12.01 7.89 2.50 AP010888.1 1212129 1212166 (1172998) (CACG)n#Simple_repeat 1 40 (0) m_b22s252i8
+
+  AP010888.1       1212129 CACGCGCCGCATGCTCGC-CGCACGCATGCACG-AC-CACG 1212166
+                                -v    i  v   -        i     -  -    
+  (CACG)n#Simpl          1 CACGC-ACGCACGCACGCACGCACGCACGCACGCACGCACG 40
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (2/2)
+Gap_init rate = 0.11 (4 / 37), avg. gap size = 1.00 (4 / 4)
+
+17 19.94 0.00 0.00 AP010888.1 1212594 1212633 (1172531) (ACCGGA)n#Simple_repeat 1 40 (0) m_b22s252i9
+
+  AP010888.1       1212594 ACCCGACACGGAACCGGAACCGGAACCAAACCCGGATCCG 1212633
+                              v  vv                   ii v     v   
+  (ACCGGA)n#Sim          1 ACCGGAACCGGAACCGGAACCGGAACCGGAACCGGAACCG 40
+
+Matrix = Unknown
+Transitions / transversions = 0.40 (2/5)
+Gap_init rate = 0.00 (0 / 39), avg. gap size = 0.0 (0 / 0)
+
+20 17.07 5.66 0.00 AP010888.1 1212812 1212864 (1172300) (GAAAAA)n#Simple_repeat 1 56 (0) m_b22s252i10
+
+  AP010888.1       1212812 GAAAACGAAAAA-AAGGAGACAAAGAAAAGGAAAAAG-AGAA-AAAGAGC 1212858
+                                v      -  ii   v        i       - i  -   i  v
+  (GAAAAA)n#Sim          1 GAAAAAGAAAAAGAAAAAGAAAAAGAAAAAGAAAAAGAAAAAGAAAAAGA 50
+
+  AP010888.1       1212859 AAAAGA 1212864
+                                 
+  (GAAAAA)n#Sim         51 AAAAGA 56
+
+Matrix = Unknown
+Transitions / transversions = 1.67 (5/3)
+Gap_init rate = 0.06 (3 / 52), avg. gap size = 1.00 (3 / 3)
+
+12 10.73 0.00 11.76 AP010888.1 1222477 1222514 (1162650) (GCCG)n#Simple_repeat 1 34 (0) m_b22s252i11
+
+  AP010888.1       1222477 GCCGGCCGGCACCGGACCGCAACGGTCGGCCGGCCGGC 1222514
+                                    --    -   -iv   i            
+  (GCCG)n#Simpl          1 GCCGGCCGG--CCGG-CCG-GCCGGCCGGCCGGCCGGC 34
+
+Matrix = Unknown
+Transitions / transversions = 2.00 (2/1)
+Gap_init rate = 0.11 (4 / 37), avg. gap size = 1.00 (4 / 4)
+
+12 23.85 6.12 0.00 AP010888.1 1226965 1227013 (1158151) (GCGCC)n#Simple_repeat 1 52 (0) m_b22s252i12
+
+  AP010888.1       1226965 GCCCCGCGTCGAGCCG-GCCATGCCGCCACGCGTCGCG--GATCCGCGCC 1227011
+                             v     i  v    -   ii     vv    i    -- vv       
+  (GCGCC)n#Simp          1 GCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCCGCGCC 50
+
+  AP010888.1       1227012 GC 1227013
+                             
+  (GCGCC)n#Simp         51 GC 52
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (4/6)
+Gap_init rate = 0.04 (2 / 48), avg. gap size = 1.50 (3 / 2)
+
+2722 3.86 1.65 0.00 AP010888.1 1229431 1229793 (1155371) rnd-1_family-2 1 369 (0) m_b22s001i1
+
+  AP010888.1       1229431 CTTTACATTATTGTAAAGCCCCGGCCCCGGACTTTACAATATTGTATA-- 1229478
+                                  v          i i iv i   iv                 --
+  rnd-1_family-          1 CTTTACAATATTGTAAAGTCTCACCTCCGACCTTTACAATATTGTATAAA 50
+
+  AP010888.1       1229479 GTTTTCCGGCCCGTTTTGTATGCGTGTATGCATCTGTATGCATCCGGGGA 1229528
+                                                                             
+  rnd-1_family-         51 GTTTTCCGGCCCGTTTTGTATGCGTGTATGCATCTGTATGCATCCGGGGA 100
+
+  AP010888.1       1229529 TGCATACAGAAAAAGCCCGGAAAAAGCCCGAAAACCCTTATATATAAAGG 1229578
+                                                                             
+  rnd-1_family-        101 TGCATACAGAAAAAGCCCGGAAAAAGCCCGAAAACCCTTATATATAAAGG 150
+
+  AP010888.1       1229579 GAAAAACAGAATTCCTTTCTCTTGTATGCATTGTATGCATCAATATAAGG 1229628
+                                                                             
+  rnd-1_family-        151 GAAAAACAGAATTCCTTTCTCTTGTATGCATTGTATGCATCAATATAAGG 200
+
+  AP010888.1       1229629 GGTTTCTTCCCTTTTTCCCGAATCCCCTATAAGGGAACGATGCATACAAT 1229678
+                                 i i                            i            
+  rnd-1_family-        201 GGTTTCCTTCCTTTTTCCCGAATCCCCTATAAGGGAATGATGCATACAAT 250
+
+  AP010888.1       1229679 GCATACACGCCCCCGGA--CCATCCCCGGAACGTCGGAAACAAGCCGAAA 1229726
+                                            --  i                            
+  rnd-1_family-        251 GCATACACGCCCCCGGAGGCCGTCCCCGGAACGTCGGAAACAAGCCGAAA 300
+
+  AP010888.1       1229727 CGGGAAGAGAAG--ATGTATGCATCCCCGGATGCATACGGATGCATACAC 1229774
+                                   i   --                                    
+  rnd-1_family-        301 CGGGAAGAAAAGGCATGTATGCATCCCCGGATGCATACGGATGCATACAC 350
+
+  AP010888.1       1229775 GCGCCCCGGAATGCATACA 1229793
+                              v?              
+  rnd-1_family-        351 GCGGNCCGGAATGCATACA 369
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 3.72
+Transitions / transversions = 2.50 (10/4)
+Gap_init rate = 0.01 (3 / 362), avg. gap size = 2.00 (6 / 3)
+
+402 5.56 0.00 0.00 AP010888.1 1229941 1229994 (1155170) C rnd-1_family-2 (0) 369 316 m_b22s001i2
+
+  AP010888.1       1229941 TGTATGCATTCCGGTTCGCGTGTATGCATTTGTATGCATCCGGGGATGCA 1229990
+                                         ?i             ii                   
+C rnd-1_family-        369 TGTATGCATTCCGGNCCGCGTGTATGCATCCGTATGCATCCGGGGATGCA 320
+
+  AP010888.1       1229991 TACA 1229994
+                               
+C rnd-1_family-        319 TACA 316
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 4.13
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 53), avg. gap size = 0.0 (0 / 0)
+
+2257 3.06 1.36 0.00 AP010888.1 1229958 1230251 (1154913) rnd-1_family-2 72 369 (0) m_b22s001i3
+
+  AP010888.1       1229958 GCGTGTATGCATTTGTATGCATCCGGGGATGCATACAGAAAAAGCCCGGA 1230007
+                                       i                                     
+  rnd-1_family-         72 GCGTGTATGCATCTGTATGCATCCGGGGATGCATACAGAAAAAGCCCGGA 121
+
+  AP010888.1       1230008 AAAAGCCCGAAAACCCTTATATATAAAGGGAAAAACAGAATTCCTTTCTC 1230057
+                                                                             
+  rnd-1_family-        122 AAAAGCCCGAAAACCCTTATATATAAAGGGAAAAACAGAATTCCTTTCTC 171
+
+  AP010888.1       1230058 TTGTATGCATTGTATGCATCAATATAAGGGGTTTCCTTCCTTTTTCTCGA 1230107
+                                                                         i   
+  rnd-1_family-        172 TTGTATGCATTGTATGCATCAATATAAGGGGTTTCCTTCCTTTTTCCCGA 221
+
+  AP010888.1       1230108 ATCCTCTATAAGGGAATGATGCATACAATGCATACACGCCCCCGGA--CC 1230155
+                               i                                         --  
+  rnd-1_family-        222 ATCCCCTATAAGGGAATGATGCATACAATGCATACACGCCCCCGGAGGCC 271
+
+  AP010888.1       1230156 ATCCCCGGAACGTTGGAACCAAGCCGAAACGGGAAGAGAAG--ATGTATG 1230203
+                           i            i    v                  i   --       
+  rnd-1_family-        272 GTCCCCGGAACGTCGGAAACAAGCCGAAACGGGAAGAAAAGGCATGTATG 321
+
+  AP010888.1       1230204 CATCCCCGGATGCATACGGATGCATACAGGCCGGCCGGAATGCATACA 1230251
+                                                       v  v ?              
+  rnd-1_family-        322 CATCCCCGGATGCATACGGATGCATACACGCGGNCCGGAATGCATACA 369
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 2.50
+Transitions / transversions = 2.00 (6/3)
+Gap_init rate = 0.01 (2 / 293), avg. gap size = 2.00 (4 / 2)
+
+402 5.56 0.00 0.00 AP010888.1 1230399 1230452 (1154712) C rnd-1_family-2 (0) 369 316 m_b22s001i4
+
+  AP010888.1       1230399 TGTATGCATTCCGGTTCGCGTGTATGCATTTGTATGCATCCGGGGATGCA 1230448
+                                         ?i             ii                   
+C rnd-1_family-        369 TGTATGCATTCCGGNCCGCGTGTATGCATCCGTATGCATCCGGGGATGCA 320
+
+  AP010888.1       1230449 TACA 1230452
+                               
+C rnd-1_family-        319 TACA 316
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 4.13
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 53), avg. gap size = 0.0 (0 / 0)
+
+2215 3.41 1.37 0.00 AP010888.1 1230416 1230708 (1154456) rnd-1_family-2 72 368 (1) m_b22s001i5
+
+  AP010888.1       1230416 GCGTGTATGCATTTGTATGCATCCGGGGATGCATACAGAAAAAGCCCGGA 1230465
+                                       i                                     
+  rnd-1_family-         72 GCGTGTATGCATCTGTATGCATCCGGGGATGCATACAGAAAAAGCCCGGA 121
+
+  AP010888.1       1230466 AAAAGCCCGAAAACCCTTATATATAAAGGGAAAAACAGAATTCCTTTCTC 1230515
+                                                                             
+  rnd-1_family-        122 AAAAGCCCGAAAACCCTTATATATAAAGGGAAAAACAGAATTCCTTTCTC 171
+
+  AP010888.1       1230516 TTGTATGCATTGTATGCATCAATATAAGGGGTTTCTTCCCTTTTTCCCGA 1230565
+                                                              i i            
+  rnd-1_family-        172 TTGTATGCATTGTATGCATCAATATAAGGGGTTTCCTTCCTTTTTCCCGA 221
+
+  AP010888.1       1230566 ATCCTCTATAAGGGAATGATGCATACAATGCATACACGCCCCCGGA--CC 1230613
+                               i                                         --  
+  rnd-1_family-        222 ATCCCCTATAAGGGAATGATGCATACAATGCATACACGCCCCCGGAGGCC 271
+
+  AP010888.1       1230614 ATCCCCGGAACGTCGGAAACAAGCCGAAACGGAAAGAAAAG--ATGTATG 1230661
+                           i                               i        --       
+  rnd-1_family-        272 GTCCCCGGAACGTCGGAAACAAGCCGAAACGGGAAGAAAAGGCATGTATG 321
+
+  AP010888.1       1230662 CATCCCCTGATGCATACGGATGCATACAGCCCGCCCGGAATGCATAC 1230708
+                                  v                    vv v ?             
+  rnd-1_family-        322 CATCCCCGGATGCATACGGATGCATACACGCGGNCCGGAATGCATAC 368
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 3.19
+Transitions / transversions = 1.50 (6/4)
+Gap_init rate = 0.01 (2 / 292), avg. gap size = 2.00 (4 / 2)
+
+14 26.90 1.82 1.82 AP010888.1 1237563 1237617 (1147547) (ACCGAC)n#Simple_repeat 1 55 (0) m_b22s252i13
+
+  AP010888.1       1237563 ACCGTCACCGACACCGGCCACCGGC-TCGACAAGGACAACATGCCCGACA 1237611
+                               v          - v     i -i     vv    v ivvv      
+  (ACCGAC)n#Sim          1 ACCGACACCGACACC-GACACCGACACCGACACCGACACCGACACCGACA 49
+
+  AP010888.1       1237612 CGGACA 1237617
+                            v    
+  (ACCGAC)n#Sim         50 CCGACA 55
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (3/9)
+Gap_init rate = 0.04 (2 / 54), avg. gap size = 1.00 (2 / 2)
+
+12 15.62 1.92 10.42 AP010888.1 1244596 1244647 (1140517) (GCGCCG)n#Simple_repeat 1 48 (0) m_b22s252i14
+
+  AP010888.1       1244596 GCGCCGGCGTCCAGCGCCTGCGACCGTTGCC-GCGGCGTGCCGACGGCGA 1244644
+                                    -  i     v   -   vi   -   v  - -  v     -
+  (GCGCCG)n#Sim          1 GCGCCGGCG-CCGGCGCCGGCG-CCGGCGCCGGCGCCG-G-CGCCGGCG- 45
+
+  AP010888.1       1244645 CCG 1244647
+                              
+  (GCGCCG)n#Sim         46 CCG 48
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (2/4)
+Gap_init rate = 0.12 (6 / 51), avg. gap size = 1.00 (6 / 6)
+
+15 23.76 1.96 1.96 AP010888.1 1304168 1304218 (1080946) (TCGTCG)n#Simple_repeat 1 51 (0) m_b23s252i0
+
+  AP010888.1       1304168 TCGTCGTCATCGTCATCTTCCGT-GTCGCCGTCGCCGTGTTCCGCGACGT 1304216
+                                   i     i  v -   -    i     i   vv  vv  v   
+  (TCGTCG)n#Sim          1 TCGTCGTCGTCGTCGTCGT-CGTCGTCGTCGTCGTCGTCGTCGTCGTCGT 49
+
+  AP010888.1       1304217 CG 1304218
+                             
+  (TCGTCG)n#Sim         50 CG 51
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (4/6)
+Gap_init rate = 0.04 (2 / 50), avg. gap size = 1.00 (2 / 2)
+
+12 11.71 7.32 4.76 AP010888.1 1326962 1327002 (1058162) (CCG)n#Simple_repeat 1 42 (0) m_b24s252i0
+
+  AP010888.1       1326962 CCG-CGCCGCCGCCGAAGCCGACG-AGCACGCCGGCCG-CGCCG 1327002
+                              -           vv    v  -v  -    -    -     
+  (CCG)n#Simple          1 CCGCCGCCGCCGCCGCCGCCGCCGCCGC-CGCC-GCCGCCGCCG 42
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.12 (5 / 40), avg. gap size = 1.00 (5 / 5)
+
+16 27.26 3.85 2.53 AP010888.1 1333365 1333442 (1051722) (CCACGG)n#Simple_repeat 1 79 (0) m_b24s252i1
+
+  AP010888.1       1333365 CCA-GGCCAGCGCCTTGGCGCCGGACACGCCCACGGCCA-GGCAACCGGC 1333412
+                              -     vv   vi   vv   v    v         -   v -    
+  (CCACGG)n#Sim          1 CCACGGCCACGGCCACGGCCACGGCCACGGCCACGGCCACGGCCA-CGGC 49
+
+  AP010888.1       1333413 CA-GTCCGGGACCGGCGGACACGGCGATGGC 1333442
+                             - v  iv i  -i   v      v i   
+  (CCACGG)n#Sim         50 CACGGCCACGGCC-ACGGCCACGGCCACGGC 79
+
+Matrix = Unknown
+Transitions / transversions = 0.42 (5/12)
+Gap_init rate = 0.06 (5 / 77), avg. gap size = 1.00 (5 / 5)
+
+12 20.30 6.67 0.00 AP010888.1 1351006 1351050 (1034114) (CACCGG)n#Simple_repeat 1 48 (0) m_b24s252i2
+
+  AP010888.1       1351006 CACCGGTTCCGGCA-C--CACCGGAGGCACCACCGGCACCGGCAACGG 1351050
+                                 iv      - --      viv iv              v   
+  (CACCGG)n#Sim          1 CACCGGCACCGGCACCGGCACCGGCACCGGCACCGGCACCGGCACCGG 48
+
+Matrix = Unknown
+Transitions / transversions = 0.60 (3/5)
+Gap_init rate = 0.05 (2 / 44), avg. gap size = 1.50 (3 / 2)
+
+15 21.38 0.00 0.00 AP010888.1 1386500 1386537 (998627) (CGTCCT)n#Simple_repeat 1 38 (0) m_b25s252i0
+
+  AP010888.1       1386500 CGTCCGTATCCTCGTCCTCTTCCTCGACTTCGCCCTCG 1386537
+                                vii           v      v i   i     
+  (CGTCCT)n#Sim          1 CGTCCTCGTCCTCGTCCTCGTCCTCGTCCTCGTCCTCG 38
+
+Matrix = Unknown
+Transitions / transversions = 1.33 (4/3)
+Gap_init rate = 0.00 (0 / 37), avg. gap size = 0.0 (0 / 0)
+
+13 17.86 3.12 0.00 AP010888.1 1388375 1388406 (996758) (TCG)n#Simple_repeat 1 33 (0) m_b25s252i1
+
+  AP010888.1       1388375 TCTTCTTC-TCGTCGACGTCGTAGTCCTCGTCG 1388406
+                             v  v  -      v      v   v      
+  (TCG)n#Simple          1 TCGTCGTCGTCGTCGTCGTCGTCGTCGTCGTCG 33
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/5)
+Gap_init rate = 0.03 (1 / 31), avg. gap size = 1.00 (1 / 1)
+
+13 12.03 8.33 0.00 AP010888.1 1389587 1389622 (995542) (CGGCTC)n#Simple_repeat 1 39 (0) m_b25s252i2
+
+  AP010888.1       1389587 CGGCTCTTCCTCCGGCT-C--CTCCGGCTCGGGCTCCGG 1389622
+                                 ivv        - --         v        
+  (CGGCTC)n#Sim          1 CGGCTCCGGCTCCGGCTCCGGCTCCGGCTCCGGCTCCGG 39
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.06 (2 / 35), avg. gap size = 1.50 (3 / 2)
+
+12 12.03 3.70 0.00 AP010888.1 1390299 1390325 (994839) (ACGAC)n#Simple_repeat 1 28 (0) m_b25s252i3
+
+  AP010888.1       1390299 ACGACACGCCACAACACG-CCCGACACG 1390325
+                                   v   i     - v       
+  (ACGAC)n#Simp          1 ACGACACGACACGACACGACACGACACG 28
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (1/2)
+Gap_init rate = 0.04 (1 / 26), avg. gap size = 1.00 (1 / 1)
+
+11 24.76 0.00 2.56 AP010888.1 1397940 1397979 (987185) (CGCCGA)n#Simple_repeat 1 39 (0) m_b25s252i4
+
+  AP010888.1       1397940 CGCCGACGCCGGTGACGGCGCGTACGCCGGAGCCGAACGC 1397979
+                                      ii v  i   vv      iv    -    
+  (CGCCGA)n#Sim          1 CGCCGACGCCGACGCCGACGCCGACGCCGACGCCG-ACGC 39
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (4/4)
+Gap_init rate = 0.03 (1 / 39), avg. gap size = 1.00 (1 / 1)
+
+13 16.22 4.44 4.44 AP010888.1 1399159 1399203 (985961) (CGTCGG)n#Simple_repeat 1 45 (0) m_b25s252i5
+
+  AP010888.1       1399159 CGTCGGC-TCGGGCGTCGATCG-GGTCGTAGTCGCCGGCGTCGGCGT 1399203
+                                  -  -       -v  -v v   v v  i            
+  (CGTCGG)n#Sim          1 CGTCGGCGTC-GGCGTCG-GCGTCGGCGTCGGCGTCGGCGTCGGCGT 45
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (1/5)
+Gap_init rate = 0.09 (4 / 44), avg. gap size = 1.00 (4 / 4)
+
+14 24.13 0.00 0.00 AP010888.1 1416987 1417025 (968139) (CGATGA)n#Simple_repeat 1 39 (0) m_b25s252i6
+
+  AP010888.1       1416987 CGGTGACGATGCCGATGCCCGTGTTGATGATGATGACGA 1417025
+                             i        v     v vi  vi     i        
+  (CGATGA)n#Sim          1 CGATGACGATGACGATGACGATGACGATGACGATGACGA 39
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (4/4)
+Gap_init rate = 0.00 (0 / 38), avg. gap size = 0.0 (0 / 0)
+
+17 15.40 2.13 4.35 AP010888.1 1428756 1428802 (956362) (TGCCGC)n#Simple_repeat 1 46 (0) m_b26s252i0
+
+  AP010888.1       1428756 TGCCGACTGCC-TTGCCGCTGCCACTGCCGGACGCGGCTGCCGCTCCC 1428802
+                                -     -i          i     - vi  v         v  
+  (TGCCGC)n#Sim          1 TGCCG-CTGCCGCTGCCGCTGCCGCTGCC-GCTGCCGCTGCCGCTGCC 46
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (3/3)
+Gap_init rate = 0.07 (3 / 46), avg. gap size = 1.00 (3 / 3)
+
+14 10.04 0.00 8.57 AP010888.1 1435401 1435438 (949726) (GCGCCA)n#Simple_repeat 1 35 (0) m_b26s252i1
+
+  AP010888.1       1435401 GCGCCGATGGCCAGCGCCCAGCGCCAGCCCCAGTCGCC 1435438
+                                - vv       -           v    -    
+  (GCGCCA)n#Sim          1 GCGCC-AGCGCCAGCG-CCAGCGCCAGCGCCAG-CGCC 35
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/3)
+Gap_init rate = 0.08 (3 / 37), avg. gap size = 1.00 (3 / 3)
+
+16 25.24 3.57 0.00 AP010888.1 1438480 1438535 (946629) (CGGCAG)n#Simple_repeat 1 58 (0) m_b26s252i2
+
+  AP010888.1       1438480 CGGCGGCGGTATCGTCAGCAGCAGCCGTAGCGGCAGGGGC-G-GCCAGCG 1438527
+                               i    i v  v    i     v i        v   - - v     
+  (CGGCAG)n#Sim          1 CGGCAGCGGCAGCGGCAGCGGCAGCGGCAGCGGCAGCGGCAGCGGCAGCG 50
+
+  AP010888.1       1438528 CGATCGGC 1438535
+                           vv v    
+  (CGGCAG)n#Sim         51 GCAGCGGC 58
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (4/8)
+Gap_init rate = 0.04 (2 / 55), avg. gap size = 1.00 (2 / 2)
+
+12 21.58 0.00 0.00 AP010888.1 1445696 1445727 (939437) (GCACCA)n#Simple_repeat 1 32 (0) m_b26s252i3
+
+  AP010888.1       1445696 GCGCCAGCGACACCTGCAGCACCAGCACCAGC 1445727
+                             i     iv  v vv                
+  (GCACCA)n#Sim          1 GCACCAGCACCAGCACCAGCACCAGCACCAGC 32
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (2/4)
+Gap_init rate = 0.00 (0 / 31), avg. gap size = 0.0 (0 / 0)
+
+379 14.46 0.00 0.00 AP010888.1 1447288 1447370 (937794) C rnd-1_family-0 (0) 83 1 m_b26s001i0
+
+  AP010888.1       1447288 GGTCGGCTCGTCGGCCAGGACGATGTCCGGGTCGTTGACCAGTGCGCGGG 1447337
+                                          v  v ?v vv i   v   ?  i    i       
+C rnd-1_family-         83 GGTCGGCTCGTCGGCGAGCANCAGCTTCGGCTCGNTGGCCAGCGCGCGGG 34
+
+  AP010888.1       1447338 CGATCGCCACGCGCTGCATCTGGCCGCCGGACA 1447370
+                               v            vv              
+C rnd-1_family-         33 CGATGGCCACGCGCTGCTGCTGGCCGCCGGACA 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 15.18
+Transitions / transversions = 0.33 (3/9)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+13 16.60 9.09 4.35 AP010888.1 1465808 1465873 (919291) (GTCGGT)n#Simple_repeat 1 69 (0) m_b26s252i4
+
+  AP010888.1       1465808 GTCGGTGTC-G-G-CGCTGGCTGTGTCAGTG-C--TGTCGGTGTCGGCAC 1465851
+                                    - - -  v  v v     i   - --            ---
+  (GTCGGT)n#Sim          1 GTCGGTGTCGGTGTCGGTGTCGGTGTCGGTGTCGGTGTCGGTGTCGG--- 47
+
+  AP010888.1       1465852 TGGCCGTGCCGGTGCCGGCGTC 1465873
+                             v v   i     i   i   
+  (GTCGGT)n#Sim         48 TGTCGGTGTCGGTGTCGGTGTC 69
+
+Matrix = Unknown
+Transitions / transversions = 0.80 (4/5)
+Gap_init rate = 0.12 (8 / 65), avg. gap size = 1.12 (9 / 8)
+
+238 22.50 1.23 1.23 AP010888.1 1473153 1473233 (911931) C rnd-1_family-0 (0) 83 3 m_b26s001i1
+
+  AP010888.1       1473153 GGTGGGCTCGTCGGCCAGAATCAGGCCGGGGTTCAGCA-CCAACGCCATG 1473201
+                              v           v  v ?   - ivv  i  i?ii-   i   vvv 
+C rnd-1_family-         83 GGTCGGCTCGTCGGCGAGCANCAG-CTTCGGCTCGNTGGCCAGCGCGCGG 35
+
+  AP010888.1       1473202 GCGATGACGATGCGCTGCTTCTGGCCGCCGGA 1473233
+                                 i v i        v            
+C rnd-1_family-         34 GCGATGGCCACGCGCTGCTGCTGGCCGCCGGA 3
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 24.33
+Transitions / transversions = 0.80 (8/10)
+Gap_init rate = 0.03 (2 / 80), avg. gap size = 1.00 (2 / 2)
+
+14 31.04 0.00 0.00 AP010888.1 1474929 1474976 (910188) (CGA)n#Simple_repeat 1 48 (0) m_b26s252i5
+
+  AP010888.1       1474929 CGGCGATGACGTCGACGAGGAAGTTGACGACGGCCACGATGATGGCGA 1474976
+                             i   i    v      v  v vi       i v    i  i i   
+  (CGA)n#Simple          1 CGACGACGACGACGACGACGACGACGACGACGACGACGACGACGACGA 48
+
+Matrix = Unknown
+Transitions / transversions = 1.40 (7/5)
+Gap_init rate = 0.00 (0 / 47), avg. gap size = 0.0 (0 / 0)
+
+18 28.77 0.00 0.00 AP010888.1 1474932 1474990 (910174) (CGATGA)n#Simple_repeat 1 59 (0) m_b26s252i6
+
+  AP010888.1       1474932 CGATGACGTCGACGAGGAAGTTGACGACGGCCACGATGATGGCGATAAGG 1474981
+                                   vi     v  v v      i i v i  i    i    i v 
+  (CGATGA)n#Sim          1 CGATGACGATGACGATGACGATGACGATGACGATGACGATGACGATGACG 50
+
+  AP010888.1       1474982 ATCACGATG 1474990
+                             v      
+  (CGATGA)n#Sim         51 ATGACGATG 59
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (7/7)
+Gap_init rate = 0.00 (0 / 58), avg. gap size = 0.0 (0 / 0)
+
+838 12.59 0.00 0.00 AP010888.1 1581829 1581971 (803193) rnd-1_family-3 2 144 (0) m_b28s001i0
+
+  AP010888.1       1581829 TCATGGGGCGGTAGCTCACCCATGGGGTGGTAAAACCCTCATGGGGCGGT 1581878
+                                        i  ??         i                      
+  rnd-1_family-          2 TCATGGGGCGGTAACTNNCCCATGGGGCGGTAAAACCCTCATGGGGCGGT 51
+
+  AP010888.1       1581879 AGTCGAAAACGGCTCTATTCTGCGGAAAGGCAAAATCCGCTAACCGCCCC 1581928
+                             ?           i     i    vvvvi   vv  iv v         
+  rnd-1_family-         52 AGNCGAAAACGGCTTTATTCCGCGGTTTCACAATTTCTTCAAACCGCCCC 101
+
+  AP010888.1       1581929 ATGGGCCAAATACCGCCCCATGAGTGTTTTACCGCCCCATGGG 1581971
+                                 v iv            i ?                  
+  rnd-1_family-        102 ATGGGCAAGTTACCGCCCCATGGGNGTTTTACCGCCCCATGGG 144
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 12.67
+Transitions / transversions = 0.80 (8/10)
+Gap_init rate = 0.00 (0 / 142), avg. gap size = 0.0 (0 / 0)
+
+13 13.08 0.00 0.00 AP010888.1 1604713 1604737 (780427) (CCG)n#Simple_repeat 1 25 (0) m_b29s252i0
+
+  AP010888.1       1604713 CCGCCGATGCCGCCGACGCCGCCGC 1604737
+                                 vi       v         
+  (CCG)n#Simple          1 CCGCCGCCGCCGCCGCCGCCGCCGC 25
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (1/2)
+Gap_init rate = 0.00 (0 / 24), avg. gap size = 0.0 (0 / 0)
+
+292 13.34 2.60 2.60 AP010888.1 1633747 1633823 (751341) rnd-1_family-0 1 77 (6) m_b29s001i0
+
+  AP010888.1       1633747 TGTCCGGCGGCCAG--GCGGCCCGCGTGGCCCTGGCCCGCACACTGCTCA 1633794
+                                         --  i --         v v      i i   vi  
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAG--CGCGTGGCCATCGCCCGCGCGCTGGCCA 48
+
+  AP010888.1       1633795 CCGATCCGAAGGTGCTGCTGGCCGACGAG 1633823
+                           ?   v      v  ?    v         
+  rnd-1_family-         49 NCGAGCCGAAGCTGNTGCTCGCCGACGAG 77
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 12.17
+Transitions / transversions = 0.67 (4/6)
+Gap_init rate = 0.04 (3 / 76), avg. gap size = 1.33 (4 / 3)
+
+21 12.90 6.49 6.49 AP010888.1 1635463 1635539 (749625) (GCGGCT)n#Simple_repeat 1 77 (0) m_b29s252i1
+
+  AP010888.1       1635463 GCCGCTGCGGTTGCGGCGGCGGATGCGG-TGTCGGCTCGCGGC--CAGCT 1635509
+                             v       i      v    v     -  -     -     -- i   
+  (GCGGCT)n#Sim          1 GCGGCTGCGGCTGCGGCTGCGGCTGCGGCTG-CGGCT-GCGGCTGCGGCT 48
+
+  AP010888.1       1635510 GC-GCTGCGCCGCCGCGGTCT-CGACTCCGGC 1635539
+                             -      --  i    -  -  i  v    
+  (GCGGCT)n#Sim         49 GCGGCTGCG--GCTGCGG-CTGCGGCTGCGGC 77
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (4/4)
+Gap_init rate = 0.12 (9 / 76), avg. gap size = 1.11 (10 / 9)
+
+21 9.71 0.00 0.00 AP010888.1 1643368 1643401 (741763) (CGCACC)n#Simple_repeat 1 34 (0) m_b29s252i2
+
+  AP010888.1       1643368 CGCACCCGCGCCCGCACCCGCACCCACGCCCGCA 1643401
+                                    i               i i      
+  (CGCACC)n#Sim          1 CGCACCCGCACCCGCACCCGCACCCGCACCCGCA 34
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+12 13.59 2.78 5.71 AP010888.1 1646419 1646454 (738710) (CGGC)n#Simple_repeat 1 35 (0) m_b29s252i3
+
+  AP010888.1       1646419 CGG-CGTCCAGCACCGCCGGCCGGCCGGCCTCGCCGG 1646454
+                              -  v  i  - v               -v     
+  (CGGC)n#Simpl          1 CGGCCGGCCGGC-CGGCCGGCCGGCCGGCC-GGCCGG 35
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.09 (3 / 35), avg. gap size = 1.00 (3 / 3)
+
+12 14.38 0.00 0.00 AP010888.1 1654274 1654297 (730867) (GCC)n#Simple_repeat 1 24 (0) m_b30s252i1
+
+  AP010888.1       1654274 GCCGCCGTCGCCGCCATCGCCGCC 1654297
+                                  i       ii       
+  (GCC)n#Simple          1 GCCGCCGCCGCCGCCGCCGCCGCC 24
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (3/0)
+Gap_init rate = 0.00 (0 / 23), avg. gap size = 0.0 (0 / 0)
+
+235 26.58 0.00 0.00 AP010888.1 1663788 1663866 (721298) rnd-1_family-0 5 83 (0) m_b30s001i0
+
+  AP010888.1       1663788 CGGCGGGCAGCAGCAACGCGCCTCCATCGCCGGCATGCTGGCCATGAACC 1663837
+                                 v        i    ivv        v  ii        ?vi v 
+  rnd-1_family-          5 CGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANCGAGC 54
+
+  AP010888.1       1663838 CGGCAATGCTGGTATTGGATGAGCCGACC 1663866
+                             iviv  ?  v vviv  i         
+  rnd-1_family-         55 CGAAGCTGNTGCTCGCCGACGAGCCGACC 83
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 26.89
+Transitions / transversions = 0.75 (9/12)
+Gap_init rate = 0.00 (0 / 78), avg. gap size = 0.0 (0 / 0)
+
+12 0.00 0.00 16.67 AP010888.1 1671356 1671390 (713774) (GAGCC)n#Simple_repeat 1 30 (0) m_b30s252i2
+
+  AP010888.1       1671356 GAGCCGAGCACGGAGCCGAGCACGTAGCCGAAGCC 1671390
+                                    - -         -  -     -    
+  (GAGCC)n#Simp          1 GAGCCGAGC-C-GAGCCGAGC-CG-AGCCG-AGCC 30
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.15 (5 / 34), avg. gap size = 1.00 (5 / 5)
+
+14 20.23 0.00 0.00 AP010888.1 1686403 1686436 (698728) (ACCACA)n#Simple_repeat 1 34 (0) m_b30s252i3
+
+  AP010888.1       1686403 ACCAAAGCAACAAGCACACCCACTACCACAACCA 1686436
+                               v i v    v    v    v          
+  (ACCACA)n#Sim          1 ACCACAACCACAACCACAACCACAACCACAACCA 34
+
+Matrix = Unknown
+Transitions / transversions = 0.20 (1/5)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+336 16.05 0.00 0.00 AP010888.1 1695529 1695609 (689555) C rnd-1_family-0 (0) 83 3 m_b30s001i1
+
+  AP010888.1       1695529 GGTGGGCTCGTCGAACAGCATGACCTTGGGGCGCATGGCGAGCGCGCGGG 1695578
+                              v         ivv    ?v v   v  vivv?    v          
+C rnd-1_family-         83 GGTCGGCTCGTCGGCGAGCANCAGCTTCGGCTCGNTGGCCAGCGCGCGGG 34
+
+  AP010888.1       1695579 CGATGGCCACACGCTGCTGCTGGCCGCCGGA 1695609
+                                     i                    
+C rnd-1_family-         33 CGATGGCCACGCGCTGCTGCTGGCCGCCGGA 3
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 17.20
+Transitions / transversions = 0.30 (3/10)
+Gap_init rate = 0.00 (0 / 80), avg. gap size = 0.0 (0 / 0)
+
+845 8.80 0.00 0.00 AP010888.1 1697666 1697790 (687374) C rnd-1_family-3 (19) 125 1 m_b30s001i2
+
+  AP010888.1       1697666 CTCATGGGGCGGTAATTTGCCCATGGGGCGGTTTGAAGAAATTGTGAAAC 1697715
+                            i             i                                  
+C rnd-1_family-        125 CCCATGGGGCGGTAACTTGCCCATGGGGCGGTTTGAAGAAATTGTGAAAC 76
+
+  AP010888.1       1697716 CGCGGAATTAAGCCATTTTGACCTACCGCCCCATGGGGTTTTCACCGCCC 1697765
+                                   v     i    vi?             i  v   i       
+C rnd-1_family-         75 CGCGGAATAAAGCCGTTTTCGNCTACCGCCCCATGAGGGTTTTACCGCCC 26
+
+  AP010888.1       1697766 CATGGGTTGTTTACCGCCCCATGAG 1697790
+                                 ??iv               
+C rnd-1_family-         25 CATGGGNNAGTTACCGCCCCATGAG 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 7.98
+Transitions / transversions = 1.75 (7/4)
+Gap_init rate = 0.00 (0 / 124), avg. gap size = 0.0 (0 / 0)
+
+362 31.21 1.40 1.40 AP010888.1 1697666 1697808 (687356) rnd-1_family-3 1 143 (1) m_b30s001i3
+
+  AP010888.1       1697666 CTCATGGGGCGGTAATTTGCCCATGGGGCGGTTTGAAGAAATTGTGAAAC 1697715
+                                          i ??             --i  ivvv ii  iii 
+  rnd-1_family-          1 CTCATGGGGCGGTAACTNNCCCATGGGGCGGT--AAAACCCTCATGGGGC 48
+
+  AP010888.1       1697716 CGCGGAATTAAGCCATTTTGACCTACCGCCCCATGGGGTTTTCA--CCGC 1697763
+                           v ii ?vvv  i vii   ivi ii v iii  iiivv i    --    
+  rnd-1_family-         49 GGTAGNCGAAAACGGCTTTATTCCGCGGTTTCACAATTTCTTCAAACCGC 98
+
+  AP010888.1       1697764 CCCATGGGTTGTTTACCGCCCCATGAGGAAGTTACCGCCCCATGG 1697808
+                                   iviv             i ?ivv              
+  rnd-1_family-         99 CCCATGGGCAAGTTACCGCCCCATGGGNGTTTTACCGCCCCATGG 143
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 42.41
+Transitions / transversions = 1.75 (28/16)
+Gap_init rate = 0.02 (3 / 142), avg. gap size = 1.33 (4 / 3)
+
+17 22.67 3.08 3.08 AP010888.1 1702790 1702854 (682310) (GCCGAA)n#Simple_repeat 1 65 (0) m_b30s252i4
+
+  AP010888.1       1702790 GCCG-AGCTCGACGCCGAGATCGCGGCCGAATCCG-ACCCGAAGAAGAAG 1702837
+                               -   -   v     iii  vi      v   - v      vv    
+  (GCCGAA)n#Sim          1 GCCGAAGC-CGAAGCCGAAGCCGAAGCCGAAGCCGAAGCCGAAGCCGAAG 49
+
+  AP010888.1       1702838 GCCAAGCTCGAAGCCGA 1702854
+                           v v    -         
+  (GCCGAA)n#Sim         50 CCGAAGC-CGAAGCCGA 65
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (4/8)
+Gap_init rate = 0.06 (4 / 64), avg. gap size = 1.00 (4 / 4)
+
+12 38.39 0.00 0.00 AP010888.1 1703364 1703418 (681746) (TCAGCA)n#Simple_repeat 1 55 (0) m_b31s252i1
+
+  AP010888.1       1703364 TCAGCGTCAGCGTTGGTATCAGCGCCGGAATCAGTATCAACGCCGGCATC 1703413
+                                i     i ii i      ii i v     i    i ii i     
+  (TCAGCA)n#Sim          1 TCAGCATCAGCATCAGCATCAGCATCAGCATCAGCATCAGCATCAGCATC 50
+
+  AP010888.1       1703414 GGCAT 1703418
+                           i    
+  (TCAGCA)n#Sim         51 AGCAT 55
+
+Matrix = Unknown
+Transitions / transversions = 14.00 (14/1)
+Gap_init rate = 0.00 (0 / 54), avg. gap size = 0.0 (0 / 0)
+
+16 14.86 2.56 2.56 AP010888.1 1714553 1714591 (670573) (ATC)n#Simple_repeat 1 39 (0) m_b31s252i2
+
+  AP010888.1       1714553 ATCCTCTTCGTCGTCCATC-TCATCATCCTCATCATCATC 1714591
+                              v  v  i  i -    -        v           
+  (ATC)n#Simple          1 ATCATCATCATCAT-CATCATCATCATCATCATCATCATC 39
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.05 (2 / 38), avg. gap size = 1.00 (2 / 2)
+
+16 20.55 0.00 0.00 AP010888.1 1726764 1726802 (658362) (GTGCTG)n#Simple_repeat 1 39 (0) m_b31s252i3
+
+  AP010888.1       1726764 GTGCTGGTGCTTGCGCTGGCGCTGGCCATTGTGCTGGTG 1726802
+                                      v i     i     ivv v         
+  (GTGCTG)n#Sim          1 GTGCTGGTGCTGGTGCTGGTGCTGGTGCTGGTGCTGGTG 39
+
+Matrix = Unknown
+Transitions / transversions = 0.75 (3/4)
+Gap_init rate = 0.00 (0 / 38), avg. gap size = 0.0 (0 / 0)
+
+286 24.10 0.00 0.00 AP010888.1 1781632 1781714 (603450) C rnd-1_family-0 (0) 83 1 m_b32s001i0
+
+  AP010888.1       1781632 GGTCGAATCGTCGAGAATCAGAATCTTCGGCTTCTTCAGCAGCGCACGGG 1781681
+                                iv      ivi v  ?v v        iv? viv      i    
+C rnd-1_family-         83 GGTCGGCTCGTCGGCGAGCANCAGCTTCGGCTCGNTGGCCAGCGCGCGGG 34
+
+  AP010888.1       1781682 CGATGCACAGGCGCTGGCGCTGTCCGCCGGACA 1781714
+                                vv  v      vi    v          
+C rnd-1_family-         33 CGATGGCCACGCGCTGCTGCTGGCCGCCGGACA 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 25.19
+Transitions / transversions = 0.54 (7/13)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+12 24.01 2.56 0.00 AP010888.1 1784085 1784123 (601041) (CGG)n#Simple_repeat 1 40 (0) m_b32s252i0
+
+  AP010888.1       1784085 CGGCAGC-TCGCCGGCCTCGCCGGCGGCGGCCACGGCGGC 1784123
+                               i  -v  v    vv  v          vi       
+  (CGG)n#Simple          1 CGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGC 40
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (2/6)
+Gap_init rate = 0.03 (1 / 38), avg. gap size = 1.00 (1 / 1)
+
+12 23.47 0.00 0.00 AP010888.1 1784472 1784506 (600658) (GGTGTC)n#Simple_repeat 1 35 (0) m_b32s252i1
+
+  AP010888.1       1784472 GGTGTTGGTCACGGTGGCGGTCACGGTGGCGGTGT 1784506
+                                i   vv     v    vv     v      
+  (GGTGTC)n#Sim          1 GGTGTCGGTGTCGGTGTCGGTGTCGGTGTCGGTGT 35
+
+Matrix = Unknown
+Transitions / transversions = 0.17 (1/6)
+Gap_init rate = 0.00 (0 / 34), avg. gap size = 0.0 (0 / 0)
+
+15 4.10 3.45 7.14 AP010888.1 1792615 1792643 (592521) (CG)n#Simple_repeat 1 28 (0) m_b32s252i2
+
+  AP010888.1       1792615 CGCGCGACGCGCGTCGC-CGCGCGCCCGCG 1792643
+                                 -      -   -       v    
+  (CG)n#Simple_          1 CGCGCG-CGCGCG-CGCGCGCGCGCGCGCG 28
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/1)
+Gap_init rate = 0.11 (3 / 28), avg. gap size = 1.00 (3 / 3)
+
+20 24.35 6.32 2.02 AP010888.1 1792701 1792795 (592369) (CCGCA)n#Simple_repeat 1 99 (0) m_b32s252i3
+
+  AP010888.1       1792701 CCGCAACG--CCGCACCGCGCCG--TCGCACCACACCGCGCCGCCACGCC 1792746
+                                v  --         i   --i      i      i   -   - v
+  (CCGCA)n#Simp          1 CCGCACCGCACCGCACCGCACCGCACCGCACCGCACCGCACCG-CAC-CG 48
+
+  AP010888.1       1792747 CCCATCACCGCACGCCACGCCTCCGCAACG--CCGCGCCACACCGTACGG 1792794
+                            v vv        vv   vv v     v  --    i  i     i  v 
+  (CCGCA)n#Simp         49 CACCGCACCGCACCGCACCGCACCGCACCGCACCGCACCGCACCGCACCG 98
+
+  AP010888.1       1792795 C 1792795
+                            
+  (CCGCA)n#Simp         99 C 99
+
+Matrix = Unknown
+Transitions / transversions = 0.58 (7/12)
+Gap_init rate = 0.05 (5 / 94), avg. gap size = 1.60 (8 / 5)
+
+14 27.68 1.72 1.72 AP010888.1 1793472 1793529 (591635) (GACGCC)n#Simple_repeat 1 58 (0) m_b32s252i4
+
+  AP010888.1       1793472 GACACCGCCGGCAACGCCGACG-CGCCGATCACGATCTCCGCCTACGGCG 1793520
+                              i   v  v i         -  v  viv   -i vv    v   v  
+  (GACGCC)n#Sim          1 GACGCCGACGCCGACGCCGACGCCGACGCCGACG-CCGACGCCGACGCCG 49
+
+  AP010888.1       1793521 ACGCCGACG 1793529
+                                    
+  (GACGCC)n#Sim         50 ACGCCGACG 58
+
+Matrix = Unknown
+Transitions / transversions = 0.44 (4/9)
+Gap_init rate = 0.04 (2 / 57), avg. gap size = 1.00 (2 / 2)
+
+18 16.17 4.00 1.96 AP010888.1 1794379 1794428 (590736) (ACGGCG)n#Simple_repeat 1 51 (0) m_b32s252i5
+
+  AP010888.1       1794379 ACGGCAACGGCGACGGCCA-GGCGTGGGACGCCGACTACGGCGACGGC-A 1794426
+                                i           v -    vv  -  v  i v           - 
+  (ACGGCG)n#Sim          1 ACGGCGACGGCGACGGCGACGGCGACGG-CGACGGCGACGGCGACGGCGA 49
+
+  AP010888.1       1794427 CG 1794428
+                             
+  (ACGGCG)n#Sim         50 CG 51
+
+Matrix = Unknown
+Transitions / transversions = 0.40 (2/5)
+Gap_init rate = 0.06 (3 / 49), avg. gap size = 1.00 (3 / 3)
+
+12 24.38 2.17 2.17 AP010888.1 1795073 1795118 (590046) (CGAGAC)n#Simple_repeat 1 46 (0) m_b32s252i6
+
+  AP010888.1       1795073 CGAGACCGGAACCGAAACCGATTCCGGGACCGGTGA-CAAGACCAAG 1795118
+                                   ii     i     vv   i    - v  - i     i  
+  (CGAGAC)n#Sim          1 CGAGACCGAGACCGAGACCGAGACCGAGACC-GAGACCGAGACCGAG 46
+
+Matrix = Unknown
+Transitions / transversions = 2.00 (6/3)
+Gap_init rate = 0.04 (2 / 45), avg. gap size = 1.00 (2 / 2)
+
+18 25.17 5.68 2.20 AP010888.1 1796188 1796275 (588889) (CCGTCA)n#Simple_repeat 1 91 (0) m_b32s252i7
+
+  AP010888.1       1796188 CCGTCATCGAC-GCGTCCACCGGCGCCGTCACCTTCA-CG-C-CCGCCGC 1796233
+                                 i  v -v   -     v i        v   -  - -   i i 
+  (CCGTCA)n#Sim          1 CCGTCACCGTCACCGT-CACCGTCACCGTCACCGTCACCGTCACCGTCAC 49
+
+  AP010888.1       1796234 CG-GACAGTACGGCGCGACCGTCACCCGCACCGTCGTCGTCAC 1796275
+                             -v  v  - iv  iv         vv       ii      
+  (CCGTCA)n#Sim         50 CGTCACCGT-CACCGTCACCGTCACCGTCACCGTCACCGTCAC 91
+
+Matrix = Unknown
+Transitions / transversions = 0.80 (8/10)
+Gap_init rate = 0.08 (7 / 87), avg. gap size = 1.00 (7 / 7)
+
+14 28.35 0.00 4.84 AP010888.1 1796537 1796601 (588563) (CGTCAC)n#Simple_repeat 1 62 (0) m_b32s252i8
+
+  AP010888.1       1796537 CGGCACCGTCACCGTGCCCGTCACGGTGACGTTCGCCGACGACGGCGCCA 1796586
+                             v            vv       v  v  vv  i   v -  --  i  
+  (CGTCAC)n#Sim          1 CGTCACCGTCACCGTCACCGTCACCGTCACCGTCACCGTC-AC--CGTCA 47
+
+  AP010888.1       1796587 GCGTCTCCTCCACCG 1796601
+                           v    v  vi     
+  (CGTCAC)n#Sim         48 CCGTCACCGTCACCG 62
+
+Matrix = Unknown
+Transitions / transversions = 0.27 (3/11)
+Gap_init rate = 0.05 (3 / 64), avg. gap size = 1.00 (3 / 3)
+
+29 19.65 1.23 3.80 AP010888.1 1797672 1797752 (587412) (CCGAAC)n#Simple_repeat 1 79 (0) m_b32s252i9
+
+  AP010888.1       1797672 CCGGACCCGAACCCGAAACCGGATCCGAACCCCGATCCCG-ATCCGACGC 1797720
+                              i             v   i i     -     v    - i    -i 
+  (CCGAAC)n#Sim          1 CCGAACCCGAACCCGAACCCGAACCCGAA-CCCGAACCCGAACCCGA-AC 48
+
+  AP010888.1       1797721 CCGACCCGGACCCCGACCCCGGCCCCGACACC 1797752
+                               v  v  v     v    iv     -   
+  (CCGAAC)n#Sim         49 CCGAACCCGAACCCGAACCCGAACCCGA-ACC 79
+
+Matrix = Unknown
+Transitions / transversions = 0.86 (6/7)
+Gap_init rate = 0.05 (4 / 80), avg. gap size = 1.00 (4 / 4)
+
+20 22.85 4.55 0.00 AP010888.1 1797764 1797829 (587335) (CGGTTC)n#Simple_repeat 1 69 (0) m_b32s252i10
+
+  AP010888.1       1797764 CGGTTCCGGCAACGGTTCCGGCACGGGCAACGGTTCCGGTTCCGGCAACG 1797813
+                                    ivv         iv v  ivv               ivv  
+  (CGGTTC)n#Sim          1 CGGTTCCGGTTCCGGTTCCGGTTCCGGTTCCGGTTCCGGTTCCGGTTCCG 50
+
+  AP010888.1       1797814 GTTCC---ACCGGTTCCGG 1797829
+                                ---v          
+  (CGGTTC)n#Sim         51 GTTCCGGTTCCGGTTCCGG 69
+
+Matrix = Unknown
+Transitions / transversions = 0.44 (4/9)
+Gap_init rate = 0.02 (1 / 65), avg. gap size = 3.00 (3 / 1)
+
+13 21.38 2.63 0.00 AP010888.1 1798205 1798242 (586922) (CGGCG)n#Simple_repeat 1 39 (0) m_b32s252i11
+
+  AP010888.1       1798205 CGTCGCGGCGC-TCAAGGCGCAACACGGCGCGGCGCGGC 1798242
+                             v        -v iv     ii i              
+  (CGGCG)n#Simp          1 CGGCGCGGCGCGGCGCGGCGCGGCGCGGCGCGGCGCGGC 39
+
+Matrix = Unknown
+Transitions / transversions = 1.33 (4/3)
+Gap_init rate = 0.03 (1 / 37), avg. gap size = 1.00 (1 / 1)
+
+13 22.43 1.69 7.14 AP010888.1 1798592 1798650 (586514) (CGA)n#Simple_repeat 1 56 (0) m_b32s252i12
+
+  AP010888.1       1798592 CGACGACGAGGTGCGACG-CTACTACGACGAGCACGACTGGACAAAGGAC 1798640
+                                    v -i     - v  v       vv     --   -i v   
+  (CGA)n#Simple          1 CGACGACGACG-ACGACGACGACGACGACGACGACGAC--GAC-GACGAC 46
+
+  AP010888.1       1798641 GGCGTCGACG 1798650
+                            i  v     
+  (CGA)n#Simple         47 GACGACGACG 56
+
+Matrix = Unknown
+Transitions / transversions = 0.43 (3/7)
+Gap_init rate = 0.09 (5 / 58), avg. gap size = 1.00 (5 / 5)
+
+11 12.96 8.82 0.00 AP010888.1 1800325 1800358 (584806) (GACTTC)n#Simple_repeat 1 37 (0) m_b32s252i13
+
+  AP010888.1       1800325 GACTTCGACTTCG-C--GGACTTCGACTTGGCGTTCG 1800358
+                                        - --v           v vv    
+  (GACTTC)n#Sim          1 GACTTCGACTTCGACTTCGACTTCGACTTCGACTTCG 37
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/4)
+Gap_init rate = 0.06 (2 / 33), avg. gap size = 1.50 (3 / 2)
+
+12 19.19 3.77 5.77 AP010888.1 1800397 1800449 (584715) (CGCGCAT)n#Simple_repeat 1 52 (0) m_b32s252i14
+
+  AP010888.1       1800397 CGCACATCGGCGATGTCGCGCTTCGCG--GCGCGCTTGGACGCGTCGCGC 1800444
+                              i    -   -ii      v     --v     v v -   i      
+  (CGCGCAT)n#Si          1 CGCGCATC-GCG-CATCGCGCATCGCGCATCGCGCATCG-CGCATCGCGC 47
+
+  AP010888.1       1800445 ATCGC 1800449
+                                
+  (CGCGCAT)n#Si         48 ATCGC 52
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (4/4)
+Gap_init rate = 0.08 (4 / 52), avg. gap size = 1.25 (5 / 4)
+
+13 18.98 0.00 8.70 AP010888.1 1800711 1800760 (584404) (GCGGGCG)n#Simple_repeat 1 46 (0) m_b32s252i15
+
+  AP010888.1       1800711 GCGGGCGGCGGCCTGCGCGGCGGCGTGAGCCGCGTTGCGCGGGGCGTCGG 1800760
+                                      v v   -       - -  v   -v   vv     v   
+  (GCGGGCG)n#Si          1 GCGGGCGGCGGGCGGCG-GGCGGCG-G-GCGGCG-GGCGGCGGGCGGCGG 46
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/7)
+Gap_init rate = 0.08 (4 / 49), avg. gap size = 1.00 (4 / 4)
+
+11 27.68 0.00 0.00 AP010888.1 1820994 1821032 (564132) (GGCGCC)n#Simple_repeat 1 39 (0) m_b33s252i0
+
+  AP010888.1       1820994 GGCGGGGGCTTCGGTGAGGGCGCTGGCGCCGGTGCCGGC 1821032
+                               vv   vi   i vv     i        i      
+  (GGCGCC)n#Sim          1 GGCGCCGGCGCCGGCGCCGGCGCCGGCGCCGGCGCCGGC 39
+
+Matrix = Unknown
+Transitions / transversions = 0.80 (4/5)
+Gap_init rate = 0.00 (0 / 38), avg. gap size = 0.0 (0 / 0)
+
+13 35.44 0.00 2.74 AP010888.1 1833988 1834062 (551102) (CGTTGC)n#Simple_repeat 1 73 (0) m_b33s252i1
+
+  AP010888.1       1833988 CGGTGACGATGCTCGTTGCCCGTTTCCGCCATCCATGCCTTCGGCGGCAC 1834037
+                             v  v  v   -     -     v   iiii vv    v i v  vii 
+  (CGTTGC)n#Sim          1 CGTTGCCGTTGC-CGTTG-CCGTTGCCGTTGCCGTTGCCGTTGCCGTTGC 48
+
+  AP010888.1       1834038 CATTGACATTGCCGTTACCGTTGCC 1834062
+                            i   v i        i        
+  (CGTTGC)n#Sim         49 CGTTGCCGTTGCCGTTGCCGTTGCC 73
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (10/10)
+Gap_init rate = 0.03 (2 / 74), avg. gap size = 1.00 (2 / 2)
+
+20 20.58 2.00 0.00 AP010888.1 1862779 1862828 (522336) (CCA)n#Simple_repeat 1 51 (0) m_b33s252i2
+
+  AP010888.1       1862779 CCACCACC-CCGCCAACCCCAACAGCACCACCCCCGCCAACACCACCGCC 1862827
+                                   -  i   v v   v  v       v  i   v       i  
+  (CCA)n#Simple          1 CCACCACCACCACCACCACCACCACCACCACCACCACCACCACCACCACC 50
+
+  AP010888.1       1862828 A 1862828
+                            
+  (CCA)n#Simple         51 A 51
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (3/6)
+Gap_init rate = 0.02 (1 / 49), avg. gap size = 1.00 (1 / 1)
+
+256 25.30 0.00 0.00 AP010888.1 1874230 1874312 (510852) rnd-1_family-0 1 83 (0) m_b34s001i0
+
+  AP010888.1       1874230 TATCCGTCGGCCAGCGCCAGACCGTGGCCATAGCGCGCACGCTGCTCAAT 1874279
+                            i    v        iv   vv         v  v   i     vi  ?i
+  rnd-1_family-          1 TGTCCGGCGGCCAGCAGCAGCGCGTGGCCATCGCCCGCGCGCTGGCCANC 50
+
+  AP010888.1       1874280 GACCCGCAGCTTATTCTGCTGGACGAACCGACC 1874312
+                             v   v    v? v  vviv     i      
+  rnd-1_family-         51 GAGCCGAAGCTGNTGCTCGCCGACGAGCCGACC 83
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 28.53
+Transitions / transversions = 0.50 (7/14)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+941 9.09 0.00 0.00 AP010888.1 1915161 1915303 (469861) C rnd-1_family-3 (1) 143 1 m_b34s001i1
+
+  AP010888.1       1915161 CCATGGGGCGGCAAAACACCCATAGGGCGGTAACTTGCCCATGGGGCGGT 1915210
+                                      i     ?     i                          
+C rnd-1_family-        143 CCATGGGGCGGTAAAACNCCCATGGGGCGGTAACTTGCCCATGGGGCGGT 94
+
+  AP010888.1       1915211 TTGAAGGATATGTGAAACCGCGGAATTAAGCCATTCTGGCATACCGCCCC 1915260
+                                 i vv                v     i  i v ?v         
+C rnd-1_family-         93 TTGAAGAAATTGTGAAACCGCGGAATAAAGCCGTTTTCGNCTACCGCCCC 44
+
+  AP010888.1       1915261 ATGAGGGTTTTACCGCCCCATGGGGTAATCACCGCCCCATGGG 1915303
+                                                   ?? i i           i 
+C rnd-1_family-         43 ATGAGGGTTTTACCGCCCCATGGGNNAGTTACCGCCCCATGAG 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 9.30
+Transitions / transversions = 1.60 (8/5)
+Gap_init rate = 0.00 (0 / 142), avg. gap size = 0.0 (0 / 0)
+
+13 21.84 0.00 0.00 AP010888.1 1915400 1915432 (469732) (AGCGGC)n#Simple_repeat 1 33 (0) m_b34s252i0
+
+  AP010888.1       1915400 AGCGGCGACAGCGGCGGCACCGGCAGCAGCAGC 1915432
+                                 ii i  i      v       i     
+  (AGCGGC)n#Sim          1 AGCGGCAGCGGCAGCGGCAGCGGCAGCGGCAGC 33
+
+Matrix = Unknown
+Transitions / transversions = 5.00 (5/1)
+Gap_init rate = 0.00 (0 / 32), avg. gap size = 0.0 (0 / 0)
+
+12 16.52 2.08 8.89 AP010888.1 1932539 1932586 (452578) (CGG)n#Simple_repeat 1 45 (0) m_b35s252i0
+
+  AP010888.1       1932539 CGGCGGTTGTGGCGGCGGC-GCGGAAGGCGGCGAGCAGGGGGTCGGGGG 1932586
+                                 iv i         -    -v       -  -  v  -   v  
+  (CGG)n#Simple          1 CGGCGGCGGCGGCGGCGGCGGCGG-CGGCGGCG-GC-GGCGG-CGGCGG 45
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (2/4)
+Gap_init rate = 0.11 (5 / 47), avg. gap size = 1.00 (5 / 5)
+
+12 17.57 3.12 0.00 AP010888.1 1934598 1934629 (450535) (CGCCCA)n#Simple_repeat 1 33 (0) m_b35s252i1
+
+  AP010888.1       1934598 CGCCCACGCCCACGAACGCGCCGCCG-CCACGC 1934629
+                                         vv i    vv  -      
+  (CGCCCA)n#Sim          1 CGCCCACGCCCACGCCCACGCCCACGCCCACGC 33
+
+Matrix = Unknown
+Transitions / transversions = 0.25 (1/4)
+Gap_init rate = 0.03 (1 / 31), avg. gap size = 1.00 (1 / 1)
+
+12 23.31 5.08 3.33 AP010888.1 1945505 1945563 (439601) (CAGC)n#Simple_repeat 1 60 (0) m_b35s252i2
+
+  AP010888.1       1945505 CAGCCAGCCAAGCACCGCGCTGGTCACGCC-GCCGGCC-GCGCAGCCGGC 1945552
+                                     iv  v vv  ii i  -   -   i   -  -     i  
+  (CAGC)n#Simpl          1 CAGCCAGCCAGCCAGCCAGCCAGCCA-GCCAGCCAGCCAGC-CAGCCAGC 48
+
+  AP010888.1       1945553 GAG-CAGCCAGC 1945563
+                           v  -        
+  (CAGC)n#Simpl         49 CAGCCAGCCAGC 60
+
+Matrix = Unknown
+Transitions / transversions = 1.20 (6/5)
+Gap_init rate = 0.09 (5 / 58), avg. gap size = 1.00 (5 / 5)
+
+681 16.79 0.00 0.70 AP010888.1 1994761 1994904 (390260) C rnd-1_family-3 (1) 143 1 m_b36s001i0
+
+  AP010888.1       1994761 CCATGGGGAGGTAATTACCTCATGGGGCGGTAATTGGCCCATGGGGCGGA 1994810
+                                   v     vvv? i             i v             v
+C rnd-1_family-        143 CCATGGGGCGGTAAAACNCCCATGGGGCGGTAACTTGCCCATGGGGCGGT 94
+
+  AP010888.1       1994811 CGGTAAAATTTTACCTTCCGCAGAATAGAGCCGTTTTCGTACACCGCCCC 1994860
+                           iv v i  v  vvvvvv    i     i           ?vi        
+C rnd-1_family-         93 TTGAAGAAATTGTGAAACCGCGGAATAAAGCCGTTTTCGNCTACCGCCCC 44
+
+  AP010888.1       1994861 ATGGGGGTTTTCACCGCCCCATGGGCAAGTTACCGCCCCATGAG 1994904
+                              i       -             ??                 
+C rnd-1_family-         43 ATGAGGGTTTT-ACCGCCCCATGGGNNAGTTACCGCCCCATGAG 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 18.79
+Transitions / transversions = 0.50 (8/16)
+Gap_init rate = 0.01 (1 / 143), avg. gap size = 1.00 (1 / 1)
+
+408 15.23 3.73 18.44 AP010888.1 1994762 1994922 (390242) rnd-1_family-3 3 143 (1) m_b36s001i1
+
+  AP010888.1       1994762 CATGGGGAGGTAATTACCTCATGGGGCGGTAATTGGCCCATGGGGCGGAC 1994811
+                                  v     i ?? i             vvvv i          vv
+  rnd-1_family-          3 CATGGGGCGGTAACTNNCCCATGGGGCGGTAAAACCCTCATGGGGCGGTA 52
+
+  AP010888.1       1994812 GGTAAAA----TTTTACCTTCCGCAGAATAGAGCCGTTTTCGTACACCGC 1994857
+                            ?ii   ----i    --      i -----------    --   ----
+  rnd-1_family-         53 GNCGAAAACGGCTTTA--TTCCGCGG-----------TTTC--ACA---- 83
+
+  AP010888.1       1994858 CCCATGGGGGTTTTC--ACCGCCCCATGGGCAAGTTACCGCCCCATGAGT 1994905
+                           ---  ----v i   --                              i ?
+  rnd-1_family-         84 ---AT----TTCTTCAAACCGCCCCATGGGCAAGTTACCGCCCCATGGGN 126
+
+  AP010888.1       1994906 GGGTTACCACCCCATGG 1994922
+                            vv     i        
+  rnd-1_family-        127 GTTTTACCGCCCCATGG 143
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 14.45
+Transitions / transversions = 1.00 (10/10)
+Gap_init rate = 0.17 (28 / 160), avg. gap size = 1.14 (32 / 28)
+
+14 20.65 0.00 6.38 AP010888.1 2014521 2014570 (370594) (GCCGAA)n#Simple_repeat 1 47 (0) m_b36s252i0
+
+  AP010888.1       2014521 GCCGAGGCGCGCATGCCAGTAGCCGTAGCCGAAGTAGATGGCGAAGCCGA 2014570
+                                i  -  - v   - v     v        iv  v v         
+  (GCCGAA)n#Sim          1 GCCGAAGC-CG-AAGCC-GAAGCCGAAGCCGAAGCCGAAGCCGAAGCCGA 47
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (2/6)
+Gap_init rate = 0.06 (3 / 49), avg. gap size = 1.00 (3 / 3)
+
+16 0.00 7.69 0.00 AP010888.1 2016815 2016840 (368324) (CGGC)n#Simple_repeat 1 28 (0) m_b36s252i1
+
+  AP010888.1       2016815 CGGCCGGCCGGCCGGCCGG--GGCCGGC 2016840
+                                              --       
+  (CGGC)n#Simpl          1 CGGCCGGCCGGCCGGCCGGCCGGCCGGC 28
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.04 (1 / 25), avg. gap size = 2.00 (2 / 1)
+
+19 26.21 0.00 0.00 AP010888.1 2030127 2030181 (354983) (CAGCAG)n#Simple_repeat 1 55 (0) m_b36s252i2
+
+  AP010888.1       2030127 CAGCCGGAGCAGCAGCGCCAGCAACAGCGGCAACAGCGGCAACCGGAGCG 2030176
+                               v v         iv     i    i   i    i   i v v   i
+  (CAGCAG)n#Sim          1 CAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCA 50
+
+  AP010888.1       2030177 GCAGC 2030181
+                                
+  (CAGCAG)n#Sim         51 GCAGC 55
+
+Matrix = Unknown
+Transitions / transversions = 1.40 (7/5)
+Gap_init rate = 0.00 (0 / 54), avg. gap size = 0.0 (0 / 0)
+
+11 24.08 0.00 0.00 AP010888.1 2033108 2033141 (352023) (GGCACC)n#Simple_repeat 1 34 (0) m_b36s252i3
+
+  AP010888.1       2033108 GGCACTTTCATCGGCACCGGCCGCCGCACCGGCA 2033141
+                                ivv  i          vv v         
+  (GGCACC)n#Sim          1 GGCACCGGCACCGGCACCGGCACCGGCACCGGCA 34
+
+Matrix = Unknown
+Transitions / transversions = 0.40 (2/5)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+12 27.58 0.00 0.00 AP010888.1 2034149 2034187 (350977) (TCG)n#Simple_repeat 1 39 (0) m_b36s252i4
+
+  AP010888.1       2034149 TCTTCGCGGTCGGCGCGGTAGTCGTCGTAGTTGTCGTCG 2034187
+                             v   iv    v  iv  v        v  i       
+  (TCG)n#Simple          1 TCGTCGTCGTCGTCGTCGTCGTCGTCGTCGTCGTCGTCG 39
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (3/6)
+Gap_init rate = 0.00 (0 / 38), avg. gap size = 0.0 (0 / 0)
+
+19 11.01 2.44 2.44 AP010888.1 2034205 2034245 (350919) (ACGGCC)n#Simple_repeat 1 41 (0) m_b36s252i5
+
+  AP010888.1       2034205 ACGGTC-CGAGCCACGGCCACGGCCACGGGAACCGCCACGGC 2034245
+                               i -  -                   vv  v        
+  (ACGGCC)n#Sim          1 ACGGCCACG-GCCACGGCCACGGCCACGGCCACGGCCACGGC 41
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (1/3)
+Gap_init rate = 0.05 (2 / 40), avg. gap size = 1.00 (2 / 2)
+
+11 35.63 1.43 1.43 AP010888.1 2034519 2034588 (350576) (CGCGAC)n#Simple_repeat 1 70 (0) m_b36s252i6
+
+  AP010888.1       2034519 CGCGATCG-GAGCGACGGCCACGGCCGCCACGGCGATCGTCACGGTCACC 2034567
+                                i  -  v  -  i  i  i    v  v    i  iv  v iv   
+  (CGCGAC)n#Sim          1 CGCGACCGCGACCG-CGACCGCGACCGCGACCGCGACCGCGACCGCGACC 49
+
+  AP010888.1       2034568 ACGGCCACGGCCGCCACGGCG 2034588
+                           i  i  i  i    v  v   
+  (CGCGAC)n#Sim         50 GCGACCGCGACCGCGACCGCG 70
+
+Matrix = Unknown
+Transitions / transversions = 1.38 (11/8)
+Gap_init rate = 0.03 (2 / 69), avg. gap size = 1.00 (2 / 2)
+
+22 13.64 0.00 5.88 AP010888.1 2046155 2046208 (338956) (GGTGTAA)n#Simple_repeat 1 51 (0) m_b37s252i0
+
+  AP010888.1       2046155 GGTGTAAGGGATAAGGTGTAAAGGGTAAGGGTTTAAAGGCGTAAGGGTGT 2046204
+                                    vi          i v    -   v -    i    -     
+  (GGTGTAA)n#Si          1 GGTGTAAGGTGTAAGGTGTAAGGTGTAA-GGTGT-AAGGTGTAA-GGTGT 47
+
+  AP010888.1       2046205 AAGG 2046208
+                               
+  (GGTGTAA)n#Si         48 AAGG 51
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (3/3)
+Gap_init rate = 0.06 (3 / 53), avg. gap size = 1.00 (3 / 3)
+
+12 8.09 0.00 10.34 AP010888.1 2064271 2064302 (320862) (CGCGG)n#Simple_repeat 1 29 (0) m_b37s252i1
+
+  AP010888.1       2064271 CGCGGCGCAGCAGACGGCGCGGCGTGGGCGCG 2064302
+                                   i  - -          -v      
+  (CGCGG)n#Simp          1 CGCGGCGCGGC-G-CGGCGCGGCG-CGGCGCG 29
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/1)
+Gap_init rate = 0.10 (3 / 31), avg. gap size = 1.00 (3 / 3)
+
+11 20.85 6.82 0.00 AP010888.1 2072478 2072521 (312643) (CGCGCGC)n#Simple_repeat 1 47 (0) m_b37s252i2
+
+  AP010888.1       2072478 CGCG-GCCGC-CG-CGCGCACCGCGGGCCGCTACCTGCTGGCCGCGC 2072521
+                               -     -  -     i     v     vvv i  vv       
+  (CGCGCGC)n#Si          1 CGCGCGCCGCGCGCCGCGCGCCGCGCGCCGCGCGCCGCGCGCCGCGC 47
+
+Matrix = Unknown
+Transitions / transversions = 0.33 (2/6)
+Gap_init rate = 0.07 (3 / 43), avg. gap size = 1.00 (3 / 3)
+
+12 11.09 3.23 3.23 AP010888.1 2089205 2089235 (295929) (GCCGGA)n#Simple_repeat 1 31 (0) m_b37s252i3
+
+  AP010888.1       2089205 GCCGGTGCC-GACCTTGGAGCCGGAGCCGGAG 2089235
+                                v   -  v -i                
+  (GCCGGA)n#Sim          1 GCCGGAGCCGGAGC-CGGAGCCGGAGCCGGAG 31
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (1/2)
+Gap_init rate = 0.07 (2 / 30), avg. gap size = 1.00 (2 / 2)
+
+13 24.90 7.35 1.39 AP010888.1 2094511 2094578 (290586) (CGG)n#Simple_repeat 1 72 (0) m_b37s252i4
+
+  AP010888.1       2094511 CGGCGGCGGCTGC-GCGGCTGC-GCGTCGTCATCATC-GTGGCTGC-GCG 2094556
+                                     v  -     v  -   v  v iv iv - i   v  -   
+  (CGG)n#Simple          1 CGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCGGCG 50
+
+  AP010888.1       2094557 AGCGGCGGGAGCGAC-GCGACGG 2094578
+                           -       vi   i -   i   
+  (CGG)n#Simple         51 -GCGGCGGCGGCGGCGGCGGCGG 72
+
+Matrix = Unknown
+Transitions / transversions = 0.75 (6/8)
+Gap_init rate = 0.09 (6 / 67), avg. gap size = 1.00 (6 / 6)
+
+276 22.78 0.00 0.00 AP010888.1 2099935 2100013 (285151) C rnd-1_family-0 (0) 83 5 m_b37s001i0
+
+  AP010888.1       2099935 GGTCGGCTCGTCGGCGAAGACCACGGCAGGTTTGACGGCGAGTGCACGGG 2099984
+                                            iv ?  vvviv  i i ?i   v  i  i    
+C rnd-1_family-         83 GGTCGGCTCGTCGGCGAGCANCAGCTTCGGCTCGNTGGCCAGCGCGCGGG 34
+
+  AP010888.1       2099985 CGATGGCGATGCGCTGCATCTGTCCGCCG 2100013
+                                  v i       vv   v      
+C rnd-1_family-         33 CGATGGCCACGCGCTGCTGCTGGCCGCCG 5
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 21.51
+Transitions / transversions = 0.80 (8/10)
+Gap_init rate = 0.00 (0 / 78), avg. gap size = 0.0 (0 / 0)
+
+13 13.61 0.00 8.57 AP010888.1 2100416 2100453 (284711) (GGCT)n#Simple_repeat 1 35 (0) m_b37s252i5
+
+  AP010888.1       2100416 GGCTGGGCTGGCTGGGATGGCTGGCCGGCCTGAATGGC 2100453
+                               -        -  v        i  -   iv    
+  (GGCT)n#Simpl          1 GGCT-GGCTGGCT-GGCTGGCTGGCTGG-CTGGCTGGC 35
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (2/2)
+Gap_init rate = 0.08 (3 / 37), avg. gap size = 1.00 (3 / 3)
+
+13 4.77 4.55 0.00 AP010888.1 2116166 2116187 (268977) (AAG)n#Simple_repeat 1 23 (0) m_b38s252i1
+
+  AP010888.1       2116166 AAGGAG-AGAAGAAGAAGAAGAA 2116187
+                              i  -                
+  (AAG)n#Simple          1 AAGAAGAAGAAGAAGAAGAAGAA 23
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/0)
+Gap_init rate = 0.05 (1 / 21), avg. gap size = 1.00 (1 / 1)
+
+330 26.09 4.17 4.17 AP010888.1 2130584 2130727 (254437) C rnd-1_family-3 (0) 144 1 m_b38s001i1
+
+  AP010888.1       2130584 CTCATGGGGCGGGAAATCCCCCATGGGGCGGTAATTGCCCCATGAGGCGG 2130633
+                            i          v   v ?               i vv      i     
+C rnd-1_family-        144 CCCATGGGGCGGTAAAACNCCCATGGGGCGGTAACTTGCCCATGGGGCGG 95
+
+  AP010888.1       2130634 C-----AAAATCCTCATGGGGCGGTATGCCAAAATGGCTTAATTCCGCGG 2130678
+                           i-----i    iv v vivv    v  ---   iiv i  vvv? ii v 
+C rnd-1_family-         94 TTTGAAGAAATTGTGAAACCGCGGAAT---AAAGCCGTTTTCGNCTACCG 48
+
+  AP010888.1       2130679 TTTCAC-ATATTCTTCAAACCGCCCCATGGGCAAGTTACCGCCCGATGAG 2130727
+                           iii  i- viv i  ---             ??           v     
+C rnd-1_family-         47 CCCCATGAGGGTTTT---ACCGCCCCATGGGNNAGTTACCGCCCCATGAG 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 33.61
+Transitions / transversions = 1.00 (18/18)
+Gap_init rate = 0.06 (8 / 143), avg. gap size = 1.50 (12 / 8)
+
+877 11.81 0.00 0.00 AP010888.1 2130603 2130746 (254418) rnd-1_family-3 1 144 (0) m_b38s001i2
+
+  AP010888.1       2130603 CCCATGGGGCGGTAATTGCCCCATGAGGCGGCAAAATCCTCATGGGGCGG 2130652
+                            i             i ??      i     i    i             
+  rnd-1_family-          1 CTCATGGGGCGGTAACTNNCCCATGGGGCGGTAAAACCCTCATGGGGCGG 50
+
+  AP010888.1       2130653 TATGCCAAAATGGCTTAATTCCGCGGTTTCACATATTCTTCAAACCGCCC 2130702
+                             v? v    i     v                vv               
+  rnd-1_family-         51 TAGNCGAAAACGGCTTTATTCCGCGGTTTCACAATTTCTTCAAACCGCCC 100
+
+  AP010888.1       2130703 CATGGGCAAGTTACCGCCCGATGAGCCTGTAACCACCCCATGGG 2130746
+                                              v   i ?v v v   i         
+  rnd-1_family-        101 CATGGGCAAGTTACCGCCCCATGGGNGTTTTACCGCCCCATGGG 144
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 11.73
+Transitions / transversions = 0.89 (8/9)
+Gap_init rate = 0.00 (0 / 143), avg. gap size = 0.0 (0 / 0)
+
+12 23.88 4.55 0.00 AP010888.1 2131000 2131043 (254121) (GCTCA)n#Simple_repeat 1 46 (0) m_b38s252i2
+
+  AP010888.1       2131000 GCTCAGCTTCGC-CGGC-CAGCTCAGCTGACCGCGGCACACCTCAG 2131043
+                                   iv  - i  -          v v v i  v  v     
+  (GCTCA)n#Simp          1 GCTCAGCTCAGCTCAGCTCAGCTCAGCTCAGCTCAGCTCAGCTCAG 46
+
+Matrix = Unknown
+Transitions / transversions = 0.50 (3/6)
+Gap_init rate = 0.05 (2 / 43), avg. gap size = 1.00 (2 / 2)
+
+15 6.33 9.09 0.00 AP010888.1 2140771 2140803 (244361) (GGGCGC)n#Simple_repeat 1 36 (0) m_b38s252i3
+
+  AP010888.1       2140771 GGGCGCGGGCGC-TGC-C-GGTGCGGGCGCGGGCGC 2140803
+                                       -v  - -  i              
+  (GGGCGC)n#Sim          1 GGGCGCGGGCGCGGGCGCGGGCGCGGGCGCGGGCGC 36
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (1/1)
+Gap_init rate = 0.09 (3 / 32), avg. gap size = 1.00 (3 / 3)
+
+12 26.85 0.00 0.00 AP010888.1 2144453 2144492 (240672) (GGCTTCC)n#Simple_repeat 1 40 (0) m_b38s252i4
+
+  AP010888.1       2144453 GGCTTCGGGCTTCCGGCTTGCGCAGGCTGGGTTTCGGCTT 2144492
+                                 v            v  vvvv i  v  i      
+  (GGCTTCC)n#Si          1 GGCTTCCGGCTTCCGGCTTCCGGCTTCCGGCTTCCGGCTT 40
+
+Matrix = Unknown
+Transitions / transversions = 0.29 (2/7)
+Gap_init rate = 0.00 (0 / 39), avg. gap size = 0.0 (0 / 0)
+
+12 15.22 8.70 2.04 AP010888.1 2168723 2168768 (216396) (CGGACGC)n#Simple_repeat 1 49 (0) m_b39s252i0
+
+  AP010888.1       2168723 CGGCCG-CGGAGGCCGTCACGGAGGCCG-CGGA--CCGGACGCCGGACGC 2168768
+                              v  -    v    -v   vv  v  -    --               
+  (CGGACGC)n#Si          1 CGGACGCCGGACGCCG-GACGCCGGACGCCGGACGCCGGACGCCGGACGC 49
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/6)
+Gap_init rate = 0.09 (4 / 45), avg. gap size = 1.25 (5 / 4)
+
+14 20.23 0.00 0.00 AP010888.1 2168766 2168799 (216365) (CGCGTC)n#Simple_repeat 1 34 (0) m_b39s252i1
+
+  AP010888.1       2168766 CGCGTCCGCGTCGGCGTTCACATCCGCGAGCGCG 2168799
+                                       v    i i i      vv    
+  (CGCGTC)n#Sim          1 CGCGTCCGCGTCCGCGTCCGCGTCCGCGTCCGCG 34
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (3/3)
+Gap_init rate = 0.00 (0 / 33), avg. gap size = 0.0 (0 / 0)
+
+235 20.32 0.00 4.35 AP010888.1 2180244 2180315 (204849) rnd-1_family-0 14 82 (1) m_b39s001i0
+
+  AP010888.1       2180244 GCAGCAGCGTTTGGTGGCCATCGCCCGTGCAATCAGCACCGAGGCCGAGG 2180293
+                                    i---              i  iv viv  ?    v vi  v
+  rnd-1_family-         14 GCAGCAGCGC---GTGGCCATCGCCCGCGCGCTGGCCANCGAGCCGAAGC 60
+
+  AP010888.1       2180294 TGCTGATCCTCGACGAGCCGAC 2180315
+                             ?  v  vi            
+  rnd-1_family-         61 TGNTGCTCGCCGACGAGCCGAC 82
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 19.11
+Transitions / transversions = 0.75 (6/8)
+Gap_init rate = 0.04 (3 / 71), avg. gap size = 1.00 (3 / 3)
+
+14 22.50 0.00 6.12 AP010888.1 2199080 2199131 (186033) (AGGCCG)n#Simple_repeat 1 49 (0) m_b39s252i2
+
+  AP010888.1       2199080 AGGGCGAGGCTCGCAAGTGCAAGGCCGAGGCCGACGCAGACGGCAAGGCC 2199129
+                              v      -  --  vv i             v  v  v v i     
+  (AGGCCG)n#Sim          1 AGGCCGAGGC-CG--AGGCCGAGGCCGAGGCCGAGGCCGAGGCCGAGGCC 47
+
+  AP010888.1       2199130 GA 2199131
+                             
+  (AGGCCG)n#Sim         48 GA 49
+
+Matrix = Unknown
+Transitions / transversions = 0.29 (2/7)
+Gap_init rate = 0.06 (3 / 51), avg. gap size = 1.00 (3 / 3)
+
+13 34.18 2.82 0.00 AP010888.1 2204159 2204229 (180935) (CATACG)n#Simple_repeat 1 73 (0) m_b39s252i3
+
+  AP010888.1       2204159 CATACGCATTCGCACACGTATCCGCGCACCCAT-C-CGTACGCACGCCCA 2204206
+                                    v    i   i  v   ii  v   - - i      ii v  
+  (CATACG)n#Sim          1 CATACGCATACGCATACGCATACGCATACGCATACGCATACGCATACGCA 50
+
+  AP010888.1       2204207 CGCACATCCGCACACACTTCCGC 2204229
+                           ii i   v    i  i v v   
+  (CATACG)n#Sim         51 TACGCATACGCATACGCATACGC 73
+
+Matrix = Unknown
+Transitions / transversions = 1.71 (12/7)
+Gap_init rate = 0.03 (2 / 70), avg. gap size = 1.00 (2 / 2)
+
+1009 15.31 0.51 0.51 AP010888.1 2206461 2206657 (178507) C rnd-1_family-1 (3) 199 3 m_b39s001i1
+
+  AP010888.1       2206461 TCTCCCTTTGCAGGGGCTGATTTCACATGTTCCGGAGGTCTACTTCCGTT 2206510
+                                v   vv             i i v iv                  
+C rnd-1_family-        199 TCTCCGTTTCGAGGGGCTGATTTCGCGTTTCGCGGAGGTCTACTTCCGTT 150
+
+  AP010888.1       2206511 TCAAGGGGCTCCTCATCCGGTGAAGCACCGATACAAACGGCTTTGACGCA 2206560
+                                     v?   ?    ?i  v ? vii  i       ? i vvv  
+C rnd-1_family-        149 TCAAGGGGCTGNTCANCCGGNAAACCNCGAGTATAAACGGCNTCGCGCCA 100
+
+  AP010888.1       2206561 ACGCTATTCCGCCATTTTGGCGGCGT-ATCTACTTGACCATCAGCCCCTC 2206609
+                               i        i      -i    -i      i iv            
+C rnd-1_family-         99 ACGCCATTCCGCCGTTTTGG-AGCGTTGTCTACTCGGGCATCAGCCCCTC 51
+
+  AP010888.1       2206610 GAAACGCAAGTAGACCTCCGGCAAACCCCAAATCAGCCCCTTGAAACG 2206657
+                                 v              ?   vv              i      
+C rnd-1_family-         50 GAAACGGAAGTAGACCTCCGGNAAAGGCCAAATCAGCCCCTCGAAACG 3
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 13.64
+Transitions / transversions = 1.00 (15/15)
+Gap_init rate = 0.01 (2 / 196), avg. gap size = 1.00 (2 / 2)
+
+13 20.05 2.38 2.38 AP010888.1 2219792 2219833 (165331) (GCGACA)n#Simple_repeat 1 42 (0) m_b40s252i0
+
+  AP010888.1       2219792 GCGGCAGCGGCCAGC-AGAGCGACAGCGCCAGCGATGGCGGCA 2219833
+                              i    - v    - v          v      ii   i  
+  (GCGACA)n#Sim          1 GCGACAGC-GACAGCGACAGCGACAGCGACAGCGACAGCGACA 42
+
+Matrix = Unknown
+Transitions / transversions = 1.33 (4/3)
+Gap_init rate = 0.05 (2 / 41), avg. gap size = 1.00 (2 / 2)
+
+15 21.28 5.26 1.69 AP010888.1 2226367 2226423 (158741) (GCCGCCA)n#Simple_repeat 1 59 (0) m_b40s252i1
+
+  AP010888.1       2226367 GCCGCTAGCCAGTCAGCCGCCAACAGCCAACAGCCA--C-CCAACCAATA 2226413
+                                i    - i         i v    i v    -- -   i  ivi 
+  (GCCGCCA)n#Si          1 GCCGCCAGCC-GCCAGCCGCCAGCCGCCAGCCGCCAGCCGCCAGCCGCCA 49
+
+  AP010888.1       2226414 GCCGCCAGCC 2226423
+                                     
+  (GCCGCCA)n#Si         50 GCCGCCAGCC 59
+
+Matrix = Unknown
+Transitions / transversions = 2.33 (7/3)
+Gap_init rate = 0.05 (3 / 56), avg. gap size = 1.33 (4 / 3)
+
+14 7.82 0.00 6.90 AP010888.1 2229938 2229968 (155196) (TTCGC)n#Simple_repeat 1 29 (0) m_b40s252i2
+
+  AP010888.1       2229938 TTCGCTTTCCGCTTCGCTTCGCATCGCATCG 2229968
+                                -  -             v    v   
+  (TTCGC)n#Simp          1 TTCGC-TT-CGCTTCGCTTCGCTTCGCTTCG 29
+
+Matrix = Unknown
+Transitions / transversions = 0.00 (0/2)
+Gap_init rate = 0.07 (2 / 30), avg. gap size = 1.00 (2 / 2)
+
+11 21.27 2.50 2.50 AP010888.1 2231193 2231232 (153932) (TCGGCG)n#Simple_repeat 1 40 (0) m_b40s252i3
+
+  AP010888.1       2231193 TCGGCGTCGGCGTCCGTATTGGCGGCGGACTTC-GCATCGG 2231232
+                                         v ii i    v   - v  -  i    
+  (TCGGCG)n#Sim          1 TCGGCGTCGGCGTCGGCGTCGGCGTCGG-CGTCGGCGTCGG 40
+
+Matrix = Unknown
+Transitions / transversions = 1.33 (4/3)
+Gap_init rate = 0.05 (2 / 39), avg. gap size = 1.00 (2 / 2)
+
+402 18.07 0.00 0.00 AP010888.1 2232126 2232208 (152956) C rnd-1_family-0 (0) 83 1 m_b40s001i0
+
+  AP010888.1       2232126 GGTCGGCTCATCGCACAACAGCAGCTTCGGCTTTTTGGCAATCGCGCGGG 2232175
+                                    i   vvv i  ?           iv?    v v        
+C rnd-1_family-         83 GGTCGGCTCGTCGGCGAGCANCAGCTTCGGCTCGNTGGCCAGCGCGCGGG 34
+
+  AP010888.1       2232176 CGATGGATACACGCTGTTGTTCGCCGCCGGACA 2232208
+                                 vi  i     i  i v           
+C rnd-1_family-         33 CGATGGCCACGCGCTGCTGCTGGCCGCCGGACA 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 16.97
+Transitions / transversions = 0.88 (7/8)
+Gap_init rate = 0.00 (0 / 82), avg. gap size = 0.0 (0 / 0)
+
+12 17.53 3.12 0.00 AP010888.1 2233400 2233431 (151733) (CGCCCG)n#Simple_repeat 1 33 (0) m_b40s252i4
+
+  AP010888.1       2233400 CGCCTGCTCAC-CGGCCGCGCCCACGCCCGCGC 2233431
+                               i  v v -  v        i         
+  (CGCCCG)n#Sim          1 CGCCCGCGCCCGCGCCCGCGCCCGCGCCCGCGC 33
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.03 (1 / 31), avg. gap size = 1.00 (1 / 1)
+
+15 19.43 2.33 2.33 AP010888.1 2258912 2258954 (126210) (GGC)n#Simple_repeat 1 43 (0) m_b40s252i5
+
+  AP010888.1       2258912 GGC-GCGGCGCTTGCGGAAGGCGTAGGCGGCGCCGGCGGCGGCG 2258954
+                              -      viv    -v    vv       v           
+  (GGC)n#Simple          1 GGCGGCGGCGGCGGCGG-CGGCGGCGGCGGCGGCGGCGGCGGCG 43
+
+Matrix = Unknown
+Transitions / transversions = 0.17 (1/6)
+Gap_init rate = 0.05 (2 / 42), avg. gap size = 1.00 (2 / 2)
+
+41 0.00 0.00 0.00 AP010888.1 2277088 2277125 (108039) (CAGTCTGGG)n#Simple_repeat 1 38 (0) c_b41s251i0
+
+  AP010888.1       2277088 CAGTCTGGGCAGTCTGGGCAGTCTGGGCAGTCTGGGCA 2277125
+                                                                 
+  (CAGTCTGGG)n#          1 CAGTCTGGGCAGTCTGGGCAGTCTGGGCAGTCTGGGCA 38
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (0/0)
+Gap_init rate = 0.00 (0 / 37), avg. gap size = 0.0 (0 / 0)
+
+423 20.95 0.95 0.00 AP010888.1 2327845 2327949 (57215) C rnd-1_family-3 (19) 125 20 m_b42s001i0
+
+  AP010888.1       2327845 CCCATGGGGCGGTAACTC-CCCATGGGGCGGTTAGCATATTTTCCTTTTT 2327893
+                                            i-              v v v vv  vivvvvi
+C rnd-1_family-        125 CCCATGGGGCGGTAACTTGCCCATGGGGCGGTTTGAAGAAATTGTGAAAC 76
+
+  AP010888.1       2327894 CGCGGAATAATGCCGTTTTCAGCGACCGCCCCATGGGATAGTTACCGCCC 2327943
+                                     v         i? v           i ivvv         
+C rnd-1_family-         75 CGCGGAATAAAGCCGTTTTCGNCTACCGCCCCATGAGGGTTTTACCGCCC 26
+
+  AP010888.1       2327944 CATGAG 2327949
+                               i 
+C rnd-1_family-         25 CATGGG 20
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 23.67
+Transitions / transversions = 0.47 (7/15)
+Gap_init rate = 0.01 (1 / 104), avg. gap size = 1.00 (1 / 1)
+
+13 25.69 0.00 0.00 AP010888.1 2338365 2338401 (46763) (GTT)n#Simple_repeat 1 37 (0) m_b42s252i0
+
+  AP010888.1       2338365 GTTGTAGTTGCTGCCATTGTTGTTGTTGTAGGTGATG 2338401
+                                v    i  iii             v v  v  
+  (GTT)n#Simple          1 GTTGTTGTTGTTGTTGTTGTTGTTGTTGTTGTTGTTG 37
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (4/4)
+Gap_init rate = 0.00 (0 / 36), avg. gap size = 0.0 (0 / 0)
+
+13 26.58 1.43 5.97 AP010888.1 2339081 2339150 (46014) (TGAAGG)n#Simple_repeat 1 67 (0) m_b42s252i1
+
+  AP010888.1       2339081 TGAAGTTGAAGGTGTAGGTGTCATAGGCGGACATGTCTG-GAATGGTGGA 2339129
+                                v        v     -- -   i i vi  vvv -   -    i 
+  (TGAAGG)n#Sim          1 TGAAGGTGAAGGTGAAGGTG--A-AGGTGAAGGTGAAGGTGAA-GGTGAA 46
+
+  AP010888.1       2339130 GGTCAGGGTGAAGGTCAGGGT 2339150
+                              v i         v i   
+  (TGAAGG)n#Sim         47 GGTGAAGGTGAAGGTGAAGGT 67
+
+Matrix = Unknown
+Transitions / transversions = 0.75 (6/8)
+Gap_init rate = 0.07 (5 / 69), avg. gap size = 1.00 (5 / 5)
+
+12 23.47 0.00 0.00 AP010888.1 2339492 2339526 (45638) (CGTTGT)n#Simple_repeat 1 35 (0) m_b42s252i2
+
+  AP010888.1       2339492 CGTAGTCGTTTGCTTTATCGTTGACGTTCTCGTTG 2339526
+                              v      vv v  i      v    v      
+  (CGTTGT)n#Sim          1 CGTTGTCGTTGTCGTTGTCGTTGTCGTTGTCGTTG 35
+
+Matrix = Unknown
+Transitions / transversions = 0.17 (1/6)
+Gap_init rate = 0.00 (0 / 34), avg. gap size = 0.0 (0 / 0)
+
+262 27.50 0.00 0.00 AP010888.1 2348998 2349077 (36087) C rnd-1_family-0 (3) 80 1 m_b42s001i1
+
+  AP010888.1       2348998 CGGCTCATCCATGAGGAAGACCTTCGGCTCACGGACGATTGCACGACCCA 2349047
+                                 i  vii   v ?v v         i?v i v vi  i  iv v 
+C rnd-1_family-         80 CGGCTCGTCGGCGAGCANCAGCTTCGGCTCGNTGGCCAGCGCGCGGGCGA 31
+
+  AP010888.1       2349048 TGGCCACACGCTGACGCTGACCACCGGACA 2349077
+                                  i     vi    i  i       
+C rnd-1_family-         30 TGGCCACGCGCTGCTGCTGGCCGCCGGACA 1
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 23.44
+Transitions / transversions = 1.20 (12/10)
+Gap_init rate = 0.00 (0 / 79), avg. gap size = 0.0 (0 / 0)
+
+1021 18.37 0.00 0.00 AP010888.1 2355681 2355876 (29288) rnd-1_family-1 4 199 (3) m_b42s001i2
+
+  AP010888.1       2355681 GTTTCGAGGGGCTGTTTTGACCCTTTCCGGAGATCTATCTCCGTTTCGAG 2355730
+                                         v    i  i  ?      i    ii           
+  rnd-1_family-          4 GTTTCGAGGGGCTGATTTGGCCTTTNCCGGAGGTCTACTTCCGTTTCGAG 53
+
+  AP010888.1       2355731 GGGCTGGTACTCAAGTAAGCGCATCCCCAAAATGGCGGAATGACGGTGGG 2355780
+                                 i i i i    ii ivvv i      i         i  v   v
+  rnd-1_family-         54 GGGCTGATGCCCGAGTAGACAACGCTCCAAAACGGCGGAATGGCGTTGGC 103
+
+  AP010888.1       2355781 GCGAAGCCGTTTATACCCGTGTTCTAGCGGGCCACCAGCCCCTCGAAACG 2355830
+                               ?           i  ? v i ?v   ?iv ?        i      
+  rnd-1_family-        104 GCGANGCCGTTTATACTCGNGGTTTNCCGGNTGANCAGCCCCTTGAAACG 153
+
+  AP010888.1       2355831 GGAGTAAACCTCTACGGAAGGCCAAATCAGCCCCTCGAAGCGGAGA 2355876
+                            i    i     ii  i  v  v                i      
+  rnd-1_family-        154 GAAGTAGACCTCCGCGAAACGCGAAATCAGCCCCTCGAAACGGAGA 199
+
+Matrix = 20p53g.matrix
+Kimura (with divCpGMod) = 20.31
+Transitions / transversions = 2.27 (25/11)
+Gap_init rate = 0.00 (0 / 195), avg. gap size = 0.0 (0 / 0)
+
+12 22.64 2.33 2.33 AP010888.1 2362177 2362219 (22945) (CGAGCG)n#Simple_repeat 1 43 (0) m_b42s252i3
+
+  AP010888.1       2362177 CGAACCCCAGCTTGAGCGCGAGGGCAAACGCG-GCGGCGAGCGC 2362219
+                              i v v   vi         v  i i    -  -        
+  (CGAGCG)n#Sim          1 CGAGCGCGAGCGCGAGCGCGAGCGCGAGCGCGAGC-GCGAGCGC 43
+
+Matrix = Unknown
+Transitions / transversions = 1.00 (4/4)
+Gap_init rate = 0.05 (2 / 42), avg. gap size = 1.00 (2 / 2)
+
+16 33.10 1.35 1.35 AP010888.1 2365359 2365432 (19732) (AAC)n#Simple_repeat 1 74 (0) m_b42s252i4
+
+  AP010888.1       2365359 AACAATGCCAACAAC-ACAGGCGACAAGAACAACAGCAGCTCTGGCAACA 2365407
+                                iiv       -   -i i    v       i  i vviii     
+  (AAC)n#Simple          1 AACAACAACAACAACAACA-ACAACAACAACAACAACAACAACAACAACA 49
+
+  AP010888.1       2365408 ACACGAACACCGATACCAACAACAA 2365432
+                              vv    v i i v         
+  (AAC)n#Simple         50 ACAACAACAACAACAACAACAACAA 74
+
+Matrix = Unknown
+Transitions / transversions = 1.38 (11/8)
+Gap_init rate = 0.03 (2 / 73), avg. gap size = 1.00 (2 / 2)
+
+32 12.31 0.00 0.00 AP010888.1 2365455 2365516 (19648) (AACTCCGGT)n#Simple_repeat 1 62 (0) c_b42s251i0
+
+  AP010888.1       2365455 AACTCCGGTAACTCCGGTAACACCGGCAATTCCGGTAACACTGGTAATTC 2365504
+                                                v    i  i         v i     i  
+  (AACTCCGGT)n#          1 AACTCCGGTAACTCCGGTAACTCCGGTAACTCCGGTAACTCCGGTAACTC 50
+
+  AP010888.1       2365505 CGGTAACACCGG 2365516
+                                  v    
+  (AACTCCGGT)n#         51 CGGTAACTCCGG 62
+
+Matrix = Unknown
+Transitions / transversions = 1.33 (4/3)
+Gap_init rate = 0.00 (0 / 61), avg. gap size = 0.0 (0 / 0)
+
+12 15.30 5.26 2.56 AP010888.1 2370474 2370511 (14653) (CGAGGC)n#Simple_repeat 1 39 (0) m_b42s252i5
+
+  AP010888.1       2370474 CGAGGCCGGTGCCGA-GACGATTGCCGAGGTCGA-GCCGA 2370511
+                                   iv     - v   -v       i   -     
+  (CGAGGC)n#Sim          1 CGAGGCCGAGGCCGAGGCCGA-GGCCGAGGCCGAGGCCGA 39
+
+Matrix = Unknown
+Transitions / transversions = 0.67 (2/3)
+Gap_init rate = 0.08 (3 / 37), avg. gap size = 1.00 (3 / 3)
+
+12 23.31 0.00 0.00 AP010888.1 2383052 2383086 (2078) (TGGCCT)n#Simple_repeat 1 35 (0) m_b42s252i6
+
+  AP010888.1       2383052 TGGCCTTACGCTCGGCCTCTTCCTTGGCCTTGGCC 2383086
+                                  ivv  i     ivv              
+  (TGGCCT)n#Sim          1 TGGCCTTGGCCTTGGCCTTGGCCTTGGCCTTGGCC 35
+
+Matrix = Unknown
+Transitions / transversions = 0.75 (3/4)
+Gap_init rate = 0.00 (0 / 34), avg. gap size = 0.0 (0 / 0)
+
+## Batch Overlap Boundaries
+##   AP010888.1  58741, 56742, 115483, 113484, 172225, 170226, 228967, 226968, 285709, 283710, 342451, 340452, 399193, 397194, 455935, 453936, 512677, 510678, 569419, 567420, 626161, 624162, 682903, 680904, 739645, 737646, 796387, 794388, 853129, 851130, 909871, 907872, 966613, 964614, 1023355, 1021356, 1080097, 1078098, 1136839, 1134840, 1193581, 1191582, 1250323, 1248324, 1307065, 1305066, 1363807, 1361808, 1420549, 1418550, 1477291, 1475292, 1534033, 1532034, 1590775, 1588776, 1647517, 1645518, 1704259, 1702260, 1761001, 1759002, 1817743, 1815744, 1874485, 1872486, 1931227, 1929228, 1987969, 1985970, 2044711, 2042712, 2101453, 2099454, 2158195, 2156196, 2214937, 2212938, 2271679, 2269680, 2328421, 2326422
+## Total Sequences: 1
+## Total Length: 2385164
+## Total NonMask ( excluding >20bp runs of N/X bases ): 2385164
+## Total NonSub ( excluding all non ACGT bases ):2385164
+RepeatMasker version open-4.0.9 , default mode
+run with rmblastn version 2.14.1+
+RepeatMasker Combined Database: Dfam-Dfam_3.0
